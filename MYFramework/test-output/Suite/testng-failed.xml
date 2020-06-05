@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="helper.Analyzer.MyTransformer"/>
+    <listener class-name="helper.Extendreport.ExtentReport"/>
+  </listeners>
+  <test name="MyFramework(failed)" parallel="tests">
+    <classes>
+      <class name="test.CreateRequisitionTest">
+        <methods>
+          <include name="SetUP"/>
+          <include name="EnterMandetoryFieldTest"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- test.CreateRequisitionTest -->
+    </classes>
+  </test> <!-- MyFramework(failed) -->
+</suite> <!-- Failed suite [Suite] -->

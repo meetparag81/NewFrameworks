@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="262109" started-at="2020-04-20T05:36:41Z" finished-at="2020-04-20T05:41:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="262109" started-at="2020-04-20T05:36:41Z" finished-at="2020-04-20T05:41:04Z">
+      <class name="test.HireEmployeePageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:test.HireEmployeePageTest@6c5945a7]" name="SetUp" is-config="true" duration-ms="212807" started-at="2020-04-20T11:06:41Z" finished-at="2020-04-20T11:10:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="HireEmployeePageTest()[pri:0, instance:test.HireEmployeePageTest@6c5945a7]" name="HireEmployeePageTest" duration-ms="47846" started-at="2020-04-20T11:10:14Z" finished-at="2020-04-20T11:11:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HireEmployeePageTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:test.HireEmployeePageTest@6c5945a7]" name="TearDown" is-config="true" duration-ms="1009" started-at="2020-04-20T11:11:03Z" finished-at="2020-04-20T11:11:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- test.HireEmployeePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

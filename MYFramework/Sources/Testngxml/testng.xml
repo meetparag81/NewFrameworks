@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+<listeners>
+<listener class-name="helper.Analyzer.MyTransformer" />
+<listener class-name="helper.Extendreport.ExtentReport" />
+</listeners>
+  <test thread-count="5" name="MyFramework" parallel="tests">
+    <classes>
+      <class name="test.HomePageTest"/>
+      <class name="test.CreateRequisitionTest"/>
+      <class name="MYFramework.MYFramework.AppTest"/>
+    </classes>
+  </test> <!-- MyFramework -->
+</suite> <!-- Suite -->
