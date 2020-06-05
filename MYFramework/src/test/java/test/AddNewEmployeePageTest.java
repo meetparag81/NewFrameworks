@@ -35,6 +35,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import com.github.javafaker.Faker;
 
+import helper.Excelhelper.Exls_Reader;
+import helper.resorce.ResourceHelper;
+
 	public class AddNewEmployeePageTest extends Corehelper {
 
 		//variables 
@@ -83,11 +86,13 @@ import com.github.javafaker.Faker;
 		static int totalPassed=0;
 		static int totalFailed=0;
 		static int totalrunrecords=0;
-
+		static Exls_Reader reader = new Exls_Reader(ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata\\Frameworkworksheet.xlsx"));
 		public static  void main(String[] args) throws EncryptedDocumentException, InvalidFormatException, IOException, ParseException {
-
+			String outputtemplate = reader.getCellData("AddNewEmployeeTest", "outputtemplate", 1);
+			String URL = reader.getCellData("AddNewEmployeeTest", "URL", 1);
+			String inputtemplate = reader.getCellData("AddNewEmployeeTest", "inputtemplate", 1);
 			//Call the HireNewEmployee Script
-			//executeScript("outputtemplate","url","inputtemplate", "username", "password","No","No");
+			//executeScript(outputtemplate,URL,inputtemplate, "username", "password","No","No");
 
 			//executeScript("outputtemplate","url","inputtemplate", "username", "password","No","No");
 			//executeScript("outputtemplate","url","inputtemplate", "username", "password","No","No");
