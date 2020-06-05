@@ -87,10 +87,10 @@ import com.github.javafaker.Faker;
 		public static  void main(String[] args) throws EncryptedDocumentException, InvalidFormatException, IOException, ParseException {
 
 			//Call the HireNewEmployee Script
-			//executeScript("C:\\Users\\parag.borawake\\RESOURCES\\FMS\\20200421184720\\OutputHireMyConcerto.xlsx","https://performancemanager8.successfactors.com/sf/home?bplte_company=BPOCUSTOM10#Shell-home","C:\\WorkingfolderPB\\DSGdata\\CompanycodeTemplates\\Template_Hire_MyConcerto.xlsx","HireEmployee","Hire", "", "bparag", "pBorprg@81", "No", "No");
+			//executeScript("outputtemplate","url","inputtemplate", "username", "password","No","No");
 
-			//executeScript("C://Users//akshay.jagannath//RESOURCES//FMS//OutputHirePeloton.xlsx","https://performancemanager4.successfactors.com/","C://Users//akshay.jagannath//git//sfautotoolcde//Templates//Template_Hire_Pelaton.xlsx","HireEmployee","Hire", "pelotonintD", "anshul.makan@accenture.com", "Akshay@1234","No","No");
-			//executeScript("C:\\\\Users\\\\parag.borawake\\RESOURCES\\FMS\\20200421184720\\OutputHireMyConcerto.xlsx","https://pm8-cncdn.successfactors.com/login","C:\\WorkingfolderPB\\DSGdata\\CompanycodeTemplates\\Template_Hire_ITA_V2.xlsx","HireEmployee","Hire", "PepsiCoECSAND", "RPAUSER", "Akshay@1234","No","No");
+			//executeScript("outputtemplate","url","inputtemplate", "username", "password","No","No");
+			//executeScript("outputtemplate","url","inputtemplate", "username", "password","No","No");
 		}
 
 		public static String executeScript(String filePath,String sURL, String templateFile,String templateName,String templateSheet, String CompanyID,String userName,String password,String ExecuteinBackground,String SavetoInstance) throws EncryptedDocumentException, InvalidFormatException, IOException, ParseException {
