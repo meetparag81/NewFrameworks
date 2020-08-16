@@ -2859,3 +2859,13 @@ Session ID: 3896972b3704f39044bf55a7da572a31
 2020-04-20 11:11:00 INFO  Pickhelper:97 - ElementHire Employee - Acquisition (HIR_ACQ)isclicked
 2020-04-20 11:11:02 INFO  TestNGListners:79 - screenshot for passed testcase started
 2020-04-20 11:11:03 INFO  TestUtil:135 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\MyFramework_new\MYFramework/PassesTestsScreenshots/HireEmployeePageTest20,04,2020,11-11-02.png
+2020-08-16 19:32:56 INFO  TestBase:62 -  chrome driver initalized
+2020-08-16 19:32:57 INFO  TestBase:71 -  Window is miximized
+2020-08-16 19:33:01 INFO  TestBase:82 - url is launched
+2020-08-16 19:33:01 INFO  TestNGListners:86 - screenshot for passed testcase started
+2020-08-16 19:33:02 INFO  TestUtil:134 -  Failed screenshot saved at DestinationLocationC:\Users\Parag\git\newFramework\MYFramework/PassesTestsScreenshots/AppTestForPassCondition16,08,2020,07-33-01.png
+2020-08-16 19:56:25 INFO  TestBase:62 -  chrome driver initalized
+2020-08-16 19:56:26 INFO  TestBase:71 -  Window is miximized
+2020-08-16 19:56:29 INFO  TestBase:82 - url is launched
+2020-08-16 19:56:56 INFO  TestNGListners:86 - screenshot for passed testcase started
+2020-08-16 19:56:56 INFO  TestUtil:134 -  Failed screenshot saved at DestinationLocationC:\Users\Parag\git\newFramework\MYFramework/PassesTestsScreenshots/AppTestForPassCondition16,08,2020,07-56-56.png
