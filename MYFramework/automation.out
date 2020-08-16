@@ -2869,3 +2869,70 @@ Session ID: 3896972b3704f39044bf55a7da572a31
 2020-08-16 19:56:29 INFO  TestBase:82 - url is launched
 2020-08-16 19:56:56 INFO  TestNGListners:86 - screenshot for passed testcase started
 2020-08-16 19:56:56 INFO  TestUtil:134 -  Failed screenshot saved at DestinationLocationC:\Users\Parag\git\newFramework\MYFramework/PassesTestsScreenshots/AppTestForPassCondition16,08,2020,07-56-56.png
+2020-08-16 20:20:12 INFO  TestBase:62 -  chrome driver initalized
+2020-08-16 20:20:14 INFO  TestBase:71 -  Window is miximized
+2020-08-16 20:20:17 INFO  TestBase:82 - url is launched
+2020-08-16 20:24:14 INFO  TestBase:62 -  chrome driver initalized
+2020-08-16 20:24:15 INFO  TestBase:71 -  Window is miximized
+2020-08-16 20:24:22 INFO  TestBase:82 - url is launched
+2020-08-16 20:37:26 INFO  TestBase:62 -  chrome driver initalized
+2020-08-16 20:37:27 INFO  TestBase:71 -  Window is miximized
+2020-08-16 20:37:31 INFO  TestBase:82 - url is launched
+2020-08-16 20:37:49 INFO  TestNGListners:44 - screenshot for failtestcase is started
+2020-08-16 20:37:49 INFO  TestNGListners:46 - screenshot for failtestcase is taken
+2020-08-16 20:37:50 INFO  TestUtil:126 - Screenshot Name isAppTestForPassCondition.png
+2020-08-16 20:37:50 INFO  TestUtil:134 -  Failed screenshot saved at DestinationLocationC:\Users\Parag\git\newFramework\MYFramework/FailedTestsScreenshots/AppTestForPassCondition16,08,2020,08-37-49.png
+2020-08-16 20:37:53 INFO  TestBase:62 -  chrome driver initalized
+2020-08-16 20:37:54 INFO  TestBase:71 -  Window is miximized
+2020-08-16 20:37:58 INFO  TestBase:82 - url is launched
+2020-08-16 20:42:51 INFO  TestBase:62 -  chrome driver initalized
+2020-08-16 20:42:52 INFO  TestBase:71 -  Window is miximized
+2020-08-16 20:42:57 INFO  TestBase:82 - url is launched
+2020-08-16 20:43:53 INFO  TestNGListners:44 - screenshot for failtestcase is started
+2020-08-16 20:43:53 INFO  TestNGListners:46 - screenshot for failtestcase is taken
+2020-08-16 20:43:54 INFO  TestUtil:126 - Screenshot Name isAppTestForPassCondition.png
+2020-08-16 20:43:54 INFO  TestUtil:134 -  Failed screenshot saved at DestinationLocationC:\Users\Parag\git\newFramework\MYFramework/FailedTestsScreenshots/AppTestForPassCondition16,08,2020,08-43-53.png
+2020-08-16 20:43:57 INFO  TestBase:62 -  chrome driver initalized
+2020-08-16 20:43:59 INFO  TestBase:71 -  Window is miximized
+2020-08-16 20:44:01 INFO  TestBase:82 - url is launched
+2020-08-16 20:46:23 INFO  TestBase:62 -  chrome driver initalized
+2020-08-16 20:46:25 INFO  TestBase:71 -  Window is miximized
+2020-08-16 20:46:30 INFO  TestBase:82 - url is launched
+2020-08-16 20:51:14 INFO  TestBase:62 -  chrome driver initalized
+2020-08-16 20:51:15 INFO  TestBase:71 -  Window is miximized
+2020-08-16 20:51:19 INFO  TestBase:82 - url is launched
+2020-08-16 20:54:19 INFO  TestBase:62 -  chrome driver initalized
+2020-08-16 20:54:20 INFO  TestBase:71 -  Window is miximized
+2020-08-16 20:54:25 INFO  TestBase:82 - url is launched
+2020-08-16 20:57:44 INFO  TestBase:62 -  chrome driver initalized
+2020-08-16 20:57:45 INFO  TestBase:71 -  Window is miximized
+2020-08-16 20:57:51 INFO  TestBase:82 - url is launched
+2020-08-16 20:59:27 INFO  TestBase:62 -  chrome driver initalized
+2020-08-16 20:59:28 INFO  TestBase:71 -  Window is miximized
+2020-08-16 20:59:31 INFO  TestBase:82 - url is launched
+2020-08-16 22:03:56 INFO  TestBase:62 -  chrome driver initalized
+2020-08-16 22:03:57 INFO  TestBase:71 -  Window is miximized
+2020-08-16 22:04:02 INFO  TestBase:82 - url is launched
+2020-08-16 22:06:10 INFO  TestNGListners:44 - screenshot for failtestcase is started
+2020-08-16 22:06:10 INFO  TestNGListners:46 - screenshot for failtestcase is taken
+2020-08-16 22:06:10 INFO  TestUtil:126 - Screenshot Name isAppTestForPassCondition.png
+2020-08-16 22:06:10 INFO  TestUtil:134 -  Failed screenshot saved at DestinationLocationC:\Users\Parag\git\newFramework\MYFramework/FailedTestsScreenshots/AppTestForPassCondition16,08,2020,10-06-10.png
+2020-08-16 22:06:14 INFO  TestBase:62 -  chrome driver initalized
+2020-08-16 22:06:16 INFO  TestBase:71 -  Window is miximized
+2020-08-16 22:06:19 INFO  TestBase:82 - url is launched
+2020-08-16 22:06:31 INFO  TestNGListners:44 - screenshot for failtestcase is started
+2020-08-16 22:06:31 INFO  TestNGListners:46 - screenshot for failtestcase is taken
+2020-08-16 22:06:31 INFO  TestUtil:126 - Screenshot Name isAppTestForFailCondition.png
+2020-08-16 22:06:31 INFO  TestUtil:134 -  Failed screenshot saved at DestinationLocationC:\Users\Parag\git\newFramework\MYFramework/FailedTestsScreenshots/AppTestForFailCondition16,08,2020,10-06-31.png
+2020-08-16 22:08:33 INFO  TestBase:62 -  chrome driver initalized
+2020-08-16 22:08:34 INFO  TestBase:71 -  Window is miximized
+2020-08-16 22:08:40 INFO  TestBase:82 - url is launched
+2020-08-16 22:22:05 INFO  TestBase:62 -  chrome driver initalized
+2020-08-16 22:22:06 INFO  TestBase:71 -  Window is miximized
+2020-08-16 22:22:10 INFO  TestBase:82 - url is launched
+2020-08-16 22:24:08 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (32f83bf032d5ea54d077384981c14f91)] -> xpath: //div[text()='Learning Activities']//ancestor::li//span]to be seen for20
+2020-08-16 22:24:22 INFO  TestNGListners:86 - screenshot for passed testcase started
+2020-08-16 22:24:23 INFO  TestUtil:134 -  Failed screenshot saved at DestinationLocationC:\Users\Parag\git\newFramework\MYFramework/PassesTestsScreenshots/AppTestForPassCondition16,08,2020,10-24-22.png
+2020-08-16 22:24:27 INFO  TestBase:62 -  chrome driver initalized
+2020-08-16 22:24:28 INFO  TestBase:71 -  Window is miximized
+2020-08-16 22:24:30 INFO  TestBase:82 - url is launched

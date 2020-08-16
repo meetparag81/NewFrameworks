@@ -1,5 +1,7 @@
 package pages;
 
+import java.util.concurrent.TimeoutException;
+
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -24,11 +26,13 @@ public class HomePage extends TestBase {
 	@FindBy(xpath="//a[text()='Recruiting']")WebElement Recruiter;
 	@FindBy(xpath="//a[contains(text(),'Create New')]")WebElement CreateNew;
 	@FindBy(id="bizXSearchField-I")WebElement searchbox;
-	@FindBy(xpath ="(//b[contains(text(), 'Add New Employee')])[2]//ancestor::li")WebElement addemoloyeeoption;
-	
+	@FindBy(xpath ="//h3[text()='Learning Administration']//ancestor::div[2]")WebElement LearningAdminstratorTile;
+	@FindBy(xpath="//div[text()='Learning Activities']//ancestor::li//span")WebElement LearningActivities;
+
 	
 	private  Logger log=LoggerHelper.GetLogger(HomePage.class)	;
 	Exls_Reader reader = new Exls_Reader(ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata\\Frameworkworksheet.xlsx"));
+	private WebElement addemoloyeeoption;
 	public HomePage(){
 		PageFactory.initElements(driver, this);
 	}
@@ -153,6 +157,23 @@ public class HomePage extends TestBase {
 		
 		
 		return new HireEmployeePage() ;
+	}
+	
+	public void ClickOnTheLearningActivities(){
+		try{
+			TestUtil.VisibleOn(driver, LearningActivities, 20);
+		}
+		catch (Exception e) {
+			log.info(e.getStackTrace());
+		}
+		LearningActivities.click();
+	}
+
+	public void ClickOnTheTile() {
+		TestUtil.ActionForMovetoElement(LearningAdminstratorTile);
+		LearningAdminstratorTile.click();
+		
+		
 	}
 	
 

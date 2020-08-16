@@ -7,24 +7,29 @@ import org.testng.annotations.Test;
 
 import helper.Excelhelper.Exls_Reader;
 import helper.resorce.ResourceHelper;
+import pages.HomePage;
 import pages.LoginPage; 
 
 public class App extends TestBase
 {
 	LoginPage LoginPage;
-	Exls_Reader reader = new Exls_Reader(ResourceHelper.GetResourcePath("\\java\\com_Milan_TestData\\Milandata.xlsx"));
+	Exls_Reader reader = new Exls_Reader("C:\\Users\\Parag\\git\\newFramework\\MYFramework\\src\\main\\java\\helper\\exceldata\\Frameworkworksheet.xlsx");
+	private HomePage Homepage;
 
 	@BeforeMethod
 	public void SetUp()
 	{
 		TestBase.initalization();
 		LoginPage = new LoginPage();
-		String username = reader.getCellData("Login", "Username", 2);
-		String password = reader.getCellData("Login", "Password", 2);
-		LoginPage.login(username, password);
+		//String username = reader.getCellData("Login", "Username", 2);
+		//String password = reader.getCellData("Login", "Password", 2);
+		Homepage= LoginPage.login("bparag", "welcome123");
+		Homepage.ClickOnTheTile();
+		
 	}
   @Test(priority=0)
   public void AppTestForPassCondition(){
+	  Homepage.ClickOnTheLearningActivities();
 	  Assert.assertEquals(true, true, "testcasePassed");
 	  
   }
