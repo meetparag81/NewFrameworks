@@ -1,4 +1,4 @@
-package testBase;
+package MYFramework;
 
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
@@ -8,9 +8,10 @@ import org.testng.annotations.Test;
 import helper.Excelhelper.Exls_Reader;
 import helper.resorce.ResourceHelper;
 import pages.HomePage;
-import pages.LoginPage; 
+import pages.LoginPage;
+import testBase.TestBase; 
 
-public class App extends TestBase
+public class App_Test extends TestBase
 {
 	LoginPage LoginPage;
 	Exls_Reader reader = new Exls_Reader("C:\\Users\\Parag\\git\\newFramework\\MYFramework\\src\\main\\java\\helper\\exceldata\\Frameworkworksheet.xlsx");
