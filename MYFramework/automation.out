@@ -2936,3 +2936,31 @@ Session ID: 3896972b3704f39044bf55a7da572a31
 2020-08-16 22:24:27 INFO  TestBase:62 -  chrome driver initalized
 2020-08-16 22:24:28 INFO  TestBase:71 -  Window is miximized
 2020-08-16 22:24:30 INFO  TestBase:82 - url is launched
+2020-08-17 14:35:28 INFO  TestBase:62 -  chrome driver initalized
+2020-08-17 14:35:31 INFO  TestBase:71 -  Window is miximized
+2020-08-17 14:35:34 INFO  TestBase:82 - url is launched
+2020-08-17 14:43:37 INFO  TestBase:62 -  chrome driver initalized
+2020-08-17 14:43:39 INFO  TestBase:71 -  Window is miximized
+2020-08-17 14:43:42 INFO  TestBase:82 - url is launched
+2020-08-17 14:46:42 INFO  TestBase:62 -  chrome driver initalized
+2020-08-17 14:46:44 INFO  TestBase:71 -  Window is miximized
+2020-08-17 14:46:47 INFO  TestBase:82 - url is launched
+2020-08-17 14:47:56 INFO  TestBase:62 -  chrome driver initalized
+2020-08-17 14:47:59 INFO  TestBase:71 -  Window is miximized
+2020-08-17 14:48:01 INFO  TestBase:82 - url is launched
+2020-08-17 14:51:33 INFO  TestBase:62 -  chrome driver initalized
+2020-08-17 14:51:35 INFO  TestBase:71 -  Window is miximized
+2020-08-17 14:51:41 INFO  TestBase:82 - url is launched
+2020-08-17 14:53:12 INFO  HomePage:167 - [Ljava.lang.StackTraceElement;@41f4fe5
+2020-08-17 15:36:23 INFO  TestBase:62 -  chrome driver initalized
+2020-08-17 15:36:26 INFO  TestBase:71 -  Window is miximized
+2020-08-17 15:36:40 INFO  TestBase:82 - url is launched
+2020-08-17 15:39:24 INFO  HomePage:35 - [Ljava.lang.StackTraceElement;@47ad69f7
+2020-08-17 15:39:25 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (db178d0f69546bb7ff66edbb2e9083ba)] -> xpath: //div[text()='Classes']//ancestor::li]to be seen for5
+2020-08-17 15:40:09 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: (//iframe[contains(@name,'iframe')])[2]'framme
+2020-08-17 15:40:09 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (db178d0f69546bb7ff66edbb2e9083ba)] -> xpath: //td[contains(@class,'BackgroundAlignLeft')][1]//child::span[contains(text(),'Classes')]]to be seen for5
+2020-08-17 15:40:17 INFO  TestNGListners:86 - screenshot for passed testcase started
+2020-08-17 15:40:17 INFO  TestUtil:134 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/PassesTestsScreenshots/AppTestForPassCondition17,08,2020,03-40-17.png
+2020-08-17 15:40:24 INFO  TestBase:62 -  chrome driver initalized
+2020-08-17 15:40:26 INFO  TestBase:71 -  Window is miximized
+2020-08-17 15:40:34 INFO  TestBase:82 - url is launched

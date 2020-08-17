@@ -13,7 +13,7 @@ public class ResourceHelper {
 	{
 		String BasePath = System.getProperty("user.dir");
 				
-				
+				//System.out.println("Base Src folder location is"+ BasePath);
 				return BasePath + path;
 		
 	}

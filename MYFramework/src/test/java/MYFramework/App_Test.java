@@ -8,30 +8,37 @@ import org.testng.annotations.Test;
 import helper.Excelhelper.Exls_Reader;
 import helper.resorce.ResourceHelper;
 import pages.HomePage;
+import pages.LearningAdMinistrationPage;
 import pages.LoginPage;
 import testBase.TestBase; 
 
 public class App_Test extends TestBase
 {
-	LoginPage LoginPage;
-	Exls_Reader reader = new Exls_Reader("C:\\Users\\Parag\\git\\newFramework\\MYFramework\\src\\main\\java\\helper\\exceldata\\Frameworkworksheet.xlsx");
+	 private LoginPage LoginPage;
 	private HomePage Homepage;
+	private LearningAdMinistrationPage LearningAdminPage;
+	Exls_Reader reader = new Exls_Reader(ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata\\Frameworkworksheet.xlsx"));
 
 	@BeforeMethod
 	public void SetUp()
 	{
+		
 		TestBase.initalization();
 		LoginPage = new LoginPage();
-		//String username = reader.getCellData("Login", "Username", 2);
-		//String password = reader.getCellData("Login", "Password", 2);
-		Homepage= LoginPage.login("bparag", "welcome123");
-		Homepage.ClickOnTheTile();
+		System.out.println();
+		String username = reader.getCellData("Login", "Username", 2);
+		String password = reader.getCellData("Login", "Password", 2);
+		Homepage= LoginPage.login(username, password);
+		LearningAdminPage=Homepage.ClickOnTheTile();
+		LearningAdminPage.ClickOnTheLearningActivities();
 		
 	}
   @Test(priority=0)
   public void AppTestForPassCondition(){
-	  Homepage.ClickOnTheLearningActivities();
-	  Assert.assertEquals(true, true, "testcasePassed");
+	  
+	  LearningAdminPage.ClickOnTheClasses();
+	  String actual=LearningAdminPage.GetTitleClasses();
+	  Assert.assertEquals(actual, reader.getCellData("LMS", "ClassesText", 2));
 	  
   }
   @Test(priority=1)

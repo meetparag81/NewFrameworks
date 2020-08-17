@@ -27,7 +27,7 @@ public class HomePage extends TestBase {
 	@FindBy(xpath="//a[contains(text(),'Create New')]")WebElement CreateNew;
 	@FindBy(id="bizXSearchField-I")WebElement searchbox;
 	@FindBy(xpath ="//h3[text()='Learning Administration']//ancestor::div[2]")WebElement LearningAdminstratorTile;
-	@FindBy(xpath="//div[text()='Learning Activities']//ancestor::li//span")WebElement LearningActivities;
+	
 
 	
 	private  Logger log=LoggerHelper.GetLogger(HomePage.class)	;
@@ -159,20 +159,12 @@ public class HomePage extends TestBase {
 		return new HireEmployeePage() ;
 	}
 	
-	public void ClickOnTheLearningActivities(){
-		try{
-			TestUtil.VisibleOn(driver, LearningActivities, 20);
-		}
-		catch (Exception e) {
-			log.info(e.getStackTrace());
-		}
-		LearningActivities.click();
-	}
+	
 
-	public void ClickOnTheTile() {
+	public LearningAdMinistrationPage ClickOnTheTile() {
 		TestUtil.ActionForMovetoElement(LearningAdminstratorTile);
 		LearningAdminstratorTile.click();
-		
+		return new LearningAdMinistrationPage();		
 		
 	}
 	
