@@ -2964,3 +2964,19 @@ Session ID: 3896972b3704f39044bf55a7da572a31
 2020-08-17 15:40:24 INFO  TestBase:62 -  chrome driver initalized
 2020-08-17 15:40:26 INFO  TestBase:71 -  Window is miximized
 2020-08-17 15:40:34 INFO  TestBase:82 - url is launched
+2020-08-18 22:43:20 INFO  TestBase:62 -  chrome driver initalized
+2020-08-18 22:43:22 INFO  TestBase:71 -  Window is miximized
+2020-08-18 22:43:25 INFO  TestBase:82 - url is launched
+2020-08-18 22:44:31 INFO  HomePage:37 - [Ljava.lang.StackTraceElement;@128c502c
+2020-08-18 22:44:31 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (28815ce38cc60cd9664e3e4ba682db88)] -> xpath: //div[text()='Classes']//ancestor::li]to be seen for5
+2020-08-18 22:48:08 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: (//iframe[contains(@name,'iframe')])[2]'framme
+2020-08-18 23:08:03 INFO  TestBase:62 -  chrome driver initalized
+2020-08-18 23:08:05 INFO  TestBase:71 -  Window is miximized
+2020-08-18 23:08:08 INFO  TestBase:82 - url is launched
+2020-08-18 23:09:16 INFO  HomePage:38 - [Ljava.lang.StackTraceElement;@3b2f4a93
+2020-08-18 23:09:17 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (b5f3cebe5f2b6b4863337d65b8817bd8)] -> xpath: //div[text()='Classes']//ancestor::li]to be seen for5
+2020-08-18 23:09:58 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: (//iframe[contains(@name,'iframe')])[2]'framme
+2020-08-18 23:12:30 INFO  TestNGListners:44 - screenshot for failtestcase is started
+2020-08-18 23:12:30 INFO  TestNGListners:46 - screenshot for failtestcase is taken
+2020-08-18 23:12:30 INFO  TestUtil:126 - Screenshot Name isCreateClassTest.png
+2020-08-18 23:12:30 INFO  TestUtil:134 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/FailedTestsScreenshots/CreateClassTest18,08,2020,11-12-30.png

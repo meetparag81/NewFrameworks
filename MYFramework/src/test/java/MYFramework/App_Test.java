@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 
 import helper.Excelhelper.Exls_Reader;
 import helper.resorce.ResourceHelper;
+import pages.AddNewClassPage;
 import pages.HomePage;
 import pages.LearningAdMinistrationPage;
 import pages.LoginPage;
@@ -18,6 +19,7 @@ public class App_Test extends TestBase
 	private HomePage Homepage;
 	private LearningAdMinistrationPage LearningAdminPage;
 	Exls_Reader reader = new Exls_Reader(ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata\\Frameworkworksheet.xlsx"));
+	private AddNewClassPage NewClassPage;
 
 	@BeforeMethod
 	public void SetUp()
@@ -31,18 +33,21 @@ public class App_Test extends TestBase
 		Homepage= LoginPage.login(username, password);
 		LearningAdminPage=Homepage.ClickOnTheTile();
 		LearningAdminPage.ClickOnTheLearningActivities();
+		  LearningAdminPage.ClickOnTheClasses();
 		
 	}
-  @Test(priority=0)
-  public void AppTestForPassCondition(){
+  @Test(priority=0,enabled=false)
+  public void ClassTitleTest(){
 	  
-	  LearningAdminPage.ClickOnTheClasses();
+
 	  String actual=LearningAdminPage.GetTitleClasses();
 	  Assert.assertEquals(actual, reader.getCellData("LMS", "ClassesText", 2));
 	  
   }
-  @Test(priority=1)
-  public void AppTestForFailCondition(){
+  @Test(priority=1, enabled=true)
+  public void CreateClassTest(){
+	  NewClassPage= LearningAdminPage.AddNewClass();
+	  NewClassPage.FillTheRequiredFieldsinClassPage();
 	  Assert.assertEquals(true, false, "testcaseFailed");
 	  
 	  

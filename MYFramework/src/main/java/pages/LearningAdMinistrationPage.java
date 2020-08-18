@@ -10,6 +10,7 @@ import helper.TestUtil.TestUtil;
 import helper.logger.LoggerHelper;
 import helper.resorce.ResourceHelper;
 import testBase.TestBase;
+import frame.helper.IframeHelper;
 
 public class LearningAdMinistrationPage extends TestBase {
 	
@@ -18,7 +19,9 @@ public class LearningAdMinistrationPage extends TestBase {
 	private  Logger log=LoggerHelper.GetLogger(HomePage.class);
 	Exls_Reader reader = new Exls_Reader(ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata\\Frameworkworksheet.xlsx"));
 	private@FindBy(xpath="//td[contains(@class,'BackgroundAlignLeft')][1]//child::span[contains(text(),'Classes')]") WebElement ClassesText;
-	private @FindBy(xpath="(//iframe[contains(@name,'iframe')])[2]")WebElement classeselement;
+	private @FindBy(xpath="(//iframe[contains(@name,'iframe')])[2]")WebElement classesFrameelement;
+	private @FindBy(xpath="(//a[text()='Add New'])[1]")WebElement AddNewlink;
+	;
 	
 	
 	LearningAdMinistrationPage()
@@ -47,13 +50,21 @@ public class LearningAdMinistrationPage extends TestBase {
 	}
 	public String GetTitleClasses(){
 		try{
-			frame.helper.IframeHelper.SwitchToFrame(classeselement);
+			frame.helper.IframeHelper.SwitchToFrame(classesFrameelement);
 			TestUtil.VisibleOn(driver, ClassesText, 5);
 		}
 		catch (Exception e) {
 			log.info(e.getStackTrace());
 		}
 		return ClassesText.getText();
+	}
+
+
+	public AddNewClassPage AddNewClass() {
+		IframeHelper.SwitchToFrame(classesFrameelement);
+AddNewlink.click();
+return new AddNewClassPage();
+		
 	}
 }
 

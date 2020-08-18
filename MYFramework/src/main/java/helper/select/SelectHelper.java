@@ -19,7 +19,7 @@ public class SelectHelper
 	Exls_Reader reader = new Exls_Reader(ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata\\Frameworkworksheet.xlsx"));
 
 	
-	public void selectByUsigValue(WebElement ele, String value)
+	public static void selectByUsigValue(WebElement ele, String value)
 	{
 		Select sel = new Select(ele);
 		log.info("selectByUsigValue and value is:" + value);
@@ -70,4 +70,6 @@ public class SelectHelper
 		}
 		return valuelist;
 	}
+
+	
 }
