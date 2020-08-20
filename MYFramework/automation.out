@@ -2980,3 +2980,75 @@ Session ID: 3896972b3704f39044bf55a7da572a31
 2020-08-18 23:12:30 INFO  TestNGListners:46 - screenshot for failtestcase is taken
 2020-08-18 23:12:30 INFO  TestUtil:126 - Screenshot Name isCreateClassTest.png
 2020-08-18 23:12:30 INFO  TestUtil:134 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/FailedTestsScreenshots/CreateClassTest18,08,2020,11-12-30.png
+2020-08-19 09:24:25 INFO  TestBase:62 -  chrome driver initalized
+2020-08-19 09:24:28 INFO  TestBase:71 -  Window is miximized
+2020-08-19 09:24:36 INFO  TestBase:82 - url is launched
+2020-08-19 09:27:47 INFO  TestBase:62 -  chrome driver initalized
+2020-08-19 09:27:50 INFO  TestBase:71 -  Window is miximized
+2020-08-19 09:27:52 INFO  TestBase:82 - url is launched
+2020-08-19 09:28:48 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (3688694c6235c00e2101daa8dbf3f2c6)] -> xpath: //div[text()='Learning Activities']//ancestor::li//span]to be seen for20
+2020-08-19 09:28:48 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (3688694c6235c00e2101daa8dbf3f2c6)] -> xpath: //div[text()='Classes']//ancestor::li]to be seen for5
+2020-08-19 09:28:53 INFO  TestNGListners:44 - screenshot for failtestcase is started
+2020-08-19 09:28:53 INFO  TestNGListners:46 - screenshot for failtestcase is taken
+2020-08-19 09:28:53 INFO  TestUtil:126 - Screenshot Name isCreateClassTest.png
+2020-08-19 09:28:53 INFO  TestUtil:134 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/FailedTestsScreenshots/CreateClassTest19,08,2020,09-28-53.png
+2020-08-19 10:10:17 INFO  TestBase:62 -  chrome driver initalized
+2020-08-19 10:10:19 INFO  TestBase:71 -  Window is miximized
+2020-08-19 10:10:22 INFO  TestBase:82 - url is launched
+2020-08-19 10:11:26 INFO  HomePage:38 - [Ljava.lang.StackTraceElement;@470a659f
+2020-08-19 10:11:26 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (246ae595d00deddcc2e01eb139882928)] -> xpath: //div[text()='Classes']//ancestor::li]to be seen for5
+2020-08-19 10:11:31 INFO  TestNGListners:44 - screenshot for failtestcase is started
+2020-08-19 10:11:31 INFO  TestNGListners:46 - screenshot for failtestcase is taken
+2020-08-19 10:11:31 INFO  TestUtil:126 - Screenshot Name isCreateClassTest.png
+2020-08-19 10:11:31 INFO  TestUtil:134 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/FailedTestsScreenshots/CreateClassTest19,08,2020,10-11-31.png
+2020-08-19 10:16:20 INFO  TestBase:62 -  chrome driver initalized
+2020-08-19 10:16:22 INFO  TestBase:71 -  Window is miximized
+2020-08-19 10:16:25 INFO  TestBase:82 - url is launched
+2020-08-19 10:17:28 INFO  HomePage:38 - [Ljava.lang.StackTraceElement;@65eabaab
+2020-08-19 10:17:28 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (c9c94a84e7a24ac9a64855842d910e2b)] -> xpath: //div[text()='Classes']//ancestor::li]to be seen for5
+2020-08-20 20:21:41 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 20:21:43 INFO  TestBase:71 -  Window is miximized
+2020-08-20 20:21:46 INFO  TestBase:82 - url is launched
+2020-08-20 20:23:06 INFO  TestUtil:134 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/PassesTestsScreenshots/null20,08,2020,08-23-05.png
+2020-08-20 20:27:29 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 20:27:31 INFO  TestBase:71 -  Window is miximized
+2020-08-20 20:27:34 INFO  TestBase:82 - url is launched
+2020-08-20 20:31:50 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 20:31:52 INFO  TestBase:71 -  Window is miximized
+2020-08-20 20:31:55 INFO  TestBase:82 - url is launched
+2020-08-20 20:33:25 INFO  HomePage:171 - EitherElement is not seen in defined waittimeorExpected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: (//bdi[text()='Home'])[2]//ancestor::span[1]' (tried for 30 second(s) with 500 MILLISECONDS interval)
+2020-08-20 20:39:23 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 20:39:25 INFO  TestBase:71 -  Window is miximized
+2020-08-20 20:39:28 INFO  TestBase:82 - url is launched
+2020-08-20 20:42:25 INFO  HomePage:166 - EitherElement is not seen in defined waittimeor[Ljava.lang.StackTraceElement;@de77232
+2020-08-20 20:44:12 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 20:44:14 INFO  TestBase:71 -  Window is miximized
+2020-08-20 20:44:17 INFO  TestBase:82 - url is launched
+2020-08-20 20:46:02 INFO  HomePage:166 - EitherElement is not seen in defined waittimeororg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//bdi[text()='Home'])[2]//ancestor::span[1]"}
+  (Session info: chrome=84.0.4147.135)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'P2CLAP-G01L1VH', ip: '192.168.0.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\Users\PARAG~1.BOR\AppData\Local\Temp\scoped_dir13468_115554356}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:58979}, acceptInsecureCerts=false, browserVersion=84.0.4147.135, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:virtualAuthenticators=true}]
+Session ID: 46f21d3ee0f10fb4d9b7eacce6f61b59
+*** Element info: {Using=xpath, value=(//bdi[text()='Home'])[2]//ancestor::span[1]}
+2020-08-20 20:49:13 INFO  TestNGListners:44 - screenshot for failtestcase is started
+2020-08-20 20:49:13 INFO  TestNGListners:46 - screenshot for failtestcase is taken
+2020-08-20 20:49:14 INFO  TestUtil:126 - Screenshot Name isClassTitleTest.png
+2020-08-20 20:49:14 INFO  TestUtil:134 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/FailedTestsScreenshots/ClassTitleTest20,08,2020,08-49-13.png
+2020-08-20 20:51:21 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 20:51:23 INFO  TestBase:71 -  Window is miximized
+2020-08-20 20:51:25 INFO  TestBase:82 - url is launched
+2020-08-20 20:54:21 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (3bf4863bc67fae69eda6db80e236c3a3)] -> xpath: (//bdi[text()='Home'])[1]//ancestor::span[1]]to be seen for30
+2020-08-20 21:42:27 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 21:42:30 INFO  TestBase:71 -  Window is miximized
+2020-08-20 21:42:33 INFO  TestBase:82 - url is launched
+2020-08-20 21:46:32 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 21:46:35 INFO  TestBase:71 -  Window is miximized
+2020-08-20 21:46:37 INFO  TestBase:82 - url is launched
+2020-08-20 21:47:03 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (32ede32142132c6e495b57850576e304)] -> xpath: (//bdi[text()='Home'])[1]//ancestor::span[1]]to be seen for30
+2020-08-20 22:16:53 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 22:16:55 INFO  TestBase:71 -  Window is miximized
+2020-08-20 22:16:58 INFO  TestBase:82 - url is launched
+2020-08-20 22:18:23 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (4ec6c9d9032a6e8dd7489b5afc0e656d)] -> xpath: (//bdi[text()='Home'])[1]//ancestor::span[1]]to be seen for30

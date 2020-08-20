@@ -22,17 +22,19 @@ public class HomePage extends TestBase {
 	@FindBy(xpath="//a[contains(text(),'Proxy Now')]")WebElement ProxyNow;
 	@FindBy(xpath = "//span[text()='Select Target User']//following::bdi[text()='OK']//ancestor::button")WebElement OK;
 	@FindBy(xpath="//bdi[contains(text(),'Please enter target user name:')]//following::input[1]")WebElement proxyusername;
-	@FindBy(xpath="(//bdi[text()='Home'])[2]//ancestor::span[1]")WebElement Home;
+	@FindBy(xpath="(//bdi[text()='Home'])[1]//ancestor::span[1]")WebElement Home;
 	@FindBy(xpath="//a[text()='Recruiting']")WebElement Recruiter;
 	@FindBy(xpath="//a[contains(text(),'Create New')]")WebElement CreateNew;
 	@FindBy(id="bizXSearchField-I")WebElement searchbox;
 	@FindBy(xpath ="//h3[text()='Learning Administration']//ancestor::div[2]")WebElement LearningAdminstratorTile;
+	private WebElement addemoloyeeoption;
+	private @FindBy(xpath="(//*[text()='Learning'])[1]") WebElement Learning;
 	
 
 	
 	private  Logger log=LoggerHelper.GetLogger(HomePage.class)	;
 	Exls_Reader reader = new Exls_Reader(ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata\\Frameworkworksheet.xlsx"));
-	private WebElement addemoloyeeoption;
+	
 	public HomePage(){
 		PageFactory.initElements(driver, this);
 	}
@@ -151,13 +153,22 @@ public class HomePage extends TestBase {
 		
 				log.info(e.getCause());
 			}
-		
-			
-		
-		
-		
 		return new HireEmployeePage() ;
 	}
+	
+	public LearningUserPage ClickOnTheLearning() {
+		try{
+			TestUtil.VisibleOn(driver, Home, 30);
+			Home.click();
+			Learning.click();		
+		}
+		catch (Exception e) {
+			log.info("EitherElement is not seen in defined waittime"+ "or"+ e.getCause());
+		}
+		return new LearningUserPage();		
+		
+	}
+	
 	
 	
 

@@ -20,6 +20,12 @@ public class App_Test extends TestBase
 	private LearningAdMinistrationPage LearningAdminPage;
 	Exls_Reader reader = new Exls_Reader(ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata\\Frameworkworksheet.xlsx"));
 	private AddNewClassPage NewClassPage;
+	
+	public App_Test(){
+		super();
+		
+	}
+	
 
 	@BeforeMethod
 	public void SetUp()
@@ -32,8 +38,6 @@ public class App_Test extends TestBase
 		String password = reader.getCellData("Login", "Password", 2);
 		Homepage= LoginPage.login(username, password);
 		LearningAdminPage=Homepage.ClickOnTheTile();
-		LearningAdminPage.ClickOnTheLearningActivities();
-		  LearningAdminPage.ClickOnTheClasses();
 		
 	}
   @Test(priority=0,enabled=false)
