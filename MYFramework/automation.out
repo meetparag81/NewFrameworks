@@ -3133,3 +3133,40 @@ Session ID: 46f21d3ee0f10fb4d9b7eacce6f61b59
 2020-08-24 20:01:23 INFO  TestBase:62 -  chrome driver initalized
 2020-08-24 20:01:26 INFO  TestBase:71 -  Window is miximized
 2020-08-24 20:01:30 INFO  TestBase:82 - url is launched
+2020-08-24 22:49:31 INFO  TestBase:62 -  chrome driver initalized
+2020-08-24 22:49:34 INFO  TestBase:71 -  Window is miximized
+2020-08-24 22:49:37 INFO  TestBase:82 - url is launched
+2020-08-24 22:49:49 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (1170873afc50555b7954df4af521148d)] -> xpath: (//bdi[text()='Home'])[1]//ancestor::span[1]]to be seen for30
+2020-08-24 22:50:32 INFO  TestBase:62 -  chrome driver initalized
+2020-08-24 22:50:35 INFO  TestBase:71 -  Window is miximized
+2020-08-24 22:50:38 INFO  TestBase:82 - url is launched
+2020-08-24 22:51:19 INFO  TestBase:62 -  chrome driver initalized
+2020-08-24 22:51:21 INFO  TestBase:71 -  Window is miximized
+2020-08-24 22:51:24 INFO  TestBase:82 - url is launched
+2020-08-24 22:52:02 INFO  TestBase:62 -  chrome driver initalized
+2020-08-24 22:53:26 INFO  TestBase:62 -  chrome driver initalized
+2020-08-24 22:53:28 INFO  TestBase:71 -  Window is miximized
+2020-08-24 22:53:31 INFO  TestBase:82 - url is launched
+2020-08-24 22:53:43 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (4f16828496ac947ac503d1da8719be90)] -> xpath: (//bdi[text()='Home'])[1]//ancestor::span[1]]to be seen for30
+2020-08-24 22:53:47 INFO  TestBase:62 -  chrome driver initalized
+2020-08-24 22:53:49 INFO  TestBase:71 -  Window is miximized
+2020-08-24 22:54:06 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (4f16828496ac947ac503d1da8719be90)] -> xpath: //input[@name='todoFilterText']]to be seen for30
+2020-08-24 22:55:43 INFO  TestBase:62 -  chrome driver initalized
+2020-08-24 22:55:45 INFO  TestBase:71 -  Window is miximized
+2020-08-24 22:55:48 INFO  TestBase:82 - url is launched
+2020-08-24 23:02:22 INFO  TestBase:62 -  chrome driver initalized
+2020-08-24 23:02:24 INFO  TestBase:71 -  Window is miximized
+2020-08-24 23:02:27 INFO  TestBase:82 - url is launched
+2020-08-24 23:03:02 INFO  TestBase:62 -  chrome driver initalized
+2020-08-24 23:03:04 INFO  TestBase:71 -  Window is miximized
+2020-08-24 23:20:50 INFO  TestBase:62 -  chrome driver initalized
+2020-08-24 23:20:52 INFO  TestBase:71 -  Window is miximized
+2020-08-24 23:20:56 INFO  TestBase:82 - url is launched
+2020-08-24 23:23:50 INFO  TestBase:62 -  chrome driver initalized
+2020-08-24 23:23:52 INFO  TestBase:71 -  Window is miximized
+2020-08-24 23:23:55 INFO  TestBase:82 - url is launched
+2020-08-24 23:27:02 INFO  TestBase:62 -  chrome driver initalized
+2020-08-24 23:27:04 INFO  TestBase:71 -  Window is miximized
+2020-08-24 23:27:07 INFO  TestBase:82 - url is launched
+2020-08-24 23:59:27 INFO  TestNGListners:44 - screenshot for failtestcase is started
+2020-08-24 23:59:27 INFO  TestNGListners:46 - screenshot for failtestcase is taken

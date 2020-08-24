@@ -1,5 +1,6 @@
 browser = chrome
-url = https://performancemanager8.successfactors.com/login?company=BPOCUSTOM20
+url = https://performancemanager8.successfactors.com/login?company=BPOCUSTOM10
 username= bparag 
-password = pBorprg@81
+password = borawake81
+Testdata= Exls_Reader reader =\\src\\main\\java\\helper\\exceldata\\LMS_TestData.xlsx
 

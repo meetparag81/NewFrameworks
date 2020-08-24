@@ -29,7 +29,7 @@ import helper.resorce.ResourceHelper;
 
 public class Exls_Reader {
 
-	public static String filename = ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata.xlsx");
+	public static String filename = ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata\\LMS_TestData.xlsx");
 	public  String path;
 	public  FileInputStream fis = null;
 	public  FileOutputStream fileOut =null;

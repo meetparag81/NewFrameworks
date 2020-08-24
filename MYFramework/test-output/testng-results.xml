@@ -1,21 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="225686" started-at="2020-08-20T17:59:48Z" finished-at="2020-08-20T18:03:33Z">
+  <suite name="Default suite" duration-ms="64" started-at="2020-08-24T18:29:27Z" finished-at="2020-08-24T18:29:27Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="225686" started-at="2020-08-20T17:59:48Z" finished-at="2020-08-20T18:03:33Z">
-      <class name="MYFramework.RequestForClassTest">
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:MYFramework.RequestForClassTest@3d3ba765]" name="SetUp" is-config="true" duration-ms="36147" started-at="2020-08-20T23:29:48Z" finished-at="2020-08-20T23:30:24Z">
+    <test name="Default test" duration-ms="64" started-at="2020-08-24T18:29:27Z" finished-at="2020-08-24T18:29:27Z">
+      <class name="MYFramework.AssignmentProfileTest">
+        <test-method status="FAIL" signature="Test(java.lang.String)[pri:0, instance:MYFramework.AssignmentProfileTest@85e6769]" name="Test" duration-ms="0" started-at="2020-08-24T23:59:27Z" finished-at="2020-08-24T23:59:27Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Cannot inject @Test annotated Method [Test] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Cannot inject @Test annotated Method [Test] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection
+	at org.testng.internal.Parameters.checkParameterTypes(Parameters.java:244)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:172)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:458)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:569)
+	at org.testng.internal.Invoker.handleParameters(Invoker.java:1308)
+	at org.testng.internal.Invoker.createParameters(Invoker.java:1036)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1126)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="RequestTheClassTest()[pri:1, instance:MYFramework.RequestForClassTest@3d3ba765]" name="RequestTheClassTest" duration-ms="188871" started-at="2020-08-20T23:30:24Z" finished-at="2020-08-20T23:33:33Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- RequestTheClassTest -->
-      </class> <!-- MYFramework.RequestForClassTest -->
+        </test-method> <!-- Test -->
+      </class> <!-- MYFramework.AssignmentProfileTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
