@@ -3052,3 +3052,84 @@ Session ID: 46f21d3ee0f10fb4d9b7eacce6f61b59
 2020-08-20 22:16:55 INFO  TestBase:71 -  Window is miximized
 2020-08-20 22:16:58 INFO  TestBase:82 - url is launched
 2020-08-20 22:18:23 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (4ec6c9d9032a6e8dd7489b5afc0e656d)] -> xpath: (//bdi[text()='Home'])[1]//ancestor::span[1]]to be seen for30
+2020-08-20 22:41:20 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 22:41:22 INFO  TestBase:71 -  Window is miximized
+2020-08-20 22:41:25 INFO  TestBase:82 - url is launched
+2020-08-20 22:42:25 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 22:42:27 INFO  TestBase:71 -  Window is miximized
+2020-08-20 22:42:31 INFO  TestBase:82 - url is launched
+2020-08-20 22:42:41 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (c25108288f7831b900275646b9e86447)] -> xpath: (//bdi[text()='Home'])[1]//ancestor::span[1]]to be seen for30
+2020-08-20 22:43:50 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 22:43:52 INFO  TestBase:71 -  Window is miximized
+2020-08-20 22:43:54 INFO  TestBase:82 - url is launched
+2020-08-20 22:44:06 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (37d4e1703437c90ec260c49c017a79c0)] -> xpath: (//bdi[text()='Home'])[1]//ancestor::span[1]]to be seen for30
+2020-08-20 22:46:25 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 22:46:27 INFO  TestBase:71 -  Window is miximized
+2020-08-20 22:46:30 INFO  TestBase:82 - url is launched
+2020-08-20 22:46:45 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (003e18489ea2c25b0793f88cd0ffcfce)] -> xpath: (//bdi[text()='Home'])[1]//ancestor::span[1]]to be seen for30
+2020-08-20 22:47:32 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 22:47:34 INFO  TestBase:71 -  Window is miximized
+2020-08-20 22:47:37 INFO  TestBase:82 - url is launched
+2020-08-20 22:47:48 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (40461912b1e03e6c6d9bcd87e456d0ab)] -> xpath: (//bdi[text()='Home'])[1]//ancestor::span[1]]to be seen for30
+2020-08-20 22:48:11 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (40461912b1e03e6c6d9bcd87e456d0ab)] -> xpath: //input[@name='todoFilterText']]to be seen for30
+2020-08-20 22:49:29 INFO  TestNGListners:44 - screenshot for failtestcase is started
+2020-08-20 22:49:29 INFO  TestNGListners:46 - screenshot for failtestcase is taken
+2020-08-20 22:49:30 INFO  TestUtil:126 - Screenshot Name isRequestTheClassTest.png
+2020-08-20 22:49:30 INFO  TestUtil:134 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/FailedTestsScreenshots/RequestTheClassTest20,08,2020,10-49-29.png
+2020-08-20 22:53:00 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 22:53:02 INFO  TestBase:71 -  Window is miximized
+2020-08-20 22:53:05 INFO  TestBase:82 - url is launched
+2020-08-20 22:53:16 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (62a9058323143667e31fbcfc5f4c3fa5)] -> xpath: (//bdi[text()='Home'])[1]//ancestor::span[1]]to be seen for30
+2020-08-20 22:53:40 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (62a9058323143667e31fbcfc5f4c3fa5)] -> xpath: //input[@name='todoFilterText']]to be seen for30
+2020-08-20 22:54:42 INFO  TestNGListners:86 - screenshot for passed testcase started
+2020-08-20 22:54:43 INFO  TestUtil:134 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/PassesTestsScreenshots/RequestTheClassTest20,08,2020,10-54-42.png
+2020-08-20 22:59:30 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 22:59:32 INFO  TestBase:71 -  Window is miximized
+2020-08-20 22:59:35 INFO  TestBase:82 - url is launched
+2020-08-20 22:59:47 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (06a505b6ebe51b1cc477636409d26aa2)] -> xpath: (//bdi[text()='Home'])[1]//ancestor::span[1]]to be seen for30
+2020-08-20 23:01:07 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (06a505b6ebe51b1cc477636409d26aa2)] -> xpath: //input[@name='todoFilterText']]to be seen for30
+2020-08-20 23:03:40 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 23:03:42 INFO  TestBase:71 -  Window is miximized
+2020-08-20 23:03:43 INFO  TestBase:84 - url is not launched
+2020-08-20 23:05:50 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 23:05:53 INFO  TestBase:71 -  Window is miximized
+2020-08-20 23:05:55 INFO  TestBase:82 - url is launched
+2020-08-20 23:06:06 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (fd282a65032b4a72408d675190676060)] -> xpath: (//bdi[text()='Home'])[1]//ancestor::span[1]]to be seen for30
+2020-08-20 23:06:29 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (fd282a65032b4a72408d675190676060)] -> xpath: //input[@name='todoFilterText']]to be seen for30
+2020-08-20 23:08:03 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 23:08:06 INFO  TestBase:71 -  Window is miximized
+2020-08-20 23:08:08 INFO  TestBase:82 - url is launched
+2020-08-20 23:08:19 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (837f98a9f64077fbc04445d06c159c53)] -> xpath: (//bdi[text()='Home'])[1]//ancestor::span[1]]to be seen for30
+2020-08-20 23:08:45 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (837f98a9f64077fbc04445d06c159c53)] -> xpath: //input[@name='todoFilterText']]to be seen for30
+2020-08-20 23:09:43 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@name='scheduleRequestBuffer']'framme
+2020-08-20 23:11:11 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 23:11:13 INFO  TestBase:71 -  Window is miximized
+2020-08-20 23:11:15 INFO  TestBase:82 - url is launched
+2020-08-20 23:11:26 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (b75b42b355e9f95a3fefda5098b9e1ba)] -> xpath: (//bdi[text()='Home'])[1]//ancestor::span[1]]to be seen for30
+2020-08-20 23:11:49 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (b75b42b355e9f95a3fefda5098b9e1ba)] -> xpath: //input[@name='todoFilterText']]to be seen for30
+2020-08-20 23:13:32 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@name='scheduleRequestBuffer']'framme
+2020-08-20 23:17:25 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 23:17:28 INFO  TestBase:71 -  Window is miximized
+2020-08-20 23:17:30 INFO  TestBase:82 - url is launched
+2020-08-20 23:17:42 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (ccfe94f6cd64bd7daacf3826e2a34304)] -> xpath: (//bdi[text()='Home'])[1]//ancestor::span[1]]to be seen for30
+2020-08-20 23:18:06 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (ccfe94f6cd64bd7daacf3826e2a34304)] -> xpath: //input[@name='todoFilterText']]to be seen for30
+2020-08-20 23:18:57 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@name='scheduleRequestBuffer']'framme
+2020-08-20 23:29:57 INFO  TestBase:62 -  chrome driver initalized
+2020-08-20 23:29:59 INFO  TestBase:71 -  Window is miximized
+2020-08-20 23:30:03 INFO  TestBase:82 - url is launched
+2020-08-20 23:30:18 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (d5a3c7fd10bd816ba2f5f7fe89e9e030)] -> xpath: (//bdi[text()='Home'])[1]//ancestor::span[1]]to be seen for30
+2020-08-20 23:30:44 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (d5a3c7fd10bd816ba2f5f7fe89e9e030)] -> xpath: //input[@name='todoFilterText']]to be seen for30
+2020-08-20 23:31:58 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@name='scheduleRequestBuffer']'framme
+2020-08-20 23:32:16 INFO  CreateRequisitionPage:39 - selectByUsigVisibleText and text is:HR Operations (10011001) (HR Operations (10011001))
+2020-08-20 23:32:28 INFO  CreateRequisitionPage:39 - selectByUsigVisibleText and text is:Melbourne Dandenong Site (AB_F001)
+2020-08-20 23:33:33 INFO  TestNGListners:86 - screenshot for passed testcase started
+2020-08-20 23:33:33 INFO  TestUtil:134 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/PassesTestsScreenshots/RequestTheClassTest20,08,2020,11-33-33.png
+2020-08-24 19:47:13 INFO  TestBase:62 -  chrome driver initalized
+2020-08-24 19:47:15 INFO  TestBase:71 -  Window is miximized
+2020-08-24 19:47:18 INFO  TestBase:82 - url is launched
+2020-08-24 19:59:17 INFO  TestBase:62 -  chrome driver initalized
+2020-08-24 19:59:19 INFO  TestBase:71 -  Window is miximized
+2020-08-24 19:59:23 INFO  TestBase:82 - url is launched
+2020-08-24 20:01:23 INFO  TestBase:62 -  chrome driver initalized
+2020-08-24 20:01:26 INFO  TestBase:71 -  Window is miximized
+2020-08-24 20:01:30 INFO  TestBase:82 - url is launched

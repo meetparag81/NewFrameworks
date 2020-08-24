@@ -41,9 +41,10 @@ private LearningUserPage LearningUserPage;
 		
 	}
   @Test(priority=1,enabled=true)
-  public void ClassTitleTest(){
+  public void RequestTheClassTest(){
 	  
 	  LearningUserPage.ClickonTheRequestClass();
+	  
 	  
   }
 	

@@ -6,7 +6,7 @@
       <class name="MYFramework.RequestForClassTest">
         <methods>
           <include name="SetUp"/>
-          <include name="ClassTitleTest"/>
+          <include name="RequestTheClassTest"/>
         </methods>
       </class> <!-- MYFramework.RequestForClassTest -->
     </classes>

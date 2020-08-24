@@ -29,7 +29,7 @@ import helper.resorce.ResourceHelper;
 
 public class Exls_Reader {
 
-	public static String filename = ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata\\Frameworkworksheet.xlsx");
+	public static String filename = ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata.xlsx");
 	public  String path;
 	public  FileInputStream fis = null;
 	public  FileOutputStream fileOut =null;
@@ -497,14 +497,14 @@ public Exls_Reader(String path)
 		// to run this on stand alone
 		public static void main(String arg[]) throws IOException{
 			
-			//System.out.println(filename);
+			System.out.println(filename);
 			Exls_Reader datatable = null;
 			
 
-				/* datatable = new Xls_Reader(System.getProperty("user.dir")+"\\src\\com\\qtpselenium\\xls\\Controller.xlsx");
+				 datatable = new Exls_Reader(System.getProperty("user.dir")+"\\src\\main\\java\\helper\\exceldata.xlsx");
 					for(int col=0 ;col< datatable.getColumnCount("TC5"); col++){
 						System.out.println(datatable.getCellData("TC5", col, 1)); 
-					} */
+					} 
 		}
 		
 		

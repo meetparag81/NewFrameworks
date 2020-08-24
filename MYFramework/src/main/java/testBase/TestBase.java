@@ -25,7 +25,7 @@ public class TestBase {
 	public static WebDriver driver;
 	public static Properties prop;
 	public static WebDriverEventListener e_driver;
-	private static  Logger log=LoggerHelper.GetLogger(TestBase.class)	;
+	private static  Logger log=LoggerHelper.GetLogger(TestBase.class);
 
 	public TestBase() {
 
