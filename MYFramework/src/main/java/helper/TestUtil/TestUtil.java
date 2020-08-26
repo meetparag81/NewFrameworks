@@ -27,7 +27,7 @@ import testBase.TestBase;
 public class TestUtil extends TestBase {
 	
 public static long IMPLICIT_WAIT = 30;
-public static long PAGE_LOAD_TIMEOUT = 30;
+public static long PAGE_LOAD_TIMEOUT = 60;
 private static  Logger log=LoggerHelper.GetLogger(TestUtil.class)	;
 private static String destination;
 
@@ -45,7 +45,7 @@ private static String destination;
 	public static void  VisibleOn(WebDriver driver,WebElement element,int timeout)
 	{
 		new WebDriverWait(driver, timeout).ignoring(StaleElementReferenceException.class).until(ExpectedConditions.visibilityOf(element));
-		log.info("Driver is wait for"+element+"to be seen for" + timeout);
+		log.info("Driver is waited for"+element+"to be seen for" + timeout);
 	}
 	
 	public static void  VisibleElementsOn(WebDriver driver,List<WebElement> element,int timeout)
@@ -58,6 +58,18 @@ private static String destination;
 		JavascriptExecutor js1 = (JavascriptExecutor) driver;
 		js1.executeScript("scroll(0, 250);");
 		
+	}
+	public static boolean iselementExists (WebElement element)
+	{
+		boolean result=false;;
+		try{
+			if(element.isDisplayed())
+				result=true;
+		}
+		catch(Exception e){
+			result=false;
+		}
+		return result;
 	}
 	
 	

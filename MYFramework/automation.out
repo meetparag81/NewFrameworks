@@ -3170,3 +3170,306 @@ Session ID: 46f21d3ee0f10fb4d9b7eacce6f61b59
 2020-08-24 23:27:07 INFO  TestBase:82 - url is launched
 2020-08-24 23:59:27 INFO  TestNGListners:44 - screenshot for failtestcase is started
 2020-08-24 23:59:27 INFO  TestNGListners:46 - screenshot for failtestcase is taken
+2020-08-25 09:57:40 INFO  LMSTest:38 -  Window is miximized
+2020-08-25 09:58:51 INFO  LMSTest:37 -  Window is miximized
+2020-08-25 09:58:54 INFO  LMSTest:42 - url is launched
+2020-08-25 10:01:42 INFO  LMSTest:37 -  Window is miximized
+2020-08-25 10:01:48 INFO  LMSTest:42 - url is launched
+2020-08-25 10:02:14 INFO  LMSTest:37 -  Window is miximized
+2020-08-25 10:02:20 INFO  LMSTest:42 - url is launched
+2020-08-25 10:05:34 INFO  LMSTest:40 -  Window is miximized
+2020-08-25 10:05:37 INFO  LMSTest:45 - url is launched
+2020-08-25 10:09:48 INFO  LMSTest:40 -  Window is miximized
+2020-08-25 10:09:50 INFO  LMSTest:45 - url is launched
+2020-08-25 10:10:51 INFO  LMSTest:40 -  Window is miximized
+2020-08-25 10:10:53 INFO  LMSTest:45 - url is launched
+2020-08-25 10:13:31 INFO  LMSTest:41 -  Window is miximized
+2020-08-25 10:13:35 INFO  LMSTest:46 - url is launched
+2020-08-25 10:24:46 INFO  LMSTest:41 -  Window is miximized
+2020-08-25 10:24:49 INFO  LMSTest:46 - url is launched
+2020-08-25 10:25:25 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (b01d055ebedc6dddce5bacbbcf181210)] -> xpath: //h3[text()='Learning Administration']//ancestor::div[2]]to be seen for30
+2020-08-25 10:27:37 INFO  LMSTest:41 -  Window is miximized
+2020-08-25 10:27:40 INFO  LMSTest:46 - url is launched
+2020-08-25 10:29:46 INFO  LMSTest:41 -  Window is miximized
+2020-08-25 10:29:48 INFO  LMSTest:46 - url is launched
+2020-08-25 10:37:18 INFO  LMSTest:41 -  Window is miximized
+2020-08-25 10:37:21 INFO  LMSTest:46 - url is launched
+2020-08-25 10:39:03 INFO  LMSTest:41 -  Window is miximized
+2020-08-25 10:39:07 INFO  LMSTest:46 - url is launched
+2020-08-25 10:44:25 INFO  LMSTest:41 -  Window is miximized
+2020-08-25 10:44:28 INFO  LMSTest:46 - url is launched
+2020-08-25 10:45:41 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (9f92267694e363edc8dc6172dabbb5df)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for10
+2020-08-25 11:02:47 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 11:02:50 INFO  LMSTest:47 - url is launched
+2020-08-25 11:03:54 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 11:03:56 INFO  LMSTest:47 - url is launched
+2020-08-25 11:05:18 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 11:05:21 INFO  LMSTest:47 - url is launched
+2020-08-25 11:06:16 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 11:06:18 INFO  LMSTest:47 - url is launched
+2020-08-25 11:07:08 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 11:07:10 INFO  LMSTest:47 - url is launched
+2020-08-25 11:10:16 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 11:10:23 INFO  LMSTest:47 - url is launched
+2020-08-25 11:17:09 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 11:17:12 INFO  LMSTest:47 - url is launched
+2020-08-25 11:20:57 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 11:20:59 INFO  LMSTest:47 - url is launched
+2020-08-25 11:22:14 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (108187974829425930b5e4888c171bb5)] -> xpath: //div[text()='Manage User Learning']//ancestor::li//span]to be seen for20
+2020-08-25 11:22:29 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (108187974829425930b5e4888c171bb5)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for10
+2020-08-25 11:26:00 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 11:26:03 INFO  LMSTest:47 - url is launched
+2020-08-25 11:27:42 INFO  LMSTest:87 - exceptionoccurs
+2020-08-25 11:30:56 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 11:30:59 INFO  LMSTest:47 - url is launched
+2020-08-25 12:04:27 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 12:04:30 INFO  LMSTest:47 - url is launched
+2020-08-25 12:05:33 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (2d5c98465d1a5bcb26f3258887128325)] -> xpath: //div[text()='Manage User Learning']//ancestor::li//span]to be seen for50
+2020-08-25 12:05:35 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (2d5c98465d1a5bcb26f3258887128325)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for10
+2020-08-25 12:20:57 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 12:21:00 INFO  LMSTest:47 - url is launched
+2020-08-25 12:22:54 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (ae66317dee7d4f85605545d20854dd02)] -> xpath: //div[text()='Manage User Learning']//ancestor::li//span]to be seen for50
+2020-08-25 12:22:56 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (ae66317dee7d4f85605545d20854dd02)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for10
+2020-08-25 12:23:02 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (ae66317dee7d4f85605545d20854dd02)] -> xpath: (//iframe[contains(@name,'iframe')])[2]]to be seen for20
+2020-08-25 12:27:50 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 12:27:52 INFO  LMSTest:47 - url is launched
+2020-08-25 12:28:59 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (77957e2396da9dd3a9023f1290ba1a4a)] -> xpath: //div[text()='Manage User Learning']//ancestor::li//span]to be seen for80
+2020-08-25 12:29:02 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (77957e2396da9dd3a9023f1290ba1a4a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for10
+2020-08-25 12:29:07 INFO  TestUtil:48 - Driver is wait for[[ChromeDriver: chrome on XP (77957e2396da9dd3a9023f1290ba1a4a)] -> xpath: (//iframe[contains(@name,'iframe')])[2]]to be seen for20
+2020-08-25 12:31:58 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 12:32:00 INFO  LMSTest:47 - url is launched
+2020-08-25 12:34:25 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 12:34:27 INFO  LMSTest:47 - url is launched
+2020-08-25 12:35:24 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (48580fd72001d7f43cd57cfc95d445de)] -> xpath: //div[text()='Manage User Learning']//ancestor::li//span]to be seen for80
+2020-08-25 12:35:26 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (48580fd72001d7f43cd57cfc95d445de)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for10
+2020-08-25 12:35:37 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (48580fd72001d7f43cd57cfc95d445de)] -> xpath: (//iframe[contains(@name,'iframe')])[2]]to be seen for50
+2020-08-25 12:38:12 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 12:38:14 INFO  LMSTest:47 - url is launched
+2020-08-25 12:39:18 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (4d5e04bc17eb9b85d1b69d1e1d8eeb86)] -> xpath: //div[text()='Manage User Learning']//ancestor::li//span]to be seen for80
+2020-08-25 12:39:20 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (4d5e04bc17eb9b85d1b69d1e1d8eeb86)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for10
+2020-08-25 12:40:25 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 12:40:28 INFO  LMSTest:47 - url is launched
+2020-08-25 12:41:25 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (70a65674ea0dbac2540d619e6addcc3b)] -> xpath: //div[text()='Manage User Learning']//ancestor::li//span]to be seen for80
+2020-08-25 12:41:28 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (70a65674ea0dbac2540d619e6addcc3b)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for10
+2020-08-25 12:46:24 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 12:46:27 INFO  LMSTest:47 - url is launched
+2020-08-25 12:47:26 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (552e0f4f76ba89269b9f93b03c5a72a4)] -> xpath: //div[text()='Manage User Learning']//ancestor::li//span]to be seen for80
+2020-08-25 12:47:29 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (552e0f4f76ba89269b9f93b03c5a72a4)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for10
+2020-08-25 12:55:15 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 12:55:19 INFO  LMSTest:47 - url is launched
+2020-08-25 12:58:22 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 12:58:25 INFO  LMSTest:47 - url is launched
+2020-08-25 12:59:32 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (0955800912cf8832ddbfdbb2e307d437)] -> xpath: //div[text()='Manage User Learning']//ancestor::li//span]to be seen for80
+2020-08-25 12:59:34 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (0955800912cf8832ddbfdbb2e307d437)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for10
+2020-08-25 13:01:52 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 13:01:55 INFO  LMSTest:47 - url is launched
+2020-08-25 13:04:48 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 13:04:51 INFO  LMSTest:47 - url is launched
+2020-08-25 13:29:56 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 13:29:59 INFO  LMSTest:47 - url is launched
+2020-08-25 13:31:01 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (7257c7d3eda0b4f2fa83c2ed32141a40)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for10
+2020-08-25 14:19:55 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 14:19:58 INFO  LMSTest:47 - url is launched
+2020-08-25 14:22:04 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 14:22:07 INFO  LMSTest:47 - url is launched
+2020-08-25 14:25:30 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 14:25:33 INFO  LMSTest:47 - url is launched
+2020-08-25 14:28:16 INFO  LMSTest:42 -  Window is miximized
+2020-08-25 14:28:18 INFO  LMSTest:47 - url is launched
+2020-08-25 15:21:25 INFO  LMSTest:46 -  Window is miximized
+2020-08-25 15:21:28 INFO  LMSTest:51 - url is launched
+2020-08-25 15:22:59 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (3bbecc657bbaca86edfaaf860605038b)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for10
+2020-08-25 15:26:02 INFO  LMSTest:46 -  Window is miximized
+2020-08-25 15:26:04 INFO  LMSTest:51 - url is launched
+2020-08-25 15:33:03 INFO  LMSTest:46 -  Window is miximized
+2020-08-25 15:33:05 INFO  LMSTest:51 - url is launched
+2020-08-25 15:35:40 INFO  LMSTest:46 -  Window is miximized
+2020-08-25 15:35:43 INFO  LMSTest:51 - url is launched
+2020-08-25 15:52:27 INFO  LMSTest:46 -  Window is miximized
+2020-08-25 15:52:30 INFO  LMSTest:51 - url is launched
+2020-08-25 15:54:24 INFO  LMSTest:46 -  Window is miximized
+2020-08-25 15:54:26 INFO  LMSTest:51 - url is launched
+2020-08-25 15:57:12 INFO  LMSTest:46 -  Window is miximized
+2020-08-25 15:57:15 INFO  LMSTest:51 - url is launched
+2020-08-25 15:58:52 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (1c1db4bc4e55c8af07812083637f0146)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-25 16:00:55 INFO  LMSTest:46 -  Window is miximized
+2020-08-25 16:00:58 INFO  LMSTest:51 - url is launched
+2020-08-25 16:02:16 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (3a8b9808028d80b58a753e23d46f0b2e)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-25 16:05:19 INFO  LMSTest:46 -  Window is miximized
+2020-08-25 16:05:22 INFO  LMSTest:51 - url is launched
+2020-08-25 16:11:11 INFO  LMSTest:46 -  Window is miximized
+2020-08-25 16:11:14 INFO  LMSTest:51 - url is launched
+2020-08-25 16:12:46 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (44e460b825314a3d5842435cb2ced8a0)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-25 16:21:29 INFO  LMSTest:46 -  Window is miximized
+2020-08-25 16:21:32 INFO  LMSTest:51 - url is launched
+2020-08-25 16:23:05 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (236b894a6d604861d542b97b3e1c150f)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-25 16:24:45 INFO  LMSTest:46 -  Window is miximized
+2020-08-25 16:24:48 INFO  LMSTest:51 - url is launched
+2020-08-25 16:26:45 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (1592222ba1c03847f0051a498fc89943)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-25 16:28:17 INFO  LMSTest:46 -  Window is miximized
+2020-08-25 16:28:19 INFO  LMSTest:51 - url is launched
+2020-08-25 16:29:18 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (929e1fca553b093cb832c6a61a4f9d57)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-25 16:32:58 INFO  LMSTest:46 -  Window is miximized
+2020-08-25 16:33:07 INFO  LMSTest:51 - url is launched
+2020-08-25 16:34:04 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (225caef8f26705159d298dbb75bbe542)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-25 16:37:58 INFO  LMSTest:46 -  Window is miximized
+2020-08-25 16:38:00 INFO  LMSTest:51 - url is launched
+2020-08-25 16:38:57 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (5c71df074e26227761b3df645e0eb46d)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-25 17:27:52 INFO  LMSTest:46 -  Window is miximized
+2020-08-25 17:27:55 INFO  LMSTest:51 - url is launched
+2020-08-25 17:28:52 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (0b85c1557ee7a26be70fe8ee4dea6930)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-25 17:51:22 INFO  LMSTest:47 -  Window is miximized
+2020-08-25 17:51:25 INFO  LMSTest:52 - url is launched
+2020-08-25 17:52:22 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (17a535c0c1f4bd070ae05d40ace49712)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-25 17:57:36 INFO  LMSTest:47 -  Window is miximized
+2020-08-25 17:57:39 INFO  LMSTest:52 - url is launched
+2020-08-25 17:58:35 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (79e41ddd00b0e938522a98f562b29107)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-25 18:02:08 INFO  LMSTest:47 -  Window is miximized
+2020-08-25 18:02:10 INFO  LMSTest:52 - url is launched
+2020-08-25 18:08:27 INFO  LMSTest:47 -  Window is miximized
+2020-08-25 18:08:30 INFO  LMSTest:52 - url is launched
+2020-08-25 18:09:27 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (4d489fa3d420083d9dbc551c5de0b2e6)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-25 18:30:10 INFO  LMSTest:47 -  Window is miximized
+2020-08-25 18:30:12 INFO  LMSTest:52 - url is launched
+2020-08-25 18:31:09 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (a0016dd07b53c950c02e0a838e651417)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-25 18:33:00 INFO  LMSTest:47 -  Window is miximized
+2020-08-25 18:33:02 INFO  LMSTest:52 - url is launched
+2020-08-25 18:33:59 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (dfe0adf1f74f13ec1572c413c4ed83af)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 09:28:32 INFO  LMSTest:47 -  Window is miximized
+2020-08-26 09:28:35 INFO  LMSTest:52 - url is launched
+2020-08-26 09:29:41 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (d4cfd8ce0ec2275e2920fdf424308840)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 09:34:01 INFO  LMSTest:47 -  Window is miximized
+2020-08-26 09:34:03 INFO  LMSTest:52 - url is launched
+2020-08-26 09:35:08 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (4d53f4376d7b3d7dbd922cbb41dd01ea)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 09:38:20 INFO  LMSTest:47 -  Window is miximized
+2020-08-26 09:38:24 INFO  LMSTest:52 - url is launched
+2020-08-26 09:39:36 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (ab2162f1fe63042d87e18aeadc614e91)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 09:48:50 INFO  LMSTest:47 -  Window is miximized
+2020-08-26 09:48:53 INFO  LMSTest:52 - url is launched
+2020-08-26 09:49:58 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (5447ac9d87b13913dfd399e38424052a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 10:24:59 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 10:25:03 INFO  LMSTest:54 - url is launched
+2020-08-26 10:26:16 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (8d2d3ed09563d6e9ca2d6e60115fb316)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 10:36:06 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 10:36:09 INFO  LMSTest:54 - url is launched
+2020-08-26 10:37:20 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (27a413300e918d530f7a0c68562e2b79)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 10:53:20 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 10:53:23 INFO  LMSTest:54 - url is launched
+2020-08-26 10:55:58 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 10:56:01 INFO  LMSTest:54 - url is launched
+2020-08-26 10:57:08 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (1a6d0096513c57bd78a2f4bb4fd3df29)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 11:01:18 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 11:01:21 INFO  LMSTest:54 - url is launched
+2020-08-26 11:02:28 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (4b35ac01932ca414ed67211531c5f8f6)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 11:15:48 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 11:15:51 INFO  LMSTest:54 - url is launched
+2020-08-26 11:17:00 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (85864c649fea805cb3bb06798398de60)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 11:36:20 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 11:37:15 INFO  LMSTest:54 - url is launched
+2020-08-26 12:32:34 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 12:33:26 INFO  LMSTest:54 - url is launched
+2020-08-26 12:34:43 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 12:34:46 INFO  LMSTest:54 - url is launched
+2020-08-26 12:35:52 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (ee39a942881cce5de699425339715ce6)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 12:39:43 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 12:39:45 INFO  LMSTest:54 - url is launched
+2020-08-26 12:40:45 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (a60f61c05f2a0363ce557ddb7babe66f)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 12:43:46 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 12:43:49 INFO  LMSTest:54 - url is launched
+2020-08-26 12:44:43 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (fd271ec344e84771f1a4d8705215c0df)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 12:54:38 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 12:54:41 INFO  LMSTest:54 - url is launched
+2020-08-26 12:55:40 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (b4c3c6c682bb85362050cb2d5f5a3661)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 12:59:09 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 12:59:11 INFO  LMSTest:54 - url is launched
+2020-08-26 13:00:07 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (fb9f95a920889caf517db9e2fbfd7a9b)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 13:05:06 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 13:05:08 INFO  LMSTest:54 - url is launched
+2020-08-26 13:06:05 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (c776252d8dedcc9d5176e6cea56449d8)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 13:10:13 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 13:10:15 INFO  LMSTest:54 - url is launched
+2020-08-26 13:11:12 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (6cdaf73cf11b883c6b11d7de8e3db40f)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 13:16:52 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 13:16:55 INFO  LMSTest:54 - url is launched
+2020-08-26 13:17:55 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (f0b9d0859464e155c71502485f696984)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 14:04:46 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 14:04:49 INFO  LMSTest:54 - url is launched
+2020-08-26 14:05:46 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (be9c53bb9a7533ee71f0dac974ab282c)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 14:08:13 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 14:08:15 INFO  LMSTest:54 - url is launched
+2020-08-26 14:09:16 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (bbe7a47bebd52bcb4a465a1572872695)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 14:13:10 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 14:13:13 INFO  LMSTest:54 - url is launched
+2020-08-26 14:14:10 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (5a14d5ca35079dfe58346176bc86dd51)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 14:17:27 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 14:17:30 INFO  LMSTest:54 - url is launched
+2020-08-26 14:18:25 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (c571dc49ca645f974997435aa6d719a9)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 14:27:53 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 14:27:56 INFO  LMSTest:54 - url is launched
+2020-08-26 14:28:51 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (7ec84865c7dbff81150a1e289e025b6d)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 14:33:50 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 14:33:59 INFO  LMSTest:54 - url is launched
+2020-08-26 14:34:57 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (8c2f6328a3b92bdd4598bc8a6ed3867e)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 15:11:37 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 15:11:41 INFO  LMSTest:54 - url is launched
+2020-08-26 15:12:58 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (39d0b071861df9087dc29d37e4bf09d3)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 15:15:50 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 15:15:53 INFO  LMSTest:54 - url is launched
+2020-08-26 15:17:04 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (8f8be60271753d842b1758b0227bb701)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 15:24:13 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 15:24:18 INFO  LMSTest:54 - url is launched
+2020-08-26 15:25:30 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (7dff02b1965512e9b93a165cb941dd5d)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 15:31:52 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 15:31:55 INFO  LMSTest:54 - url is launched
+2020-08-26 15:33:03 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (9be9264181689b3cb8c70182a95b3322)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 15:34:48 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 15:34:51 INFO  LMSTest:54 - url is launched
+2020-08-26 16:04:33 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 16:04:36 INFO  LMSTest:54 - url is launched
+2020-08-26 16:05:34 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (6150dd7cd8d60f685e163bb3f7ec7385)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 16:10:04 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 16:10:07 INFO  LMSTest:54 - url is launched
+2020-08-26 16:11:13 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (9b85a5a5322022068519aefaf2bbc16b)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 16:33:14 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 16:33:17 INFO  LMSTest:54 - url is launched
+2020-08-26 16:34:19 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (35f6451d735ce0ec521a78f4e208ec6a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 16:37:11 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 16:37:15 INFO  LMSTest:54 - url is launched
+2020-08-26 16:38:13 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (6e23e6bf9b9d1cba23a74cfdcd5d9cb1)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 16:42:42 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 16:42:44 INFO  LMSTest:54 - url is launched
+2020-08-26 16:43:45 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (f29563c8839b983f264df5d999848a13)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 16:47:34 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 16:47:37 INFO  LMSTest:54 - url is launched
+2020-08-26 16:48:33 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (194e7ffcf2db1c12ba271ec5bf7bec13)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 16:55:20 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 16:55:23 INFO  LMSTest:54 - url is launched
+2020-08-26 16:56:19 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (26a5c292a28762ffd45ebbca3d1ed19d)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 17:03:22 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 17:03:25 INFO  LMSTest:54 - url is launched
+2020-08-26 17:04:31 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (90e6d1502e98b7adb11643a7063fe654)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 17:13:47 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 17:13:50 INFO  LMSTest:54 - url is launched
+2020-08-26 17:14:53 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (be7aa9a729e4cb727a1fb85679bfdfa8)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 17:22:18 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 17:33:20 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 17:33:24 INFO  LMSTest:54 - url is launched
+2020-08-26 17:34:26 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (8b33288dcbaa605b4414476fca50aa25)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 18:40:38 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 18:40:40 INFO  LMSTest:54 - url is launched
+2020-08-26 18:41:37 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (96b577471dbf0910305dc961315490b0)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 18:45:10 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 18:45:13 INFO  LMSTest:54 - url is launched
+2020-08-26 18:46:11 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (b1cb8b653807f093b08f6b1715e17e88)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 18:55:25 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 18:55:27 INFO  LMSTest:54 - url is launched
+2020-08-26 18:56:24 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (b79d0b07839c4364125f5f7a191ac2ec)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 19:07:12 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 19:07:14 INFO  LMSTest:54 - url is launched
+2020-08-26 19:08:10 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (310a1f4ec814bceec76d08d348c44acc)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 19:15:07 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 19:15:11 INFO  LMSTest:54 - url is launched
+2020-08-26 19:16:04 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (c707a80b736ef32aa9b34bc0201d9904)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-26 19:30:32 INFO  LMSTest:49 -  Window is miximized
+2020-08-26 19:30:35 INFO  LMSTest:54 - url is launched
+2020-08-26 19:31:31 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (2f7419965bf33ab71723669d85a5ab50)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
