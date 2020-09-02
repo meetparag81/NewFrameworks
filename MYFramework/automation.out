@@ -3473,3 +3473,1975 @@ Session ID: 46f21d3ee0f10fb4d9b7eacce6f61b59
 2020-08-26 19:30:32 INFO  LMSTest:49 -  Window is miximized
 2020-08-26 19:30:35 INFO  LMSTest:54 - url is launched
 2020-08-26 19:31:31 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (2f7419965bf33ab71723669d85a5ab50)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 09:59:02 INFO  LMSTest:49 -  Window is miximized
+2020-08-27 09:59:07 INFO  LMSTest:54 - url is launched
+2020-08-27 10:00:12 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (bd129053d36b0f953132b30c3459329e)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 10:04:05 INFO  LMSTest:49 -  Window is miximized
+2020-08-27 10:04:08 INFO  LMSTest:54 - url is launched
+2020-08-27 10:05:17 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (a7ba27bd95215c57b8a94da3185cfcf8)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 10:20:14 INFO  LMSTest:49 -  Window is miximized
+2020-08-27 10:20:17 INFO  LMSTest:54 - url is launched
+2020-08-27 10:21:26 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (aa7cbc74528579fa28e16d73a0a09728)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 10:23:08 INFO  LMSTest:49 -  Window is miximized
+2020-08-27 10:23:12 INFO  LMSTest:54 - url is launched
+2020-08-27 10:24:22 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (1ea806f924c6d19ccfbaf6e090e59cb2)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 10:28:52 INFO  LMSTest:49 -  Window is miximized
+2020-08-27 10:28:55 INFO  LMSTest:54 - url is launched
+2020-08-27 10:30:05 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (cc129301ab11bb9f1dd7f00fa4a30d92)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 10:36:08 INFO  LMSTest:49 -  Window is miximized
+2020-08-27 10:36:13 INFO  LMSTest:54 - url is launched
+2020-08-27 10:37:28 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (8145680f2d3f012f6b305918b813f9b0)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 10:42:51 INFO  LMSTest:49 -  Window is miximized
+2020-08-27 10:42:55 INFO  LMSTest:54 - url is launched
+2020-08-27 10:44:08 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (4855af53aeec96d316f40df3eca80fd5)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 10:46:01 INFO  LMSTest:49 -  Window is miximized
+2020-08-27 10:46:04 INFO  LMSTest:54 - url is launched
+2020-08-27 10:47:10 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (54aea76f4c51c3b9d47413330a839bfa)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 11:17:29 INFO  LMSTest:50 -  Window is miximized
+2020-08-27 11:17:32 INFO  LMSTest:55 - url is launched
+2020-08-27 11:18:35 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (60e35dc32a8f29430ddf8d5026385b75)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 11:23:12 INFO  LMSTest:210 - scenario1is executed
+2020-08-27 11:24:20 INFO  LMSTest:50 -  Window is miximized
+2020-08-27 11:24:23 INFO  LMSTest:55 - url is launched
+2020-08-27 11:25:29 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (25484a08fe74930eb19d7340501d39c5)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 11:29:55 INFO  LMSTest:? - scenario2is executed
+2020-08-27 11:30:04 INFO  LMSTest:? -  Window is miximized
+2020-08-27 11:30:07 INFO  LMSTest:? - url is launched
+2020-08-27 11:31:16 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (5117205e610cd19a733e7b5affdcd60e)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 11:32:51 INFO  LMSTest:50 -  Window is miximized
+2020-08-27 11:32:54 INFO  LMSTest:55 - url is launched
+2020-08-27 12:02:21 INFO  LMSTest:50 -  Window is miximized
+2020-08-27 12:02:24 INFO  LMSTest:55 - url is launched
+2020-08-27 12:04:03 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (eb1edd44ba315055dac425dfbb1954f7)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 12:05:01 INFO  LMSTest:50 -  Window is miximized
+2020-08-27 12:05:05 INFO  LMSTest:55 - url is launched
+2020-08-27 12:07:55 INFO  LMSTest:50 -  Window is miximized
+2020-08-27 12:07:59 INFO  LMSTest:55 - url is launched
+2020-08-27 12:09:34 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (ec5dd37643302de066dda521ab976af9)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 12:14:22 INFO  LMSTest:211 - Testcase execute for1No of times
+2020-08-27 12:14:29 INFO  LMSTest:50 -  Window is miximized
+2020-08-27 12:14:36 INFO  LMSTest:55 - url is launched
+2020-08-27 12:15:58 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (863799c764a00097af0c873c03a4e36a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 12:22:22 INFO  LMSTest:211 - Testcase execute for2No of times
+2020-08-27 12:22:30 INFO  LMSTest:50 -  Window is miximized
+2020-08-27 12:22:32 INFO  LMSTest:55 - url is launched
+2020-08-27 12:23:44 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (db7d3ad7f3dd87c0c3b13765441db3d6)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 12:36:35 INFO  LMSTest:? - Testcase execute for3No of times
+2020-08-27 14:25:06 INFO  LMSTest:51 -  Window is miximized
+2020-08-27 14:25:33 INFO  LMSTest:56 - url is launched
+2020-08-27 14:29:49 INFO  LMSTest:51 -  Window is miximized
+2020-08-27 14:33:26 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 14:34:26 INFO  LMSTest:61 - [Ljava.lang.StackTraceElement;@537b32ef
+2020-08-27 14:34:26 INFO  LMSTest:63 - url is launched
+2020-08-27 14:40:27 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 14:40:59 INFO  LMSTest:63 - url is launched
+2020-08-27 14:52:32 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 14:52:40 INFO  LMSTest:63 - url is launched
+2020-08-27 14:54:44 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (361263f0ba4970ac26eec7b1559ca36c)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 15:00:43 INFO  LMSTest:222 - Testcase execute for1time
+2020-08-27 15:01:10 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 15:01:15 INFO  LMSTest:63 - url is launched
+2020-08-27 15:02:36 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (af2fff7da111fce39d8924071ef48fe3)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 15:05:39 INFO  LMSTest:? - Testcase execute for2time
+2020-08-27 15:05:58 INFO  LMSTest:? -  Window is miximized
+2020-08-27 15:06:03 INFO  LMSTest:? - url is launched
+2020-08-27 15:11:49 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 15:11:54 INFO  LMSTest:63 - url is launched
+2020-08-27 15:13:26 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (8f0c52691b4acebbf6ea6d0238f90985)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 15:17:22 INFO  LMSTest:213 - Testcase execute for1time
+2020-08-27 15:17:40 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 15:17:45 INFO  LMSTest:63 - url is launched
+2020-08-27 15:23:41 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 15:23:46 INFO  LMSTest:63 - url is launched
+2020-08-27 15:28:01 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 15:28:27 INFO  LMSTest:63 - url is launched
+2020-08-27 15:31:29 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (62ed0fd53f6bc04ca97de7e74d6d539b)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 15:34:22 INFO  LMSTest:? - the otionCOM_TEST text  isSelect All / Deselect All 
+2020-08-27 15:34:22 INFO  LMSTest:? - the otionCOM_TEST text  is
+2020-08-27 15:34:22 INFO  LMSTest:? - the otionCOM_TEST text  isSelect All / Deselect All 
+2020-08-27 15:34:22 INFO  LMSTest:? - the otionCOM_TEST text  isCOM_TEST 
+2020-08-27 15:34:24 INFO  LMSTest:? - the input box forCOM_TEST option is clicked
+2020-08-27 15:35:26 INFO  LMSTest:? - Testcase execute for1time
+2020-08-27 15:35:46 INFO  LMSTest:? -  Window is miximized
+2020-08-27 15:36:10 INFO  LMSTest:? - url is launched
+2020-08-27 15:47:56 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 15:48:38 INFO  LMSTest:63 - url is launched
+2020-08-27 15:52:50 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 15:52:59 INFO  LMSTest:63 - url is launched
+2020-08-27 15:54:45 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 15:54:52 INFO  LMSTest:57 - url is launched
+2020-08-27 16:00:01 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 16:00:31 INFO  LMSTest:57 - url is launched
+2020-08-27 16:09:16 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 16:09:23 INFO  LMSTest:57 - url is launched
+2020-08-27 16:13:52 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 16:14:15 INFO  LMSTest:57 - url is launched
+2020-08-27 16:48:54 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 16:49:08 INFO  LMSTest:57 - url is launched
+2020-08-27 16:51:34 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (46877e51ed56f9a78aceda949efc4c76)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 16:53:10 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 16:53:14 INFO  LMSTest:57 - url is launched
+2020-08-27 16:57:47 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 16:57:52 INFO  LMSTest:57 - url is launched
+2020-08-27 17:00:59 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (b484985f4e2618f6504549af8207c2b7)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 17:02:57 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 17:03:00 INFO  LMSTest:57 - url is launched
+2020-08-27 17:05:18 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (246c381f4bf7e196a15cf2fb1a8bc249)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 17:09:23 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 17:09:26 INFO  LMSTest:57 - url is launched
+2020-08-27 17:11:35 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (e21295ada5722e486cabda55218af22b)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 17:13:39 INFO  LMSTest:131 - the otionCOM_TEST1 text  isSelect All / Deselect All 
+2020-08-27 17:13:39 INFO  LMSTest:131 - the otionCOM_TEST1 text  is
+2020-08-27 17:13:40 INFO  LMSTest:131 - the otionCOM_TEST1 text  isSelect All / Deselect All 
+2020-08-27 17:13:40 INFO  LMSTest:131 - the otionCOM_TEST1 text  isCOM_TEST 
+2020-08-27 17:13:40 INFO  LMSTest:131 - the otionCOM_TEST1 text  isCatalog for commerce test 
+2020-08-27 17:13:40 INFO  LMSTest:131 - the otionCOM_TEST1 text  is
+2020-08-27 17:13:40 INFO  LMSTest:131 - the otionCOM_TEST1 text  isSelect All / Deselect All 
+2020-08-27 17:13:40 INFO  LMSTest:131 - the otionCOM_TEST1 text  is
+2020-08-27 17:13:40 INFO  LMSTest:131 - the otionCOM_TEST1 text  isSelect All / Deselect All 
+2020-08-27 17:15:24 INFO  LMSTest:216 - Testcase execute for1 time
+2020-08-27 17:15:43 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 17:15:51 INFO  LMSTest:57 - url is launched
+2020-08-27 17:18:16 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (896cde8015b2f7699d8e1aaa06020c4e)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 17:25:17 INFO  LMSTest:131 - the otionCOM_TEST1 text  isSelect All / Deselect All 
+2020-08-27 17:25:29 INFO  LMSTest:131 - the otionCOM_TEST1 text  is
+2020-08-27 17:25:38 INFO  LMSTest:131 - the otionCOM_TEST1 text  isSelect All / Deselect All 
+2020-08-27 17:25:57 INFO  LMSTest:131 - the otionCOM_TEST1 text  isCOM_TEST 
+2020-08-27 17:26:20 INFO  LMSTest:131 - the otionCOM_TEST1 text  isCatalog for commerce test 
+2020-08-27 17:27:25 INFO  LMSTest:131 - the otionCOM_TEST1 text  is
+2020-08-27 17:27:37 INFO  LMSTest:131 - the otionCOM_TEST1 text  isSelect All / Deselect All 
+2020-08-27 17:27:44 INFO  LMSTest:131 - the otionCOM_TEST1 text  is
+2020-08-27 17:28:00 INFO  LMSTest:131 - the otionCOM_TEST1 text  isSelect All / Deselect All 
+2020-08-27 17:31:13 INFO  LMSTest:216 - Testcase execute for2 time
+2020-08-27 17:31:32 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 17:34:53 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 17:37:43 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 17:41:43 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 17:59:50 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 18:02:52 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 18:10:28 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 18:10:55 INFO  LMSTest:57 - url is launched
+2020-08-27 18:11:53 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 18:12:13 INFO  LMSTest:57 - url is launched
+2020-08-27 19:21:42 INFO  LMSTest:52 -  Window is miximized
+2020-08-27 19:21:46 INFO  LMSTest:57 - url is launched
+2020-08-27 19:24:14 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (5d2e252a746125b2ac431e768b0b11f7)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 19:31:25 INFO  LMSTest:53 -  Window is miximized
+2020-08-27 19:31:32 INFO  LMSTest:58 - url is launched
+2020-08-27 19:34:48 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (370647229d025657dbdfad7daa3dcfbb)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 19:38:33 INFO  LMSTest:138 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-27 19:38:52 INFO  LMSTest:138 - the otionCOM_TEST----> text  is
+2020-08-27 19:39:03 INFO  LMSTest:138 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-27 19:39:14 INFO  LMSTest:138 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-27 19:39:23 INFO  LMSTest:144 - the input box forCOM_TEST option is clicked
+2020-08-27 19:40:51 INFO  LMSTest:223 - Testcase execute for1 time
+2020-08-27 19:41:13 INFO  LMSTest:53 -  Window is miximized
+2020-08-27 19:41:21 INFO  LMSTest:58 - url is launched
+2020-08-27 19:44:01 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (4be65900e03db2e1109dc09fd8fee821)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 19:48:05 INFO  LMSTest:138 - the otionTEST----> text  isSelect All / Deselect All 
+2020-08-27 19:48:12 INFO  LMSTest:138 - the otionTEST----> text  is
+2020-08-27 19:48:15 INFO  LMSTest:138 - the otionTEST----> text  isSelect All / Deselect All 
+2020-08-27 19:48:19 INFO  LMSTest:138 - the otionTEST----> text  isCOM_TEST 
+2020-08-27 19:48:26 INFO  LMSTest:144 - the input box forTEST option is clicked
+2020-08-27 19:50:22 INFO  LMSTest:223 - Testcase execute for2 time
+2020-08-27 19:50:42 INFO  LMSTest:53 -  Window is miximized
+2020-08-27 19:50:46 INFO  LMSTest:58 - url is launched
+2020-08-27 19:53:20 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (04b469ebd836d400a37e61d18ecc64c5)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 19:57:23 INFO  LMSTest:138 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-27 19:57:27 INFO  LMSTest:138 - the otionCOM_TEST----> text  is
+2020-08-27 19:57:32 INFO  LMSTest:138 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-27 19:57:33 INFO  LMSTest:138 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-27 19:57:37 INFO  LMSTest:144 - the input box forCOM_TEST option is clicked
+2020-08-27 19:58:48 INFO  LMSTest:223 - Testcase execute for3 time
+2020-08-27 20:03:17 INFO  LMSTest:53 -  Window is miximized
+2020-08-27 20:03:22 INFO  LMSTest:58 - url is launched
+2020-08-27 20:05:38 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (98409e7825157d7c88199ffb1b3b142e)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 20:09:32 INFO  LMSTest:53 -  Window is miximized
+2020-08-27 20:09:37 INFO  LMSTest:58 - url is launched
+2020-08-27 20:12:08 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (367eb4c99dc025ebf2fc21966fc6575e)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 20:15:49 INFO  LMSTest:138 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-27 20:16:11 INFO  LMSTest:138 - the otionTestLirbrary----> text  is
+2020-08-27 20:16:15 INFO  LMSTest:138 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-27 20:16:18 INFO  LMSTest:138 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-08-27 20:16:24 INFO  LMSTest:144 - the input box forTestLirbrary option is clicked
+2020-08-27 20:19:00 INFO  LMSTest:223 - Testcase execute for4 time
+2020-08-27 20:19:17 INFO  LMSTest:53 -  Window is miximized
+2020-08-27 20:19:22 INFO  LMSTest:58 - url is launched
+2020-08-27 20:21:52 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (84694bf5e85c3a26051333205018b28b)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-27 20:27:15 INFO  LMSTest:138 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-27 20:27:15 INFO  LMSTest:138 - the otionCOM_TEST----> text  is
+2020-08-27 20:27:15 INFO  LMSTest:138 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-27 20:27:15 INFO  LMSTest:138 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-27 20:27:16 INFO  LMSTest:144 - the input box forCOM_TEST option is clicked
+2020-08-27 20:28:12 INFO  LMSTest:223 - Testcase execute for5 time
+2020-08-28 10:06:20 INFO  LMSTest:54 -  Window is miximized
+2020-08-28 10:06:26 INFO  LMSTest:59 - url is launched
+2020-08-28 10:08:34 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (a66713e4de12480f30128a5ba0ebacdd)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-28 10:11:04 INFO  LMSTest:139 - the otionTEST----> text  isSelect All / Deselect All 
+2020-08-28 10:11:04 INFO  LMSTest:139 - the otionTEST----> text  is
+2020-08-28 10:11:04 INFO  LMSTest:139 - the otionTEST----> text  isSelect All / Deselect All 
+2020-08-28 10:11:04 INFO  LMSTest:139 - the otionTEST----> text  isCOM_TEST 
+2020-08-28 10:11:05 INFO  LMSTest:145 - the input box forTEST option is clicked
+2020-08-28 10:13:28 INFO  LMSTest:232 - Testcase execute for4 time
+2020-08-28 10:13:47 INFO  LMSTest:54 -  Window is miximized
+2020-08-28 10:13:50 INFO  LMSTest:59 - url is launched
+2020-08-28 10:16:02 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (947d160200704caa10c68a48bc6cd189)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-28 10:19:57 INFO  LMSTest:139 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-28 10:19:57 INFO  LMSTest:139 - the otionCOM_TEST----> text  is
+2020-08-28 10:19:57 INFO  LMSTest:139 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-28 10:19:57 INFO  LMSTest:139 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-28 10:19:58 INFO  LMSTest:145 - the input box forCOM_TEST option is clicked
+2020-08-28 10:21:13 INFO  LMSTest:232 - Testcase execute for5 time
+2020-08-28 10:21:32 INFO  LMSTest:54 -  Window is miximized
+2020-08-28 10:21:36 INFO  LMSTest:59 - url is launched
+2020-08-28 10:23:42 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (5b379b8df7882438192874d6cb3ae8f1)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-28 10:27:28 INFO  LMSTest:54 -  Window is miximized
+2020-08-28 10:27:31 INFO  LMSTest:59 - url is launched
+2020-08-28 10:29:38 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (2e13ec995d713d22770f1c41e450369c)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-28 10:37:13 INFO  LMSTest:54 -  Window is miximized
+2020-08-28 10:37:16 INFO  LMSTest:59 - url is launched
+2020-08-28 10:39:22 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (4d523a4f7697235758df3097b793192a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-28 10:47:20 INFO  LMSTest:54 -  Window is miximized
+2020-08-28 10:47:24 INFO  LMSTest:59 - url is launched
+2020-08-28 10:49:35 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (fed91c2423e68acb3cf06182fe1e357e)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-28 10:53:27 INFO  LMSTest:136 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-28 10:53:29 INFO  LMSTest:136 - the otionCOM_TEST----> text  is
+2020-08-28 10:53:30 INFO  LMSTest:136 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-28 10:53:32 INFO  LMSTest:136 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-28 10:53:38 INFO  LMSTest:142 - the input box forCOM_TEST option is clicked
+2020-08-28 10:55:23 INFO  LMSTest:229 - Testcase execute for3 time
+2020-08-28 10:55:43 INFO  LMSTest:54 -  Window is miximized
+2020-08-28 10:55:46 INFO  LMSTest:59 - url is launched
+2020-08-28 10:57:53 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (ba9c380dabaad850015c7281ff5891fd)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-28 11:00:43 INFO  LMSTest:136 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-28 11:01:04 INFO  LMSTest:136 - the otionTestLirbrary----> text  is
+2020-08-28 11:01:07 INFO  LMSTest:136 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-28 11:01:10 INFO  LMSTest:136 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-08-28 11:01:24 INFO  LMSTest:142 - the input box forTestLirbrary option is clicked
+2020-08-28 11:04:21 INFO  LMSTest:229 - Testcase execute for4 time
+2020-08-28 11:04:39 INFO  LMSTest:54 -  Window is miximized
+2020-08-28 11:04:42 INFO  LMSTest:59 - url is launched
+2020-08-28 11:06:45 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (d8afb36f44fa8b414c45459d7e5ab82a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-28 11:09:34 INFO  LMSTest:136 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-28 11:09:34 INFO  LMSTest:136 - the otionCOM_TEST----> text  is
+2020-08-28 11:09:34 INFO  LMSTest:136 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-28 11:09:34 INFO  LMSTest:136 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-28 11:09:35 INFO  LMSTest:142 - the input box forCOM_TEST option is clicked
+2020-08-28 11:10:54 INFO  LMSTest:229 - Testcase execute for5 time
+2020-08-28 11:13:57 INFO  LMSTest:54 -  Window is miximized
+2020-08-28 11:14:00 INFO  LMSTest:59 - url is launched
+2020-08-28 11:16:03 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (af774fc96a18f49548dfad87d81a816e)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-28 11:17:41 INFO  LMSTest:136 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-28 11:17:41 INFO  LMSTest:136 - the otionCOM_TEST----> text  is
+2020-08-28 11:17:41 INFO  LMSTest:136 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-28 11:17:41 INFO  LMSTest:136 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-28 11:17:42 INFO  LMSTest:142 - the input box forCOM_TEST option is clicked
+2020-08-28 11:18:29 INFO  LMSTest:229 - Testcase execute for3 time
+2020-08-28 11:18:47 INFO  LMSTest:54 -  Window is miximized
+2020-08-28 11:18:49 INFO  LMSTest:59 - url is launched
+2020-08-28 11:20:47 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (257ffe87f51663011d255d7b7c19f46b)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-28 11:22:25 INFO  LMSTest:136 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-28 11:22:25 INFO  LMSTest:136 - the otionTestLirbrary----> text  is
+2020-08-28 11:22:25 INFO  LMSTest:136 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-28 11:22:25 INFO  LMSTest:136 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-08-28 11:22:26 INFO  LMSTest:142 - the input box forTestLirbrary option is clicked
+2020-08-28 11:23:13 INFO  LMSTest:229 - Testcase execute for4 time
+2020-08-28 11:23:31 INFO  LMSTest:54 -  Window is miximized
+2020-08-28 11:23:33 INFO  LMSTest:59 - url is launched
+2020-08-28 11:25:29 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (d1b8a83ca0f1e00f26d256fa497b9769)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-28 11:27:07 INFO  LMSTest:136 - the otionTEST----> text  isSelect All / Deselect All 
+2020-08-28 11:27:07 INFO  LMSTest:136 - the otionTEST----> text  is
+2020-08-28 11:27:07 INFO  LMSTest:136 - the otionTEST----> text  isSelect All / Deselect All 
+2020-08-28 11:27:07 INFO  LMSTest:136 - the otionTEST----> text  isCOM_TEST 
+2020-08-28 11:27:08 INFO  LMSTest:142 - the input box forTEST option is clicked
+2020-08-28 11:27:55 INFO  LMSTest:229 - Testcase execute for5 time
+2020-08-28 12:46:50 INFO  TestNGListners:44 - screenshot for failtestcase is started
+2020-08-28 12:46:50 INFO  TestNGListners:46 - screenshot for failtestcase is taken
+2020-08-28 12:47:09 INFO  LMSTest:54 -  Window is miximized
+2020-08-28 12:48:06 INFO  LMSTest:59 - url is launched
+2020-08-28 12:58:33 INFO  LMSTest:54 -  Window is miximized
+2020-08-28 12:58:36 INFO  LMSTest:59 - url is launched
+2020-08-28 13:00:53 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (9ed9cb3dd3956093122cafaf15ef56e7)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-28 13:03:48 INFO  LMSTest:136 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-28 13:03:48 INFO  LMSTest:136 - the otionCOM_TEST----> text  is
+2020-08-28 13:03:48 INFO  LMSTest:136 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-28 13:03:48 INFO  LMSTest:136 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-28 13:03:50 INFO  LMSTest:142 - the input box forCOM_TEST option is clicked
+2020-08-28 15:16:41 INFO  LMSTest:56 -  Window is miximized
+2020-08-28 15:16:45 INFO  LMSTest:61 - url is launched
+2020-08-28 15:18:56 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (cda0976154a32543ff3451662b27843a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-28 15:19:48 INFO  LMSTest:139 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-28 15:19:48 INFO  LMSTest:139 - the otionCOM_TEST----> text  is
+2020-08-28 15:19:48 INFO  LMSTest:139 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-28 15:19:48 INFO  LMSTest:139 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-28 15:19:49 INFO  LMSTest:145 - the input box forCOM_TEST option is clicked
+2020-08-28 15:20:37 INFO  LMSTest:232 - Testcase execute for3 time
+2020-08-28 15:20:57 INFO  LMSTest:56 -  Window is miximized
+2020-08-28 15:21:00 INFO  LMSTest:61 - url is launched
+2020-08-28 15:23:09 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (fabe12a35714d394be311f897e4a1fb7)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-28 15:24:02 INFO  LMSTest:139 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-28 15:24:02 INFO  LMSTest:139 - the otionTestLirbrary----> text  is
+2020-08-28 15:24:02 INFO  LMSTest:139 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-28 15:24:02 INFO  LMSTest:139 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-08-28 15:24:04 INFO  LMSTest:145 - the input box forTestLirbrary option is clicked
+2020-08-28 15:24:53 INFO  LMSTest:232 - Testcase execute for4 time
+2020-08-28 15:25:12 INFO  LMSTest:56 -  Window is miximized
+2020-08-28 15:25:17 INFO  LMSTest:61 - url is launched
+2020-08-28 15:27:29 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (4841855cc77b513c18ae193ab2edcf1a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-28 15:28:20 INFO  LMSTest:139 - the otionTEST----> text  isSelect All / Deselect All 
+2020-08-28 15:28:20 INFO  LMSTest:139 - the otionTEST----> text  is
+2020-08-28 15:28:20 INFO  LMSTest:139 - the otionTEST----> text  isSelect All / Deselect All 
+2020-08-28 15:28:21 INFO  LMSTest:139 - the otionTEST----> text  isCOM_TEST 
+2020-08-28 15:28:22 INFO  LMSTest:145 - the input box forTEST option is clicked
+2020-08-28 15:29:10 INFO  LMSTest:232 - Testcase execute for5 time
+2020-08-28 18:03:27 INFO  LMSTest:57 -  Window is miximized
+2020-08-28 18:03:29 INFO  LMSTest:62 - url is launched
+2020-08-28 18:05:27 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (66d4bc3073fec6284ff89759464ef3c7)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-29 16:52:11 INFO  LMSTest:57 -  Window is miximized
+2020-08-29 16:52:14 INFO  LMSTest:62 - url is launched
+2020-08-29 16:54:26 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (3d1e789caddf81abfac885c7fe928138)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-29 17:47:48 INFO  LMSTest:58 -  Window is miximized
+2020-08-29 17:47:52 INFO  LMSTest:63 - url is launched
+2020-08-29 17:50:09 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (0d26076d585ebcfd8b92333efbccf6c9)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-29 18:37:09 INFO  LMSTest:58 -  Window is miximized
+2020-08-29 18:37:13 INFO  LMSTest:63 - url is launched
+2020-08-29 18:39:18 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (d2de55eeccc560d83e6918372d6fbd80)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-29 18:48:52 INFO  LMSTest:58 -  Window is miximized
+2020-08-29 18:48:59 INFO  LMSTest:63 - url is launched
+2020-08-29 18:53:40 INFO  LMSTest:58 -  Window is miximized
+2020-08-29 18:53:44 INFO  LMSTest:63 - url is launched
+2020-08-29 18:55:47 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (772bbd472db8f91f4f75af4c4b4f9bb2)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-29 18:57:13 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isRecords per Page 
+5
+10
+25
+50
+500
+All
+(11 total records) Select All / Deselect All 
+2020-08-29 18:57:16 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isRecords per Page 
+5
+10
+25
+50
+500
+All
+(11 total records)
+2020-08-29 18:57:20 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isSelect All / Deselect All 
+2020-08-29 18:57:33 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text is20200722 
+2020-08-29 18:57:36 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isProject 101 
+2020-08-29 18:57:38 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text is
+2020-08-29 18:57:41 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isCAT_CORE 
+2020-08-29 18:57:45 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isCORE General Catalogue 
+2020-08-29 18:57:49 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text is
+2020-08-29 18:57:51 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isCOM_TEST 
+2020-08-29 19:02:37 INFO  LMSTest:58 -  Window is miximized
+2020-08-29 19:02:40 INFO  LMSTest:63 - url is launched
+2020-08-29 19:04:51 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (44dd5a8b80eccd07c5e383d17b5d87ea)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-29 19:06:46 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isRecords per Page 
+5
+10
+25
+50
+500
+All
+(11 total records) Select All / Deselect All 
+2020-08-29 19:07:36 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isRecords per Page 
+5
+10
+25
+50
+500
+All
+(11 total records)
+2020-08-29 19:07:38 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isSelect All / Deselect All 
+2020-08-29 19:07:40 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text is20200722 
+2020-08-29 19:07:41 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isProject 101 
+2020-08-29 19:07:43 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text is
+2020-08-29 19:07:47 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isCAT_CORE 
+2020-08-29 19:07:49 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isCORE General Catalogue 
+2020-08-29 19:07:51 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text is
+2020-08-29 19:07:53 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isCOM_TEST 
+2020-08-29 19:07:55 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isCatalog for commerce test 
+2020-08-29 19:07:57 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text is
+2020-08-29 19:08:00 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isGENERAL 
+2020-08-29 19:08:02 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isGeneral Library 
+2020-08-29 19:08:04 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text is
+2020-08-29 19:08:06 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isGENERAL1 
+2020-08-29 19:08:08 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isGENERAL LIBRARY 
+2020-08-29 19:08:11 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text is
+2020-08-29 19:08:13 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isGamification_Catalog 
+2020-08-29 19:08:16 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isGamification Catalog  
+2020-08-29 19:08:18 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text is
+2020-08-29 19:08:23 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isLMSClassroom_Catalog 
+2020-08-29 19:08:28 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isThis is the LMS Classroom Catalog 
+2020-08-29 19:08:31 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text is
+2020-08-29 19:08:35 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isLearning Boards 
+2020-08-29 19:08:39 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isThis is a Learning Board Catalog 
+2020-08-29 19:08:42 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text is
+2020-08-29 19:08:44 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isMYC_EXT_CAT 
+2020-08-29 19:08:47 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isMy Concerto External Catalog 
+2020-08-29 19:08:49 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text is
+2020-08-29 19:08:51 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isOPENSESAME 
+2020-08-29 19:08:53 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isCatalog for Opensesame courses 
+2020-08-29 19:08:55 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text is
+2020-08-29 19:08:57 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isTestLirbrary 
+2020-08-29 19:08:58 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isTest 
+2020-08-29 19:08:59 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text is
+2020-08-29 19:09:00 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isRecords per Page 
+5
+10
+25
+50
+500
+All
+(11 total records) Select All / Deselect All 
+2020-08-29 19:09:04 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isRecords per Page 
+5
+10
+25
+50
+500
+All
+(11 total records)
+2020-08-29 19:09:07 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isSelect All / Deselect All 
+2020-08-29 19:09:09 INFO  LMSTest:135 - the vauefromtext=TESTandelement text isRecords per Page 
+5
+10
+25
+50
+500
+All
+(11 total records) Select All / Deselect All 
+2020-08-29 19:09:10 INFO  LMSTest:135 - the vauefromtext=TESTandelement text isRecords per Page 
+5
+10
+25
+50
+500
+All
+(11 total records)
+2020-08-29 19:09:11 INFO  LMSTest:135 - the vauefromtext=TESTandelement text isSelect All / Deselect All 
+2020-08-29 19:09:12 INFO  LMSTest:135 - the vauefromtext=TESTandelement text is20200722 
+2020-08-29 19:09:13 INFO  LMSTest:135 - the vauefromtext=TESTandelement text isProject 101 
+2020-08-29 19:09:14 INFO  LMSTest:135 - the vauefromtext=TESTandelement text is
+2020-08-29 19:09:14 INFO  LMSTest:135 - the vauefromtext=TESTandelement text isCAT_CORE 
+2020-08-29 19:09:15 INFO  LMSTest:135 - the vauefromtext=TESTandelement text isCORE General Catalogue 
+2020-08-29 19:11:36 INFO  LMSTest:58 -  Window is miximized
+2020-08-29 19:11:40 INFO  LMSTest:63 - url is launched
+2020-08-29 19:13:50 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (7989b97426111c9a89c8aa71e1db1c79)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-29 19:14:53 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isRecords per Page 
+5
+10
+25
+50
+500
+All
+(11 total records) Select All / Deselect All 
+2020-08-29 19:23:20 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isRecords per Page 
+5
+10
+25
+50
+500
+All
+(11 total records)
+2020-08-29 19:23:22 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isSelect All / Deselect All 
+2020-08-29 19:23:31 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text is20200722 
+2020-08-29 19:23:33 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isProject 101 
+2020-08-29 19:23:37 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text is
+2020-08-29 19:23:38 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isCAT_CORE 
+2020-08-29 19:23:40 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isCORE General Catalogue 
+2020-08-29 19:23:41 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text is
+2020-08-29 19:23:43 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isCOM_TEST 
+2020-08-29 19:26:31 INFO  LMSTest:58 -  Window is miximized
+2020-08-29 19:26:34 INFO  LMSTest:63 - url is launched
+2020-08-29 19:28:49 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (d0e6c78b384a30e2220fe24f6e75dde3)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-29 19:29:39 INFO  LMSTest:135 - the vauefromtext=COM_TESTandelement text isRecords per Page 
+5
+10
+25
+50
+500
+All
+(11 total records) Select All / Deselect All 
+2020-08-29 19:39:44 INFO  LMSTest:59 -  Window is miximized
+2020-08-29 19:39:48 INFO  LMSTest:64 - url is launched
+2020-08-29 19:42:24 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (36c444d0acce64ada8cc925028e70450)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-29 19:45:01 INFO  LMSTest:59 -  Window is miximized
+2020-08-29 19:45:04 INFO  LMSTest:64 - url is launched
+2020-08-29 19:47:17 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (2b19962cd6a2b7c712250d80f5fbfbf3)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-29 19:48:52 INFO  LMSTest:147 - the vauefromtext=TESTandelement text isRecords per Page 
+5
+10
+25
+50
+500
+All
+(11 total records) Select All / Deselect All 
+2020-08-29 19:48:55 INFO  LMSTest:147 - the vauefromtext=TESTandelement text isRecords per Page 
+5
+10
+25
+50
+500
+All
+(11 total records)
+2020-08-29 19:48:58 INFO  LMSTest:147 - the vauefromtext=TESTandelement text isSelect All / Deselect All 
+2020-08-29 19:49:00 INFO  LMSTest:147 - the vauefromtext=TESTandelement text is20200722 
+2020-08-29 19:49:02 INFO  LMSTest:147 - the vauefromtext=TESTandelement text isProject 101 
+2020-08-29 19:49:05 INFO  LMSTest:147 - the vauefromtext=TESTandelement text is
+2020-08-29 19:49:08 INFO  LMSTest:147 - the vauefromtext=TESTandelement text isCAT_CORE 
+2020-08-29 19:49:10 INFO  LMSTest:147 - the vauefromtext=TESTandelement text isCORE General Catalogue 
+2020-08-29 19:49:11 INFO  LMSTest:147 - the vauefromtext=TESTandelement text is
+2020-08-29 19:49:13 INFO  LMSTest:147 - the vauefromtext=TESTandelement text isCOM_TEST 
+2020-08-29 19:49:51 INFO  LMSTest:147 - the vauefromtext=TESTandelement text isCatalog for commerce test 
+2020-08-29 20:11:34 INFO  LMSTest:59 -  Window is miximized
+2020-08-29 20:11:37 INFO  LMSTest:64 - url is launched
+2020-08-29 20:13:48 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (b29fc69add7b7a6a05d99910bfc41089)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-29 20:22:04 INFO  LMSTest:59 -  Window is miximized
+2020-08-29 20:22:07 INFO  LMSTest:64 - url is launched
+2020-08-29 20:24:14 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (d3c4c65dddf8317bfbca05c01b619be3)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-29 20:31:10 INFO  LMSTest:59 -  Window is miximized
+2020-08-29 20:31:13 INFO  LMSTest:64 - url is launched
+2020-08-29 20:33:12 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (570d6e147e21cfad844b85db07a435f6)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-29 20:53:36 INFO  LMSTest:59 -  Window is miximized
+2020-08-29 20:53:39 INFO  LMSTest:64 - url is launched
+2020-08-29 20:55:39 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (db305bcda565635d4aae5ff69d77c0ca)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-29 21:42:06 INFO  LMSTest:59 -  Window is miximized
+2020-08-29 21:42:10 INFO  LMSTest:64 - url is launched
+2020-08-29 21:44:24 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (6a83de5b7ee169f87d3809af4aaab278)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-29 21:46:56 INFO  LMSTest:59 -  Window is miximized
+2020-08-29 21:47:00 INFO  LMSTest:64 - url is launched
+2020-08-29 21:49:08 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (d41497dc37331b6da00b2e1b124002b3)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-29 22:04:26 INFO  LMSTest:59 -  Window is miximized
+2020-08-29 22:04:30 INFO  LMSTest:64 - url is launched
+2020-08-29 22:06:41 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (e032e1b130dd19740f5f227ff7ff8abf)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-29 22:22:21 INFO  LMSTest:59 -  Window is miximized
+2020-08-29 22:22:24 INFO  LMSTest:64 - url is launched
+2020-08-29 22:24:37 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (cefefdca23fc1a1fe66c0e657d87363e)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-29 22:35:55 INFO  LMSTest:59 -  Window is miximized
+2020-08-29 22:36:00 INFO  LMSTest:64 - url is launched
+2020-08-29 22:38:25 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (fe0bd7e77f00015ff66336976b263293)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 13:49:45 INFO  LMSTest:57 -  Window is miximized
+2020-08-30 13:49:48 INFO  LMSTest:62 - url is launched
+2020-08-30 13:51:53 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (ddac4026270c470268c877cfd09282fb)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 14:06:15 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 14:06:19 INFO  LMSTest:64 - url is launched
+2020-08-30 14:08:25 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (7fdc56560757a0ad44b47f2c72931194)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 14:26:36 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 14:26:40 INFO  LMSTest:64 - url is launched
+2020-08-30 14:28:47 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (9afffa07fef33a442f76618af0b89432)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 14:36:47 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 14:36:51 INFO  LMSTest:64 - url is launched
+2020-08-30 14:38:52 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (3ef2d1ad09c26fe77bddecfaba201b3e)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 14:46:31 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 14:46:35 INFO  LMSTest:64 - url is launched
+2020-08-30 14:48:46 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (38d3189bf733805dd7b0136b0fde6873)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 14:54:06 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 14:54:09 INFO  LMSTest:64 - url is launched
+2020-08-30 14:56:10 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (1f8e6bd2aff5b55f134516321483a1ce)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 15:04:41 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 15:04:44 INFO  LMSTest:64 - url is launched
+2020-08-30 15:06:47 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (9b847cd166c5a2c8d628a9a380c69004)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 15:09:31 INFO  LMSTest:141 - the input box forTestLirbrary  option is clicked
+2020-08-30 15:09:53 INFO  LMSTest:141 - the input box forTestLirbrary  option is clicked
+2020-08-30 15:14:18 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 15:14:21 INFO  LMSTest:64 - url is launched
+2020-08-30 15:16:25 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (e10d0f4fdc96eb0980108a9578563f4f)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 15:18:42 INFO  LMSTest:141 - the input box forTestLirbrary  option is clicked
+2020-08-30 15:24:16 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 15:24:18 INFO  LMSTest:64 - url is launched
+2020-08-30 15:26:17 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (9c10c5d7804e130b4925dab95304297c)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 15:29:14 INFO  LMSTest:141 - the input box forTestLirbrary  option is clicked
+2020-08-30 15:37:59 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 15:38:11 INFO  LMSTest:64 - url is launched
+2020-08-30 15:40:28 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 15:40:39 INFO  LMSTest:64 - url is launched
+2020-08-30 15:43:55 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 15:44:06 INFO  LMSTest:64 - url is launched
+2020-08-30 15:54:43 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 15:54:46 INFO  LMSTest:64 - url is launched
+2020-08-30 15:58:57 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 15:59:12 INFO  LMSTest:64 - url is launched
+2020-08-30 16:02:30 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 16:02:49 INFO  LMSTest:64 - url is launched
+2020-08-30 16:15:13 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 16:16:11 INFO  LMSTest:64 - url is launched
+2020-08-30 16:19:11 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 16:19:14 INFO  LMSTest:64 - url is launched
+2020-08-30 16:26:02 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (b831e1d644714cbb9edfa121189cc0a2)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 17:10:15 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 17:10:18 INFO  LMSTest:64 - url is launched
+2020-08-30 18:12:34 INFO  LMSTest:57 -  Window is miximized
+2020-08-30 18:12:38 INFO  LMSTest:62 - url is launched
+2020-08-30 18:16:06 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 18:16:11 INFO  LMSTest:64 - url is launched
+2020-08-30 18:18:38 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (45e37a426b004ae5f3aae687b2e9bb91)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 18:21:19 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 18:21:22 INFO  LMSTest:64 - url is launched
+2020-08-30 18:26:13 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (a52614feaa4dce6698727df082c739f6)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 18:28:58 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 18:29:01 INFO  LMSTest:64 - url is launched
+2020-08-30 18:34:07 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 18:34:10 INFO  LMSTest:64 - url is launched
+2020-08-30 18:54:00 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 18:54:03 INFO  LMSTest:64 - url is launched
+2020-08-30 19:01:02 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (e57f87e8887a10ab83c3847f9799ccfa)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 19:05:05 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 19:05:09 INFO  LMSTest:64 - url is launched
+2020-08-30 19:14:53 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 19:14:56 INFO  LMSTest:64 - url is launched
+2020-08-30 19:22:47 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (69103c2363131755ef8f3b0c418f4812)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 19:31:38 INFO  LMSTest:140 - the input box forTestLirbrary  option is clicked
+2020-08-30 19:43:53 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 19:43:58 INFO  LMSTest:64 - url is launched
+2020-08-30 19:46:37 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (cbd897abcc6e9ac556224d2a5d1df581)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 19:53:21 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 19:53:23 INFO  LMSTest:64 - url is launched
+2020-08-30 19:58:58 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 19:59:02 INFO  LMSTest:64 - url is launched
+2020-08-30 20:01:12 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (1e5eace49c83d0b1d7742e1ae9e143ef)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 20:03:33 INFO  LMSTest:139 - the input box for20200722  option is clicked
+2020-08-30 20:24:51 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 20:24:54 INFO  LMSTest:64 - url is launched
+2020-08-30 20:27:02 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (f3013dd81548a4ee57f9653c53129866)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 20:28:57 INFO  LMSTest:138 - the input box for20200722  option is clicked
+2020-08-30 20:33:40 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 20:33:44 INFO  LMSTest:64 - url is launched
+2020-08-30 20:35:52 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (6617252582ab0d077679da874a8abd01)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 20:36:47 INFO  LMSTest:138 - the input box for20200722  option is clicked
+2020-08-30 20:40:35 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 20:40:37 INFO  LMSTest:64 - url is launched
+2020-08-30 20:42:45 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (8827890cb9f530c02d1a7f2254001394)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 20:43:38 INFO  LMSTest:138 - the input box for20200722  option is clicked
+2020-08-30 20:47:16 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 20:47:19 INFO  LMSTest:64 - url is launched
+2020-08-30 20:49:16 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (2acef8dec582142f6254385aa61a9b71)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 20:50:09 INFO  LMSTest:138 - the input box for20200722  option is clicked
+2020-08-30 20:53:44 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 20:53:47 INFO  LMSTest:64 - url is launched
+2020-08-30 20:55:46 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (99bebb5ff160620d9fcc1e10c1a57621)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 20:56:40 INFO  LMSTest:138 - the input box for20200722  option is clicked
+2020-08-30 21:00:10 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 21:00:12 INFO  LMSTest:64 - url is launched
+2020-08-30 21:02:08 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (2af6b078334b07049a21d6bf834d9df5)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 21:03:02 INFO  LMSTest:138 - the input box for20200722  option is clicked
+2020-08-30 21:05:47 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 21:05:49 INFO  LMSTest:64 - url is launched
+2020-08-30 21:07:51 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (1d685ea57c58197afb3ef197be57e800)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 21:08:44 INFO  LMSTest:138 - the input box for20200722  option is clicked
+2020-08-30 21:24:28 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 21:24:31 INFO  LMSTest:64 - url is launched
+2020-08-30 21:26:40 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (8564c4cef79179c4a3d7f08a530bfd66)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 21:27:33 INFO  LMSTest:138 - the input box for20200722  option is clicked
+2020-08-30 21:32:42 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 21:32:45 INFO  LMSTest:64 - url is launched
+2020-08-30 21:34:53 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (9c1e315dbcc81e1b1adae61185adc5a8)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 21:35:46 INFO  LMSTest:138 - the input box for20200722  option is clicked
+2020-08-30 21:42:40 INFO  LMSTest:59 -  Window is miximized
+2020-08-30 21:42:44 INFO  LMSTest:64 - url is launched
+2020-08-30 21:44:57 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (0b3d670f38c85bea8ee1dd6b1b15e7cd)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 21:45:52 INFO  LMSTest:138 - the input box for20200722  option is clicked
+2020-08-30 21:55:07 INFO  LMSTest:60 -  Window is miximized
+2020-08-30 21:55:10 INFO  LMSTest:65 - url is launched
+2020-08-30 21:57:27 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (770e67be7331f9117af253749fa223a8)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 21:58:23 INFO  LMSTest:139 - the input box for20200722  option is clicked
+2020-08-30 22:01:28 INFO  LMSTest:60 -  Window is miximized
+2020-08-30 22:01:31 INFO  LMSTest:65 - url is launched
+2020-08-30 22:03:41 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (508a86e802c08c707298a9ad4b682b32)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 22:04:36 INFO  LMSTest:139 - the input box for20200722  option is clicked
+2020-08-30 22:15:46 INFO  LMSTest:60 -  Window is miximized
+2020-08-30 22:15:51 INFO  LMSTest:65 - url is launched
+2020-08-30 22:18:08 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (baeb01cbea4b534f8f31a96a17d8ca92)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 22:19:39 INFO  LMSTest:60 -  Window is miximized
+2020-08-30 22:19:42 INFO  LMSTest:65 - url is launched
+2020-08-30 22:21:52 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (c49c6d410ae433b1268b31a975462ec9)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 22:22:45 INFO  LMSTest:139 - the input box for20200722  option is clicked
+2020-08-30 22:26:50 INFO  LMSTest:60 -  Window is miximized
+2020-08-30 22:26:52 INFO  LMSTest:65 - url is launched
+2020-08-30 22:28:58 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (8933f606f869423f07a84133fa61679c)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 22:29:52 INFO  LMSTest:139 - the input box for20200722  option is clicked
+2020-08-30 22:35:06 INFO  LMSTest:57 -  Window is miximized
+2020-08-30 22:35:08 INFO  LMSTest:62 - url is launched
+2020-08-30 22:37:10 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (cb11ad5d5bd1da523d7ac20409748605)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 22:41:41 INFO  LMSTest:57 -  Window is miximized
+2020-08-30 22:41:44 INFO  LMSTest:62 - url is launched
+2020-08-30 22:43:45 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (0e5423f44828c54d5e557113a5efb3d5)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 22:47:51 INFO  LMSTest:57 -  Window is miximized
+2020-08-30 22:47:54 INFO  LMSTest:62 - url is launched
+2020-08-30 22:49:53 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (6b36bd83a973459809a0fc0d203358d6)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 22:57:20 INFO  LMSTest:57 -  Window is miximized
+2020-08-30 22:57:23 INFO  LMSTest:62 - url is launched
+2020-08-30 22:59:22 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (86116b0933d565f19be68c7bc4d6231d)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 23:06:07 INFO  LMSTest:57 -  Window is miximized
+2020-08-30 23:06:10 INFO  LMSTest:62 - url is launched
+2020-08-30 23:08:10 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (f4413c0223bf781c09c2037b572c757f)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 23:11:50 INFO  LMSTest:57 -  Window is miximized
+2020-08-30 23:11:52 INFO  LMSTest:62 - url is launched
+2020-08-30 23:13:54 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (1646bca473a3c512cbb52e8dac95f269)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 23:14:57 INFO  LMSTest:142 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-30 23:15:03 INFO  LMSTest:142 - the otionCOM_TEST----> text  is
+2020-08-30 23:15:05 INFO  LMSTest:142 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-30 23:15:06 INFO  LMSTest:142 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-30 23:15:18 INFO  LMSTest:148 - the input box forCOM_TEST option is clicked
+2020-08-30 23:16:47 INFO  LMSTest:235 - Testcase execute for3 time
+2020-08-30 23:17:04 INFO  LMSTest:57 -  Window is miximized
+2020-08-30 23:17:06 INFO  LMSTest:62 - url is launched
+2020-08-30 23:19:02 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (b956a285cf7bec0865e75f2df3b1a482)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 23:20:01 INFO  LMSTest:142 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-08-30 23:20:04 INFO  LMSTest:142 - the otionGENERAL----> text  is
+2020-08-30 23:20:06 INFO  LMSTest:142 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-08-30 23:20:08 INFO  LMSTest:142 - the otionGENERAL----> text  isGENERAL 
+2020-08-30 23:20:18 INFO  LMSTest:148 - the input box forGENERAL option is clicked
+2020-08-30 23:21:41 INFO  LMSTest:235 - Testcase execute for4 time
+2020-08-30 23:21:59 INFO  LMSTest:57 -  Window is miximized
+2020-08-30 23:22:01 INFO  LMSTest:62 - url is launched
+2020-08-30 23:24:04 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (918bdfba1bf13d1a82b3fd33d15f6f8c)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-30 23:24:59 INFO  LMSTest:142 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records) Select All / Deselect All 
+2020-08-30 23:24:59 INFO  LMSTest:142 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records)
+2020-08-30 23:24:59 INFO  LMSTest:142 - the otionGamification_Catalog----> text  isSelect All / Deselect All 
+2020-08-30 23:24:59 INFO  LMSTest:142 - the otionGamification_Catalog----> text  isGamification_Catalog 
+2020-08-30 23:25:00 INFO  LMSTest:148 - the input box forGamification_Catalog option is clicked
+2020-08-30 23:25:48 INFO  LMSTest:235 - Testcase execute for5 time
+2020-08-31 09:15:38 INFO  LMSTest:57 -  Window is miximized
+2020-08-31 09:15:40 INFO  LMSTest:62 - url is launched
+2020-08-31 09:17:42 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (2541e27cab5d7c8778737add016bda1a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 09:18:34 INFO  LMSTest:142 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 09:18:34 INFO  LMSTest:142 - the otionCOM_TEST----> text  is
+2020-08-31 09:18:34 INFO  LMSTest:142 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 09:18:34 INFO  LMSTest:142 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 09:18:35 INFO  LMSTest:148 - the input box forCOM_TEST option is clicked
+2020-08-31 09:19:23 INFO  LMSTest:235 - Testcase execute for3 time
+2020-08-31 09:19:42 INFO  LMSTest:57 -  Window is miximized
+2020-08-31 09:19:45 INFO  LMSTest:62 - url is launched
+2020-08-31 09:21:45 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (555d2427b6d5f3f8ff782b93d9f8cfac)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 09:22:37 INFO  LMSTest:142 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-08-31 09:22:37 INFO  LMSTest:142 - the otionGENERAL----> text  is
+2020-08-31 09:22:37 INFO  LMSTest:142 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-08-31 09:22:37 INFO  LMSTest:142 - the otionGENERAL----> text  isGENERAL 
+2020-08-31 09:22:38 INFO  LMSTest:148 - the input box forGENERAL option is clicked
+2020-08-31 09:23:27 INFO  LMSTest:235 - Testcase execute for4 time
+2020-08-31 09:23:45 INFO  LMSTest:57 -  Window is miximized
+2020-08-31 09:23:48 INFO  LMSTest:62 - url is launched
+2020-08-31 09:25:52 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (d05eeff6e0b92923a26869a46a6d4c83)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 09:26:44 INFO  LMSTest:142 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records) Select All / Deselect All 
+2020-08-31 09:26:44 INFO  LMSTest:142 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records)
+2020-08-31 09:26:44 INFO  LMSTest:142 - the otionGamification_Catalog----> text  isSelect All / Deselect All 
+2020-08-31 09:26:44 INFO  LMSTest:142 - the otionGamification_Catalog----> text  isGamification_Catalog 
+2020-08-31 09:26:45 INFO  LMSTest:148 - the input box forGamification_Catalog option is clicked
+2020-08-31 09:27:34 INFO  LMSTest:235 - Testcase execute for5 time
+2020-08-31 09:39:06 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 09:39:11 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 09:42:25 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (646108e5ca62b61ecda65394e98a50b3)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 09:43:41 INFO  LMS_AssignmentTest:121 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 09:43:43 INFO  LMS_AssignmentTest:121 - the otionCOM_TEST----> text  is
+2020-08-31 09:43:50 INFO  LMS_AssignmentTest:121 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 09:43:52 INFO  LMS_AssignmentTest:121 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 09:43:57 INFO  LMS_AssignmentTest:127 - the input box forCOM_TEST option is clicked
+2020-08-31 09:47:26 INFO  LMS_AssignmentTest:121 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 09:47:26 INFO  LMS_AssignmentTest:121 - the otionTestLirbrary----> text  is
+2020-08-31 09:47:26 INFO  LMS_AssignmentTest:121 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 09:47:26 INFO  LMS_AssignmentTest:121 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-08-31 09:47:28 INFO  LMS_AssignmentTest:127 - the input box forTestLirbrary option is clicked
+2020-08-31 09:48:15 INFO  LMS_AssignmentTest:186 - Testcase execute for3 time
+2020-08-31 09:48:34 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 09:48:38 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 09:50:41 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (cc5baf63d8d7303f5a7d9d531cbf1d17)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 09:51:36 INFO  LMS_AssignmentTest:121 - the otion20200722----> text  isSelect All / Deselect All 
+2020-08-31 09:51:36 INFO  LMS_AssignmentTest:121 - the otion20200722----> text  is
+2020-08-31 09:51:36 INFO  LMS_AssignmentTest:121 - the otion20200722----> text  isSelect All / Deselect All 
+2020-08-31 09:51:36 INFO  LMS_AssignmentTest:121 - the otion20200722----> text  is20200722 
+2020-08-31 09:51:37 INFO  LMS_AssignmentTest:127 - the input box for20200722 option is clicked
+2020-08-31 09:54:59 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 09:55:02 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 09:57:10 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (44685e7e0f53945078a5bf0dcac96c30)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 09:58:27 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 09:58:29 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 09:58:30 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 09:58:31 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 09:58:36 INFO  LMS_AssignmentTest:128 - the input box forCOM_TEST option is clicked
+2020-08-31 09:59:40 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 09:59:40 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  is
+2020-08-31 09:59:40 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 09:59:40 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-08-31 09:59:42 INFO  LMS_AssignmentTest:128 - the input box forTestLirbrary option is clicked
+2020-08-31 10:07:38 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 10:07:41 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 10:09:46 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (4d3f867fd5b22e262010d5f8c8888688)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 10:11:24 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 10:11:24 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 10:11:25 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 10:11:25 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 10:11:26 INFO  LMS_AssignmentTest:128 - the input box forCOM_TEST option is clicked
+2020-08-31 10:12:36 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 10:12:36 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  is
+2020-08-31 10:12:36 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 10:12:37 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-08-31 10:12:38 INFO  LMS_AssignmentTest:128 - the input box forTestLirbrary option is clicked
+2020-08-31 10:16:41 INFO  LMS_AssignmentTest:185 - Testcase execute for3 time
+2020-08-31 10:17:00 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 10:17:07 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 10:19:29 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 10:19:33 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 10:22:08 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (d1b9f3cee2425f88c055354d37b38ab1)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 10:23:21 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 10:23:21 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 10:23:21 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 10:23:21 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 10:23:23 INFO  LMS_AssignmentTest:128 - the input box forCOM_TEST option is clicked
+2020-08-31 10:23:54 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 10:23:54 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  is
+2020-08-31 10:23:54 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 10:23:54 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-08-31 10:23:55 INFO  LMS_AssignmentTest:128 - the input box forTestLirbrary option is clicked
+2020-08-31 10:25:39 INFO  LMS_AssignmentTest:185 - Testcase execute for3 time
+2020-08-31 10:26:02 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 10:26:06 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 10:28:52 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (0b412fd3a4c3a1b647c4b9f643b3a320)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 10:30:03 INFO  LMS_AssignmentTest:122 - the otion20200722----> text  isSelect All / Deselect All 
+2020-08-31 10:30:03 INFO  LMS_AssignmentTest:122 - the otion20200722----> text  is
+2020-08-31 10:30:03 INFO  LMS_AssignmentTest:122 - the otion20200722----> text  isSelect All / Deselect All 
+2020-08-31 10:30:03 INFO  LMS_AssignmentTest:122 - the otion20200722----> text  is20200722 
+2020-08-31 10:30:04 INFO  LMS_AssignmentTest:128 - the input box for20200722 option is clicked
+2020-08-31 10:30:39 INFO  LMS_AssignmentTest:122 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-08-31 10:30:39 INFO  LMS_AssignmentTest:122 - the otionGENERAL----> text  is
+2020-08-31 10:30:39 INFO  LMS_AssignmentTest:122 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-08-31 10:30:39 INFO  LMS_AssignmentTest:122 - the otionGENERAL----> text  isGENERAL 
+2020-08-31 10:30:40 INFO  LMS_AssignmentTest:128 - the input box forGENERAL option is clicked
+2020-08-31 10:32:07 INFO  LMS_AssignmentTest:185 - Testcase execute for4 time
+2020-08-31 10:32:25 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 10:32:32 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 10:35:20 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (7e73b060ef578bbfb27fc9bdc2be3f16)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 10:36:22 INFO  LMS_AssignmentTest:122 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records) Select All / Deselect All 
+2020-08-31 10:36:22 INFO  LMS_AssignmentTest:122 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records)
+2020-08-31 10:36:22 INFO  LMS_AssignmentTest:122 - the otionGamification_Catalog----> text  isSelect All / Deselect All 
+2020-08-31 10:36:22 INFO  LMS_AssignmentTest:122 - the otionGamification_Catalog----> text  isGamification_Catalog 
+2020-08-31 10:36:23 INFO  LMS_AssignmentTest:128 - the input box forGamification_Catalog option is clicked
+2020-08-31 10:36:51 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 10:36:51 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 10:36:51 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 10:36:51 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 10:36:53 INFO  LMS_AssignmentTest:128 - the input box forCOM_TEST option is clicked
+2020-08-31 10:38:10 INFO  LMS_AssignmentTest:185 - Testcase execute for5 time
+2020-08-31 10:40:02 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 10:40:06 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 10:42:27 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (c28cc1d1b169f4a23c3aa4118009433a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 10:43:21 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 10:43:21 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 10:43:21 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 10:43:21 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 10:43:22 INFO  LMS_AssignmentTest:128 - the input box forCOM_TEST option is clicked
+2020-08-31 10:43:52 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 10:43:52 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  is
+2020-08-31 10:43:52 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 10:43:52 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-08-31 10:43:53 INFO  LMS_AssignmentTest:128 - the input box forTestLirbrary option is clicked
+2020-08-31 10:44:49 INFO  LMS_AssignmentTest:185 - Testcase execute for3 time
+2020-08-31 10:45:07 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 10:45:10 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 10:47:45 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (18d28c7be01cd88579387ca8e171b3e9)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 10:48:38 INFO  LMS_AssignmentTest:122 - the otion20200722----> text  isSelect All / Deselect All 
+2020-08-31 10:48:38 INFO  LMS_AssignmentTest:122 - the otion20200722----> text  is
+2020-08-31 10:48:38 INFO  LMS_AssignmentTest:122 - the otion20200722----> text  isSelect All / Deselect All 
+2020-08-31 10:48:38 INFO  LMS_AssignmentTest:122 - the otion20200722----> text  is20200722 
+2020-08-31 10:48:39 INFO  LMS_AssignmentTest:128 - the input box for20200722 option is clicked
+2020-08-31 10:49:07 INFO  LMS_AssignmentTest:122 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-08-31 10:49:07 INFO  LMS_AssignmentTest:122 - the otionGENERAL----> text  is
+2020-08-31 10:49:07 INFO  LMS_AssignmentTest:122 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-08-31 10:49:07 INFO  LMS_AssignmentTest:122 - the otionGENERAL----> text  isGENERAL 
+2020-08-31 10:49:08 INFO  LMS_AssignmentTest:128 - the input box forGENERAL option is clicked
+2020-08-31 10:50:04 INFO  LMS_AssignmentTest:185 - Testcase execute for4 time
+2020-08-31 10:50:21 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 10:50:25 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 10:52:42 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (96cc1068b989d01dfe79d4bcf4bb3a7f)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 10:53:35 INFO  LMS_AssignmentTest:122 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records) Select All / Deselect All 
+2020-08-31 10:53:35 INFO  LMS_AssignmentTest:122 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records)
+2020-08-31 10:53:35 INFO  LMS_AssignmentTest:122 - the otionGamification_Catalog----> text  isSelect All / Deselect All 
+2020-08-31 10:53:35 INFO  LMS_AssignmentTest:122 - the otionGamification_Catalog----> text  isGamification_Catalog 
+2020-08-31 10:53:36 INFO  LMS_AssignmentTest:128 - the input box forGamification_Catalog option is clicked
+2020-08-31 10:54:03 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 10:54:03 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 10:54:03 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 10:54:03 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 10:54:04 INFO  LMS_AssignmentTest:128 - the input box forCOM_TEST option is clicked
+2020-08-31 10:55:00 INFO  LMS_AssignmentTest:185 - Testcase execute for5 time
+2020-08-31 10:59:35 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 10:59:43 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 11:02:00 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (62fcdee9e8602ed57b7fa2f2f677651d)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 11:02:54 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 11:02:54 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 11:02:54 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 11:02:54 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 11:02:55 INFO  LMS_AssignmentTest:128 - the input box forCOM_TEST option is clicked
+2020-08-31 11:03:22 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 11:03:22 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  is
+2020-08-31 11:03:22 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 11:03:22 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-08-31 11:03:23 INFO  LMS_AssignmentTest:128 - the input box forTestLirbrary option is clicked
+2020-08-31 11:06:41 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 11:06:44 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 11:08:43 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (8c292f7427138ad0d0743dfdb02f182f)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 11:09:35 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 11:09:36 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 11:09:36 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 11:09:36 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 11:09:37 INFO  LMS_AssignmentTest:128 - the input box forCOM_TEST option is clicked
+2020-08-31 11:10:03 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 11:10:03 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  is
+2020-08-31 11:10:03 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 11:10:04 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-08-31 11:10:05 INFO  LMS_AssignmentTest:128 - the input box forTestLirbrary option is clicked
+2020-08-31 11:50:21 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 11:50:24 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 11:52:24 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (c2e2567da90475502922b3e16bf3db65)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 11:53:17 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 11:53:17 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 11:53:17 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 11:53:17 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 11:53:18 INFO  LMS_AssignmentTest:128 - the input box forCOM_TEST option is clicked
+2020-08-31 11:53:44 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 11:53:44 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  is
+2020-08-31 11:53:44 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 11:53:44 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-08-31 11:53:45 INFO  LMS_AssignmentTest:128 - the input box forTestLirbrary option is clicked
+2020-08-31 11:54:48 INFO  LMS_AssignmentTest:184 - Testcase execute for3 time
+2020-08-31 11:55:06 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 11:55:09 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 11:57:06 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (543965e2bea31dbc06eb02b0e01414d5)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 11:57:58 INFO  LMS_AssignmentTest:122 - the otion20200722----> text  isSelect All / Deselect All 
+2020-08-31 11:57:58 INFO  LMS_AssignmentTest:122 - the otion20200722----> text  is
+2020-08-31 11:57:58 INFO  LMS_AssignmentTest:122 - the otion20200722----> text  isSelect All / Deselect All 
+2020-08-31 11:57:58 INFO  LMS_AssignmentTest:122 - the otion20200722----> text  is20200722 
+2020-08-31 11:57:59 INFO  LMS_AssignmentTest:128 - the input box for20200722 option is clicked
+2020-08-31 11:58:26 INFO  LMS_AssignmentTest:122 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-08-31 11:58:26 INFO  LMS_AssignmentTest:122 - the otionGENERAL----> text  is
+2020-08-31 11:58:26 INFO  LMS_AssignmentTest:122 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-08-31 11:58:26 INFO  LMS_AssignmentTest:122 - the otionGENERAL----> text  isGENERAL 
+2020-08-31 11:58:27 INFO  LMS_AssignmentTest:128 - the input box forGENERAL option is clicked
+2020-08-31 11:59:30 INFO  LMS_AssignmentTest:184 - Testcase execute for4 time
+2020-08-31 11:59:47 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 11:59:50 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 12:01:46 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (cf6972c51a2473542b08ed98aa6cd651)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 12:02:38 INFO  LMS_AssignmentTest:122 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records) Select All / Deselect All 
+2020-08-31 12:02:38 INFO  LMS_AssignmentTest:122 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records)
+2020-08-31 12:02:38 INFO  LMS_AssignmentTest:122 - the otionGamification_Catalog----> text  isSelect All / Deselect All 
+2020-08-31 12:02:38 INFO  LMS_AssignmentTest:122 - the otionGamification_Catalog----> text  isGamification_Catalog 
+2020-08-31 12:02:40 INFO  LMS_AssignmentTest:128 - the input box forGamification_Catalog option is clicked
+2020-08-31 12:03:07 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 12:03:07 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 12:03:07 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 12:03:07 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 12:03:08 INFO  LMS_AssignmentTest:128 - the input box forCOM_TEST option is clicked
+2020-08-31 12:04:10 INFO  LMS_AssignmentTest:184 - Testcase execute for5 time
+2020-08-31 12:07:39 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 12:07:42 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 12:09:40 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (32b7282a13e5edec1483057c8bc47577)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 12:10:34 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 12:10:34 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 12:10:34 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 12:10:34 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 12:10:34 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isCatalog for commerce test 
+2020-08-31 12:10:34 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 12:10:34 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isTestLirbrary 
+2020-08-31 12:10:34 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isTest 
+2020-08-31 12:10:34 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 12:10:34 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 12:10:34 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 12:10:34 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 12:16:12 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 12:16:16 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 12:18:18 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (af4efad748dba2649c289182e46ec8fc)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 12:20:13 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 12:20:32 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 12:20:35 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 12:20:36 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 12:24:31 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 12:24:34 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 12:26:34 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (3c18af76759f2071973495661e973049)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 12:27:37 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 12:27:40 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 12:27:42 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 12:27:44 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 12:29:29 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isCatalog for commerce test 
+2020-08-31 12:29:31 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 12:29:34 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isTestLirbrary 
+2020-08-31 12:29:35 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isTest 
+2020-08-31 12:29:35 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 12:29:36 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 12:29:37 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 12:29:38 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 12:30:23 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 12:30:27 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  is
+2020-08-31 12:30:28 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 12:30:30 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-08-31 12:32:32 INFO  LMS_AssignmentTest:? - the otionTestLirbrary----> text  isTest 
+2020-08-31 12:32:32 INFO  LMS_AssignmentTest:? - the otionTestLirbrary----> text  is
+2020-08-31 12:32:32 INFO  LMS_AssignmentTest:? - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 12:32:32 INFO  LMS_AssignmentTest:? - the otionTestLirbrary----> text  is
+2020-08-31 12:32:32 INFO  LMS_AssignmentTest:? - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 12:33:59 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 12:34:03 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 12:38:14 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 12:38:17 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 12:40:22 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (f6f7a55d7aae9b0d18e02c03283c9751)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 12:41:14 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 12:41:28 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 12:41:45 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 12:41:57 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 12:42:46 INFO  LMS_AssignmentTest:129 - the input box forCOM_TEST option is clicked
+2020-08-31 12:43:13 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 12:43:19 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  is
+2020-08-31 12:43:26 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 12:43:26 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-08-31 12:43:28 INFO  LMS_AssignmentTest:129 - the input box forTestLirbrary option is clicked
+2020-08-31 12:44:38 INFO  LMS_AssignmentTest:185 - Testcase execute for3 time
+2020-08-31 12:44:57 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 12:45:00 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 12:46:58 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (da1dd48332749a8f21239f56ed77d2d9)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 12:50:57 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 12:51:01 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 12:53:01 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (222790c612943b098b65be18082fb36f)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 12:53:53 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 12:53:53 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 12:53:53 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 12:53:53 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 12:53:54 INFO  LMS_AssignmentTest:129 - the input box forCOM_TEST option is clicked
+2020-08-31 12:54:21 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 12:54:21 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  is
+2020-08-31 12:54:21 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 12:54:21 INFO  LMS_AssignmentTest:122 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-08-31 12:54:22 INFO  LMS_AssignmentTest:129 - the input box forTestLirbrary option is clicked
+2020-08-31 12:55:33 INFO  LMS_AssignmentTest:185 - Testcase execute for3 time
+2020-08-31 12:55:50 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 12:55:53 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 12:57:57 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (e08db096646aefae271b426f45d28424)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 12:58:49 INFO  LMS_AssignmentTest:122 - the otion20200722----> text  isSelect All / Deselect All 
+2020-08-31 12:58:49 INFO  LMS_AssignmentTest:122 - the otion20200722----> text  is
+2020-08-31 12:58:49 INFO  LMS_AssignmentTest:122 - the otion20200722----> text  isSelect All / Deselect All 
+2020-08-31 12:58:49 INFO  LMS_AssignmentTest:122 - the otion20200722----> text  is20200722 
+2020-08-31 12:58:50 INFO  LMS_AssignmentTest:129 - the input box for20200722 option is clicked
+2020-08-31 12:59:17 INFO  LMS_AssignmentTest:122 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-08-31 12:59:17 INFO  LMS_AssignmentTest:122 - the otionGENERAL----> text  is
+2020-08-31 12:59:17 INFO  LMS_AssignmentTest:122 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-08-31 12:59:17 INFO  LMS_AssignmentTest:122 - the otionGENERAL----> text  isGENERAL 
+2020-08-31 12:59:18 INFO  LMS_AssignmentTest:129 - the input box forGENERAL option is clicked
+2020-08-31 13:00:32 INFO  LMS_AssignmentTest:185 - Testcase execute for4 time
+2020-08-31 13:00:49 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 13:00:52 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 13:02:54 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (db950ca830555653ab95bbbdf6045962)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 13:03:46 INFO  LMS_AssignmentTest:122 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records) Select All / Deselect All 
+2020-08-31 13:03:46 INFO  LMS_AssignmentTest:122 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records)
+2020-08-31 13:03:47 INFO  LMS_AssignmentTest:122 - the otionGamification_Catalog----> text  isSelect All / Deselect All 
+2020-08-31 13:03:47 INFO  LMS_AssignmentTest:122 - the otionGamification_Catalog----> text  isGamification_Catalog 
+2020-08-31 13:03:48 INFO  LMS_AssignmentTest:129 - the input box forGamification_Catalog option is clicked
+2020-08-31 13:04:14 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 13:04:14 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  is
+2020-08-31 13:04:14 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 13:04:14 INFO  LMS_AssignmentTest:122 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 13:04:16 INFO  LMS_AssignmentTest:129 - the input box forCOM_TEST option is clicked
+2020-08-31 13:07:03 INFO  LMS_AssignmentTest:185 - Testcase execute for5 time
+2020-08-31 14:18:39 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 14:18:42 INFO  LMSTest:65 - url is launched
+2020-08-31 14:20:43 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (10d0e20afe822a94772cebc9358dd8c6)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 14:23:31 INFO  LMSTest:139 - the input box forCOM_TEST  option is clicked
+2020-08-31 14:23:33 INFO  LMSTest:139 - the input box forTestLirbrary  option is clicked
+2020-08-31 14:27:03 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 14:27:06 INFO  LMSTest:65 - url is launched
+2020-08-31 14:29:06 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (cb4c3575a1806c8a8ecd176ea8bff491)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 14:29:58 INFO  LMSTest:139 - the input box forCOM_TEST  option is clicked
+2020-08-31 14:30:00 INFO  LMSTest:139 - the input box forTestLirbrary  option is clicked
+2020-08-31 14:32:25 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 14:32:28 INFO  LMSTest:65 - url is launched
+2020-08-31 14:34:29 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (2c72e38cd101adb0ebd5b4701516392d)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 14:37:36 INFO  LMSTest:139 - the input box forCOM_TEST  option is clicked
+2020-08-31 14:39:24 INFO  LMSTest:139 - the input box forTestLirbrary  option is clicked
+2020-08-31 14:42:54 INFO  LMSTest:209 - Testcase execute for2 time
+2020-08-31 14:43:11 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 14:43:14 INFO  LMSTest:65 - url is launched
+2020-08-31 14:45:13 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (58dac1ebecbdd76d4ea749cc39807a4d)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 14:46:05 INFO  LMSTest:139 - the input box for20200722  option is clicked
+2020-08-31 14:46:07 INFO  LMSTest:139 - the input box forGENERAL  option is clicked
+2020-08-31 14:47:22 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 14:47:25 INFO  LMSTest:65 - url is launched
+2020-08-31 14:49:30 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (4a39206af97beb2263d805a01db3ec55)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 14:50:24 INFO  LMSTest:139 - the input box forCOM_TEST  option is clicked
+2020-08-31 14:50:27 INFO  LMSTest:139 - the input box forTestLirbrary  option is clicked
+2020-08-31 14:51:20 INFO  LMSTest:207 - Testcase execute for2 time
+2020-08-31 14:51:40 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 14:51:44 INFO  LMSTest:65 - url is launched
+2020-08-31 14:53:48 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (ce5f12a4d8d65948cd9a382e7b885172)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 14:54:43 INFO  LMSTest:139 - the input box for20200722  option is clicked
+2020-08-31 14:54:46 INFO  LMSTest:139 - the input box forGENERAL  option is clicked
+2020-08-31 14:57:13 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 14:57:17 INFO  LMSTest:65 - url is launched
+2020-08-31 14:59:23 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (7f642be773367cf0fa67025ba2fea437)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 15:03:44 INFO  LMSTest:139 - the input box forCOM_TEST  option is clicked
+2020-08-31 15:07:01 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 15:07:05 INFO  LMSTest:65 - url is launched
+2020-08-31 15:09:11 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (63ef8ed891510c1080a8390bc2af36d0)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 15:10:05 INFO  LMSTest:? - the input box forCOM_TEST  option is clicked
+2020-08-31 15:10:09 INFO  LMSTest:? - the input box forTestLirbrary  option is clicked
+2020-08-31 15:11:41 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 15:11:44 INFO  LMSTest:65 - url is launched
+2020-08-31 15:13:45 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (1d3de0c4d536c3c12319d5a83c4fac39)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 15:17:56 INFO  LMSTest:137 - the input box forCOM_TEST  option is clicked
+2020-08-31 15:25:31 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 15:25:34 INFO  LMSTest:65 - url is launched
+2020-08-31 15:27:41 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (5f654f88eb420cda0532913ee342180c)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 15:28:37 INFO  LMSTest:137 - the input box forCOM_TEST  option is clicked
+2020-08-31 15:28:40 INFO  LMSTest:137 - the input box forTestLirbrary  option is clicked
+2020-08-31 15:29:57 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 15:30:00 INFO  LMSTest:65 - url is launched
+2020-08-31 15:32:06 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (5c9923d7902db23b22a4cb9cc63d7820)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 15:35:13 INFO  LMSTest:137 - the input box forCOM_TEST  option is clicked
+2020-08-31 15:39:16 INFO  LMSTest:137 - the input box forTestLirbrary  option is clicked
+2020-08-31 15:42:09 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 15:42:12 INFO  LMSTest:65 - url is launched
+2020-08-31 15:44:16 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (620c3beaf73523b3f3c6acf8e1b3531d)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 15:45:12 INFO  LMSTest:137 - the input box forCOM_TEST  option is clicked
+2020-08-31 15:46:54 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 15:46:58 INFO  LMSTest:65 - url is launched
+2020-08-31 15:49:07 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (57e98ad3d02c636ddbe401493adf2c18)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 15:52:04 INFO  LMSTest:137 - the input box forCOM_TEST  option is clicked
+2020-08-31 15:55:02 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 15:55:05 INFO  LMSTest:65 - url is launched
+2020-08-31 15:57:13 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (491520adc871fde6668b922fff1f734a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 15:59:13 INFO  LMSTest:137 - the input box forCOM_TEST  option is clicked
+2020-08-31 16:00:28 INFO  LMSTest:137 - the input box forTestLirbrary  option is clicked
+2020-08-31 16:02:39 INFO  LMSTest:209 - Testcase execute for1 time
+2020-08-31 16:03:01 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 16:03:04 INFO  LMSTest:65 - url is launched
+2020-08-31 16:05:13 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (30be9b3d6793ce6f4a857103a825df27)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 16:06:08 INFO  LMSTest:137 - the input box for20200722  option is clicked
+2020-08-31 16:06:11 INFO  LMSTest:137 - the input box forGENERAL  option is clicked
+2020-08-31 16:09:01 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 16:09:05 INFO  LMSTest:65 - url is launched
+2020-08-31 16:11:11 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (ba4f3661f05bedc2fd72c2f3ec2cb373)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 16:12:06 INFO  LMSTest:137 - the input box forCOM_TEST  option is clicked
+2020-08-31 16:12:10 INFO  LMSTest:137 - the input box forTestLirbrary  option is clicked
+2020-08-31 16:13:04 INFO  LMSTest:209 - Testcase execute for1 time
+2020-08-31 16:13:23 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 16:13:26 INFO  LMSTest:65 - url is launched
+2020-08-31 16:15:37 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (8872b4845d0ca0ae84cd0a3c7f38d523)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 16:16:33 INFO  LMSTest:137 - the input box for20200722  option is clicked
+2020-08-31 16:16:35 INFO  LMSTest:137 - the input box forGENERAL  option is clicked
+2020-08-31 16:20:18 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 16:20:21 INFO  LMSTest:65 - url is launched
+2020-08-31 16:22:32 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (d3cbbfd4ea0f5c2c92dc3ceebcb805a7)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 16:24:18 INFO  LMSTest:137 - the input box forCOM_TEST  option is clicked
+2020-08-31 16:24:36 INFO  LMSTest:137 - the input box forTestLirbrary  option is clicked
+2020-08-31 16:27:42 INFO  LMSTest:209 - Testcase execute for1 time
+2020-08-31 16:28:04 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 16:28:07 INFO  LMSTest:65 - url is launched
+2020-08-31 16:30:14 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (6297893d54f35e66814136154daf549a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 16:31:41 INFO  LMSTest:137 - the input box for20200722  option is clicked
+2020-08-31 16:32:28 INFO  LMSTest:137 - the input box forGENERAL  option is clicked
+2020-08-31 16:34:23 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 16:34:26 INFO  LMSTest:65 - url is launched
+2020-08-31 16:36:31 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (51632eee119d20a9bddd1d70050569a8)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 16:37:26 INFO  LMSTest:137 - the input box forCOM_TEST  option is clicked
+2020-08-31 16:37:30 INFO  LMSTest:137 - the input box forTestLirbrary  option is clicked
+2020-08-31 16:38:23 INFO  LMSTest:209 - Testcase execute for1 time
+2020-08-31 16:38:42 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 16:38:45 INFO  LMSTest:65 - url is launched
+2020-08-31 16:40:55 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (3f2779985b6001e2686d713ab035b3bb)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 16:41:50 INFO  LMSTest:137 - the input box for20200722  option is clicked
+2020-08-31 16:41:52 INFO  LMSTest:137 - the input box forGENERAL  option is clicked
+2020-08-31 16:45:57 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 16:46:01 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 16:48:12 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (17bf56bc223b9ef36303c36a4c019128)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 16:49:06 INFO  LMS_AssignmentTest:123 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 16:49:06 INFO  LMS_AssignmentTest:123 - the otionCOM_TEST----> text  is
+2020-08-31 16:49:06 INFO  LMS_AssignmentTest:123 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 16:49:06 INFO  LMS_AssignmentTest:123 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 16:49:07 INFO  LMS_AssignmentTest:130 - the input box forCOM_TEST option is clicked
+2020-08-31 16:49:36 INFO  LMS_AssignmentTest:123 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 16:49:36 INFO  LMS_AssignmentTest:123 - the otionTestLirbrary----> text  is
+2020-08-31 16:49:36 INFO  LMS_AssignmentTest:123 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-08-31 16:49:36 INFO  LMS_AssignmentTest:123 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-08-31 16:49:37 INFO  LMS_AssignmentTest:130 - the input box forTestLirbrary option is clicked
+2020-08-31 16:50:43 INFO  LMS_AssignmentTest:186 - Testcase execute for3 time
+2020-08-31 16:51:02 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 16:51:05 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 16:53:17 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (e5d64b3bc5f7a1e2b72392aedc5d1a42)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 16:54:12 INFO  LMS_AssignmentTest:123 - the otion20200722----> text  isSelect All / Deselect All 
+2020-08-31 16:54:12 INFO  LMS_AssignmentTest:123 - the otion20200722----> text  is
+2020-08-31 16:54:13 INFO  LMS_AssignmentTest:123 - the otion20200722----> text  isSelect All / Deselect All 
+2020-08-31 16:54:13 INFO  LMS_AssignmentTest:123 - the otion20200722----> text  is20200722 
+2020-08-31 16:54:14 INFO  LMS_AssignmentTest:130 - the input box for20200722 option is clicked
+2020-08-31 16:54:43 INFO  LMS_AssignmentTest:123 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-08-31 16:54:43 INFO  LMS_AssignmentTest:123 - the otionGENERAL----> text  is
+2020-08-31 16:54:43 INFO  LMS_AssignmentTest:123 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-08-31 16:54:43 INFO  LMS_AssignmentTest:123 - the otionGENERAL----> text  isGENERAL 
+2020-08-31 16:54:44 INFO  LMS_AssignmentTest:130 - the input box forGENERAL option is clicked
+2020-08-31 16:55:50 INFO  LMS_AssignmentTest:186 - Testcase execute for4 time
+2020-08-31 16:56:08 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-08-31 16:56:12 INFO  LMS_AssignmentTest:62 - url is launched
+2020-08-31 16:58:24 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (822133306013febfc253aeba0f3560a6)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 16:59:18 INFO  LMS_AssignmentTest:123 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records) Select All / Deselect All 
+2020-08-31 16:59:19 INFO  LMS_AssignmentTest:123 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records)
+2020-08-31 16:59:19 INFO  LMS_AssignmentTest:123 - the otionGamification_Catalog----> text  isSelect All / Deselect All 
+2020-08-31 16:59:19 INFO  LMS_AssignmentTest:123 - the otionGamification_Catalog----> text  isGamification_Catalog 
+2020-08-31 16:59:20 INFO  LMS_AssignmentTest:130 - the input box forGamification_Catalog option is clicked
+2020-08-31 16:59:49 INFO  LMS_AssignmentTest:123 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 16:59:49 INFO  LMS_AssignmentTest:123 - the otionCOM_TEST----> text  is
+2020-08-31 16:59:49 INFO  LMS_AssignmentTest:123 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-08-31 16:59:49 INFO  LMS_AssignmentTest:123 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-08-31 16:59:50 INFO  LMS_AssignmentTest:130 - the input box forCOM_TEST option is clicked
+2020-08-31 17:00:56 INFO  LMS_AssignmentTest:186 - Testcase execute for5 time
+2020-08-31 17:02:59 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 17:03:02 INFO  LMSTest:65 - url is launched
+2020-08-31 17:05:12 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (2ce5823dd26033131cd4f8f454bdee58)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 17:06:08 INFO  LMSTest:137 - the input box forCOM_TEST  option is clicked
+2020-08-31 17:06:11 INFO  LMSTest:137 - the input box forTestLirbrary  option is clicked
+2020-08-31 17:07:14 INFO  LMSTest:205 - Testcase execute for1 time
+2020-08-31 17:07:35 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 17:07:38 INFO  LMSTest:65 - url is launched
+2020-08-31 17:09:46 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (d71bc3927df18c8e06bc14794e098477)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 17:10:41 INFO  LMSTest:137 - the input box for20200722  option is clicked
+2020-08-31 17:10:43 INFO  LMSTest:137 - the input box forGENERAL  option is clicked
+2020-08-31 17:11:45 INFO  LMSTest:205 - Testcase execute for2 time
+2020-08-31 17:12:07 INFO  LMSTest:60 -  Window is miximized
+2020-08-31 17:12:11 INFO  LMSTest:65 - url is launched
+2020-08-31 17:14:19 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (7945194681890393de0e9725e1c46db2)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 17:15:15 INFO  LMSTest:137 - the input box forGamification_Catalog  option is clicked
+2020-08-31 17:15:16 INFO  LMSTest:137 - the input box forCOM_TEST  option is clicked
+2020-08-31 17:16:19 INFO  LMSTest:205 - Testcase execute for3 time
+2020-08-31 17:26:10 INFO  LMSTest:61 -  Window is miximized
+2020-08-31 17:26:14 INFO  LMSTest:66 - url is launched
+2020-08-31 17:28:24 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (ec7f4e033fc4699e8d33c06fe4489045)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 17:29:19 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-08-31 17:29:22 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-08-31 19:01:03 INFO  LMSTest:61 -  Window is miximized
+2020-08-31 19:01:05 INFO  LMSTest:66 - url is launched
+2020-08-31 19:03:14 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (70add9eba7c68323c7fd5492477557c4)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 19:04:10 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-08-31 19:04:14 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-08-31 19:07:01 INFO  LMSTest:61 -  Window is miximized
+2020-08-31 19:07:04 INFO  LMSTest:66 - url is launched
+2020-08-31 19:09:08 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (569c54dd901fb51be29e0158c3252e6c)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 19:10:03 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-08-31 19:10:07 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-08-31 19:13:57 INFO  LMSTest:61 -  Window is miximized
+2020-08-31 19:14:00 INFO  LMSTest:66 - url is launched
+2020-08-31 19:16:05 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (f27fa38877c7d1ca4fd46177501a786c)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 19:17:01 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-08-31 19:17:05 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-08-31 19:19:30 INFO  LMSTest:208 - Testcase execute for1 time
+2020-08-31 19:19:49 INFO  LMSTest:61 -  Window is miximized
+2020-08-31 19:19:51 INFO  LMSTest:66 - url is launched
+2020-08-31 19:26:56 INFO  LMSTest:61 -  Window is miximized
+2020-08-31 19:27:00 INFO  LMSTest:66 - url is launched
+2020-08-31 19:29:11 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (9ee5dba6ba2ac5cf538398371955a84b)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 19:30:06 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-08-31 19:30:10 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-08-31 19:31:31 INFO  LMSTest:208 - Testcase execute for1 time
+2020-08-31 19:31:49 INFO  LMSTest:61 -  Window is miximized
+2020-08-31 19:31:52 INFO  LMSTest:66 - url is launched
+2020-08-31 19:33:56 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (4376ae3e07aaad6912734c2622df9888)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 19:34:51 INFO  LMSTest:138 - the input box for20200722  option is clicked
+2020-08-31 19:34:53 INFO  LMSTest:138 - the input box forGENERAL  option is clicked
+2020-08-31 19:36:14 INFO  LMSTest:208 - Testcase execute for2 time
+2020-08-31 19:36:32 INFO  LMSTest:61 -  Window is miximized
+2020-08-31 19:36:34 INFO  LMSTest:66 - url is launched
+2020-08-31 19:38:31 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (6a97421ee1875174baf4594f36c227f1)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 19:39:23 INFO  LMSTest:138 - the input box forGamification_Catalog  option is clicked
+2020-08-31 19:39:25 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-08-31 19:41:02 INFO  LMSTest:208 - Testcase execute for3 time
+2020-08-31 19:48:46 INFO  LMSTest:61 -  Window is miximized
+2020-08-31 19:48:49 INFO  LMSTest:66 - url is launched
+2020-08-31 19:50:57 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (326c02c2ec848cdc16d7d618406a858b)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-08-31 19:51:50 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-08-31 19:51:52 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-08-31 19:52:37 INFO  Pickhelper:40 - value entered in the box isCountry/Region
+2020-09-01 08:55:22 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-09-01 08:55:25 INFO  LMS_AssignmentTest:62 - url is launched
+2020-09-01 08:58:04 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (23326661665a1f3e9ee71adf62286270)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 09:04:04 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-09-01 09:04:18 INFO  LMS_AssignmentTest:62 - url is launched
+2020-09-01 09:08:40 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-09-01 09:47:45 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-09-01 09:47:56 INFO  LMS_AssignmentTest:62 - url is launched
+2020-09-01 09:51:21 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (04f498b2a4ee83b0d49aed3dafaff21a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 09:53:22 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-09-01 09:53:26 INFO  LMS_AssignmentTest:62 - url is launched
+2020-09-01 09:58:41 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-09-01 10:30:15 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-09-01 10:30:30 INFO  LMS_AssignmentTest:62 - url is launched
+2020-09-01 10:33:25 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-09-01 10:36:22 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-09-01 10:36:28 INFO  LMS_AssignmentTest:62 - url is launched
+2020-09-01 10:40:14 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-09-01 10:40:17 INFO  LMS_AssignmentTest:62 - url is launched
+2020-09-01 10:52:05 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-09-01 10:52:12 INFO  LMS_AssignmentTest:62 - url is launched
+2020-09-01 10:56:54 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (7db3e064abaaa173b616f914a3956016)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 10:58:37 INFO  LMS_AssignmentTest:123 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 10:58:37 INFO  LMS_AssignmentTest:123 - the otionCOM_TEST----> text  is
+2020-09-01 10:58:37 INFO  LMS_AssignmentTest:123 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 10:58:37 INFO  LMS_AssignmentTest:123 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-09-01 10:58:38 INFO  LMS_AssignmentTest:130 - the input box forCOM_TEST option is clicked
+2020-09-01 11:01:00 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-09-01 11:01:03 INFO  LMS_AssignmentTest:62 - url is launched
+2020-09-01 11:07:20 INFO  LMS_AssignmentTest:57 -  Window is miximized
+2020-09-01 11:07:25 INFO  LMS_AssignmentTest:62 - url is launched
+2020-09-01 11:15:34 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 11:15:40 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 11:18:43 INFO  LMS_AssignmentTest:80 - Timeout exception seen
+2020-09-01 11:25:22 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 11:25:26 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 11:31:50 INFO  LMS_AssignmentTest:80 - Timeout exception seen
+2020-09-01 11:34:20 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 11:34:29 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 11:36:31 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 11:37:28 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 11:44:38 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 11:44:41 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 11:48:01 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (f93151b5551428db805a03aef57ef300)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 11:50:51 INFO  LMS_AssignmentTest:129 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 11:50:51 INFO  LMS_AssignmentTest:129 - the otionCOM_TEST----> text  is
+2020-09-01 11:50:51 INFO  LMS_AssignmentTest:129 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 11:50:51 INFO  LMS_AssignmentTest:129 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-09-01 11:50:52 INFO  LMS_AssignmentTest:136 - the input box forCOM_TEST option is clicked
+2020-09-01 11:51:22 INFO  LMS_AssignmentTest:129 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-09-01 11:51:22 INFO  LMS_AssignmentTest:129 - the otionTestLirbrary----> text  is
+2020-09-01 11:51:22 INFO  LMS_AssignmentTest:129 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-09-01 11:51:22 INFO  LMS_AssignmentTest:129 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-09-01 11:51:24 INFO  LMS_AssignmentTest:136 - the input box forTestLirbrary option is clicked
+2020-09-01 11:52:27 INFO  LMS_AssignmentTest:192 - Testcase execute for3 time
+2020-09-01 11:52:44 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 11:52:48 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 11:55:19 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (794937bf2aaca6e60fa4731b3ae222fb)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 11:56:27 INFO  LMS_AssignmentTest:129 - the otion20200722----> text  isSelect All / Deselect All 
+2020-09-01 11:56:27 INFO  LMS_AssignmentTest:129 - the otion20200722----> text  is
+2020-09-01 11:56:27 INFO  LMS_AssignmentTest:129 - the otion20200722----> text  isSelect All / Deselect All 
+2020-09-01 11:56:27 INFO  LMS_AssignmentTest:129 - the otion20200722----> text  is20200722 
+2020-09-01 11:56:28 INFO  LMS_AssignmentTest:136 - the input box for20200722 option is clicked
+2020-09-01 11:56:57 INFO  LMS_AssignmentTest:129 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-09-01 11:56:57 INFO  LMS_AssignmentTest:129 - the otionGENERAL----> text  is
+2020-09-01 11:56:57 INFO  LMS_AssignmentTest:129 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-09-01 11:56:57 INFO  LMS_AssignmentTest:129 - the otionGENERAL----> text  isGENERAL 
+2020-09-01 11:56:58 INFO  LMS_AssignmentTest:136 - the input box forGENERAL option is clicked
+2020-09-01 11:58:01 INFO  LMS_AssignmentTest:192 - Testcase execute for4 time
+2020-09-01 11:58:19 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 11:58:21 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 12:00:50 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (85bcdfafec968111124773294ec5a46b)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 12:01:57 INFO  LMS_AssignmentTest:? - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records) Select All / Deselect All 
+2020-09-01 12:01:57 INFO  LMS_AssignmentTest:? - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records)
+2020-09-01 12:01:57 INFO  LMS_AssignmentTest:? - the otionGamification_Catalog----> text  isSelect All / Deselect All 
+2020-09-01 12:01:57 INFO  LMS_AssignmentTest:? - the otionGamification_Catalog----> text  isGamification_Catalog 
+2020-09-01 12:01:58 INFO  LMS_AssignmentTest:? - the input box forGamification_Catalog option is clicked
+2020-09-01 12:02:27 INFO  LMS_AssignmentTest:? - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 12:02:27 INFO  LMS_AssignmentTest:? - the otionCOM_TEST----> text  is
+2020-09-01 12:02:27 INFO  LMS_AssignmentTest:? - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 12:02:27 INFO  LMS_AssignmentTest:? - the otionCOM_TEST----> text  isCOM_TEST 
+2020-09-01 12:02:29 INFO  LMS_AssignmentTest:? - the input box forCOM_TEST option is clicked
+2020-09-01 12:03:32 INFO  LMS_AssignmentTest:? - Testcase execute for5 time
+2020-09-01 12:04:31 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 12:04:36 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 12:06:39 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (e83eba1852b8fc00bd78e2f32979286d)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 12:07:59 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 12:07:59 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  is
+2020-09-01 12:07:59 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 12:07:59 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-09-01 12:08:00 INFO  LMS_AssignmentTest:139 - the input box forCOM_TEST option is clicked
+2020-09-01 12:08:30 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-09-01 12:08:30 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  is
+2020-09-01 12:08:30 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-09-01 12:08:30 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-09-01 12:08:31 INFO  LMS_AssignmentTest:139 - the input box forTestLirbrary option is clicked
+2020-09-01 12:09:34 INFO  LMS_AssignmentTest:195 - Testcase execute for3 time
+2020-09-01 12:09:51 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 12:09:55 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 12:11:57 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (6477db66cd26fd22374bfe8ce5502999)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 12:13:20 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  isSelect All / Deselect All 
+2020-09-01 12:13:21 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  is
+2020-09-01 12:13:21 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  isSelect All / Deselect All 
+2020-09-01 12:13:21 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  is20200722 
+2020-09-01 12:13:22 INFO  LMS_AssignmentTest:139 - the input box for20200722 option is clicked
+2020-09-01 12:13:54 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-09-01 12:13:54 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  is
+2020-09-01 12:13:54 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-09-01 12:13:54 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  isGENERAL 
+2020-09-01 12:13:56 INFO  LMS_AssignmentTest:139 - the input box forGENERAL option is clicked
+2020-09-01 12:15:04 INFO  LMS_AssignmentTest:195 - Testcase execute for4 time
+2020-09-01 12:15:21 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 12:15:29 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 12:17:39 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (24f5da94f22f2e4814572c4997deacee)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 12:18:59 INFO  LMS_AssignmentTest:132 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records) Select All / Deselect All 
+2020-09-01 12:18:59 INFO  LMS_AssignmentTest:132 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records)
+2020-09-01 12:18:59 INFO  LMS_AssignmentTest:132 - the otionGamification_Catalog----> text  isSelect All / Deselect All 
+2020-09-01 12:18:59 INFO  LMS_AssignmentTest:132 - the otionGamification_Catalog----> text  isGamification_Catalog 
+2020-09-01 12:19:00 INFO  LMS_AssignmentTest:139 - the input box forGamification_Catalog option is clicked
+2020-09-01 12:19:29 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 12:19:29 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  is
+2020-09-01 12:19:29 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 12:19:29 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-09-01 12:19:30 INFO  LMS_AssignmentTest:139 - the input box forCOM_TEST option is clicked
+2020-09-01 12:20:34 INFO  LMS_AssignmentTest:195 - Testcase execute for5 time
+2020-09-01 12:24:04 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 12:24:07 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 12:26:11 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (6c5c145d5370aa653791c7f6b47fd248)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 12:27:32 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 12:27:32 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  is
+2020-09-01 12:27:32 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 12:27:32 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-09-01 12:27:33 INFO  LMS_AssignmentTest:139 - the input box forCOM_TEST option is clicked
+2020-09-01 12:28:02 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-09-01 12:28:02 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  is
+2020-09-01 12:28:02 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-09-01 12:28:03 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-09-01 12:28:04 INFO  LMS_AssignmentTest:139 - the input box forTestLirbrary option is clicked
+2020-09-01 12:29:07 INFO  LMS_AssignmentTest:195 - Testcase execute for3 time
+2020-09-01 12:29:24 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 12:29:27 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 12:31:30 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (b348912558f646c4f4be45ad1550b875)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 12:32:50 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  isSelect All / Deselect All 
+2020-09-01 12:32:50 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  is
+2020-09-01 12:32:50 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  isSelect All / Deselect All 
+2020-09-01 12:32:50 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  is20200722 
+2020-09-01 12:32:51 INFO  LMS_AssignmentTest:139 - the input box for20200722 option is clicked
+2020-09-01 12:33:21 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-09-01 12:33:21 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  is
+2020-09-01 12:33:21 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-09-01 12:33:21 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  isGENERAL 
+2020-09-01 12:33:23 INFO  LMS_AssignmentTest:139 - the input box forGENERAL option is clicked
+2020-09-01 12:34:26 INFO  LMS_AssignmentTest:195 - Testcase execute for4 time
+2020-09-01 12:34:43 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 12:34:46 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 12:37:29 INFO  LMS_AssignmentTest:80 - Timeout exception seen
+2020-09-01 12:46:07 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 12:46:10 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 12:48:09 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (94f6e4613db1f1c30ad3208b8782d340)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 12:49:30 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 12:49:30 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  is
+2020-09-01 12:49:30 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 12:49:30 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-09-01 12:49:31 INFO  LMS_AssignmentTest:139 - the input box forCOM_TEST option is clicked
+2020-09-01 12:51:51 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 12:51:54 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 12:57:39 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 12:57:46 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 12:59:59 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (c8bdf7332b93bff768935006e7145098)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 13:01:21 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 13:01:21 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  is
+2020-09-01 13:01:21 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 13:01:21 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-09-01 13:01:22 INFO  LMS_AssignmentTest:139 - the input box forCOM_TEST option is clicked
+2020-09-01 13:01:55 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-09-01 13:01:56 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  is
+2020-09-01 13:01:56 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-09-01 13:01:56 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-09-01 13:01:57 INFO  LMS_AssignmentTest:139 - the input box forTestLirbrary option is clicked
+2020-09-01 13:03:01 INFO  LMS_AssignmentTest:195 - Testcase execute for3 time
+2020-09-01 13:03:18 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 13:03:24 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 13:05:39 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (5dde564f25c85d477f7de8289f16ff42)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 13:07:01 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  isSelect All / Deselect All 
+2020-09-01 13:07:01 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  is
+2020-09-01 13:07:01 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  isSelect All / Deselect All 
+2020-09-01 13:07:01 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  is20200722 
+2020-09-01 13:07:02 INFO  LMS_AssignmentTest:139 - the input box for20200722 option is clicked
+2020-09-01 13:07:35 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-09-01 13:07:36 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  is
+2020-09-01 13:07:36 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-09-01 13:07:36 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  isGENERAL 
+2020-09-01 13:07:37 INFO  LMS_AssignmentTest:139 - the input box forGENERAL option is clicked
+2020-09-01 13:08:43 INFO  LMS_AssignmentTest:195 - Testcase execute for4 time
+2020-09-01 13:09:00 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 13:09:11 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 13:12:14 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (18b550d543bdb41b1f57e545b11d4f9e)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 13:13:37 INFO  LMS_AssignmentTest:132 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records) Select All / Deselect All 
+2020-09-01 13:13:37 INFO  LMS_AssignmentTest:132 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records)
+2020-09-01 13:13:37 INFO  LMS_AssignmentTest:132 - the otionGamification_Catalog----> text  isSelect All / Deselect All 
+2020-09-01 13:13:37 INFO  LMS_AssignmentTest:132 - the otionGamification_Catalog----> text  isGamification_Catalog 
+2020-09-01 13:13:39 INFO  LMS_AssignmentTest:139 - the input box forGamification_Catalog option is clicked
+2020-09-01 13:14:09 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 13:14:09 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  is
+2020-09-01 13:14:10 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 13:14:10 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-09-01 13:14:11 INFO  LMS_AssignmentTest:139 - the input box forCOM_TEST option is clicked
+2020-09-01 13:15:14 INFO  LMS_AssignmentTest:195 - Testcase execute for5 time
+2020-09-01 13:49:53 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 13:50:04 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 13:52:24 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (35c50ae26f41634fe3b1f49a6b717d47)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 13:53:46 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 13:53:46 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  is
+2020-09-01 13:53:46 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 13:53:46 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-09-01 13:53:48 INFO  LMS_AssignmentTest:139 - the input box forCOM_TEST option is clicked
+2020-09-01 13:54:18 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-09-01 13:54:18 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  is
+2020-09-01 13:54:18 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-09-01 13:54:18 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-09-01 13:54:19 INFO  LMS_AssignmentTest:139 - the input box forTestLirbrary option is clicked
+2020-09-01 13:55:24 INFO  LMS_AssignmentTest:195 - Testcase execute for3 time
+2020-09-01 13:55:43 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 13:55:45 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 13:57:43 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (6f5bc9148e976e6fc3b29fdaf1316f33)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 13:59:05 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  isSelect All / Deselect All 
+2020-09-01 13:59:05 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  is
+2020-09-01 13:59:05 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  isSelect All / Deselect All 
+2020-09-01 13:59:05 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  is20200722 
+2020-09-01 13:59:06 INFO  LMS_AssignmentTest:139 - the input box for20200722 option is clicked
+2020-09-01 13:59:36 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-09-01 13:59:36 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  is
+2020-09-01 13:59:36 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-09-01 13:59:37 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  isGENERAL 
+2020-09-01 13:59:38 INFO  LMS_AssignmentTest:139 - the input box forGENERAL option is clicked
+2020-09-01 14:00:42 INFO  LMS_AssignmentTest:195 - Testcase execute for4 time
+2020-09-01 14:01:00 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 14:01:03 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 14:03:01 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (61b6955f3d808ad5b068662403ad77fb)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 14:04:22 INFO  LMS_AssignmentTest:132 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records) Select All / Deselect All 
+2020-09-01 14:04:22 INFO  LMS_AssignmentTest:132 - the otionGamification_Catalog----> text  isRecords per Page 
+5
+10
+25
+50
+500
+All
+(6 total records)
+2020-09-01 14:04:22 INFO  LMS_AssignmentTest:132 - the otionGamification_Catalog----> text  isSelect All / Deselect All 
+2020-09-01 14:04:22 INFO  LMS_AssignmentTest:132 - the otionGamification_Catalog----> text  isGamification_Catalog 
+2020-09-01 14:04:24 INFO  LMS_AssignmentTest:139 - the input box forGamification_Catalog option is clicked
+2020-09-01 14:04:53 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 14:04:54 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  is
+2020-09-01 14:04:54 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 14:04:54 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-09-01 14:04:55 INFO  LMS_AssignmentTest:139 - the input box forCOM_TEST option is clicked
+2020-09-01 14:05:59 INFO  LMS_AssignmentTest:195 - Testcase execute for5 time
+2020-09-01 14:09:15 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 14:09:18 INFO  LMSTest:66 - url is launched
+2020-09-01 14:11:22 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (0ba484c77ca9b79116ba5e6b8be933da)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 14:12:16 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-01 14:12:19 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-09-01 14:13:20 INFO  LMSTest:208 - Testcase execute for1 time
+2020-09-01 14:13:38 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 14:13:41 INFO  LMSTest:66 - url is launched
+2020-09-01 14:15:54 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (9f36220cfded8047d0840f2f096fc815)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 14:16:47 INFO  LMSTest:138 - the input box for20200722  option is clicked
+2020-09-01 14:16:49 INFO  LMSTest:138 - the input box forGENERAL  option is clicked
+2020-09-01 14:17:49 INFO  LMSTest:208 - Testcase execute for2 time
+2020-09-01 14:18:07 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 14:18:10 INFO  LMSTest:66 - url is launched
+2020-09-01 14:20:14 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (aeff6c156aa229c8c7adeaf10c30087d)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 14:21:09 INFO  LMSTest:138 - the input box forGamification_Catalog  option is clicked
+2020-09-01 14:21:11 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-01 14:22:12 INFO  LMSTest:208 - Testcase execute for3 time
+2020-09-01 15:25:47 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 15:25:54 INFO  LMSTest:66 - url is launched
+2020-09-01 15:29:02 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (c350e9550ddb70694e2d3c51feeb86d7)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 15:30:02 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-01 15:30:05 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-09-01 15:33:31 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 15:33:36 INFO  LMSTest:66 - url is launched
+2020-09-01 15:36:02 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (325c5b4e2efff6ec900fbfce97ab9707)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 15:36:56 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-01 15:36:58 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-09-01 15:48:39 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 15:48:42 INFO  LMSTest:66 - url is launched
+2020-09-01 15:50:45 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (b68f20fbdf9cd96d27bb23e4fc10c691)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 15:51:39 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-01 15:51:41 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-09-01 15:55:01 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 15:55:05 INFO  LMSTest:66 - url is launched
+2020-09-01 15:57:13 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (bbd4ef4aa39512d028291130bdef86b3)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 15:58:07 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-01 15:58:10 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-09-01 16:03:47 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 16:03:50 INFO  LMSTest:66 - url is launched
+2020-09-01 16:06:00 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (1f319ec7d3c64e798fa687c4dcad43fd)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 16:06:54 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-01 16:06:57 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-09-01 16:22:25 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 16:22:28 INFO  LMSTest:66 - url is launched
+2020-09-01 16:24:34 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (0801c8ca64b3fa6a8a84392a102d370b)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 16:25:28 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-01 16:25:30 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-09-01 16:28:54 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 16:28:57 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 16:32:13 INFO  LMS_AssignmentTest:80 - Timeout exception seen
+2020-09-01 16:33:41 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 16:33:44 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 16:37:02 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (57351de68a3fd0be2a9fea18afbdcd7e)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 16:38:25 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 16:38:26 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  is
+2020-09-01 16:38:26 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 16:38:26 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-09-01 16:38:27 INFO  LMS_AssignmentTest:139 - the input box forCOM_TEST option is clicked
+2020-09-01 16:38:58 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-09-01 16:38:58 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  is
+2020-09-01 16:38:58 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-09-01 16:38:58 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-09-01 16:38:59 INFO  LMS_AssignmentTest:139 - the input box forTestLirbrary option is clicked
+2020-09-01 16:40:04 INFO  LMS_AssignmentTest:195 - Testcase execute for3 time
+2020-09-01 16:40:24 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 16:40:27 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 16:42:39 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (1c276afb4738a04bea86347b8ef5419f)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 16:44:14 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  isSelect All / Deselect All 
+2020-09-01 16:44:14 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  is
+2020-09-01 16:44:14 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  isSelect All / Deselect All 
+2020-09-01 16:44:14 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  is20200722 
+2020-09-01 16:44:15 INFO  LMS_AssignmentTest:139 - the input box for20200722 option is clicked
+2020-09-01 16:44:46 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-09-01 16:44:46 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  is
+2020-09-01 16:44:46 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-09-01 16:44:46 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  isGENERAL 
+2020-09-01 16:44:47 INFO  LMS_AssignmentTest:139 - the input box forGENERAL option is clicked
+2020-09-01 16:45:53 INFO  LMS_AssignmentTest:195 - Testcase execute for4 time
+2020-09-01 16:49:17 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 16:49:24 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 16:52:22 INFO  LMS_AssignmentTest:80 - Timeout exception seen
+2020-09-01 16:54:08 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 16:54:17 INFO  LMSTest:66 - url is launched
+2020-09-01 16:59:06 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (2be89caf87ae45e9fc44b2b69969ef61)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 17:00:31 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 17:00:41 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 17:03:52 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (97cbf62d86bc03fdcc4d7776a586ccbb)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 17:05:24 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 17:05:24 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  is
+2020-09-01 17:05:25 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 17:05:25 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-09-01 17:05:26 INFO  LMS_AssignmentTest:139 - the input box forCOM_TEST option is clicked
+2020-09-01 17:06:04 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-09-01 17:06:04 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  is
+2020-09-01 17:06:05 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-09-01 17:06:05 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-09-01 17:06:06 INFO  LMS_AssignmentTest:139 - the input box forTestLirbrary option is clicked
+2020-09-01 17:07:48 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 17:16:27 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 17:16:29 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 17:18:39 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (9cf757e7f5c73a6071e642482799c3e3)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 17:19:59 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 17:19:59 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  is
+2020-09-01 17:19:59 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 17:20:00 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-09-01 17:20:01 INFO  LMS_AssignmentTest:139 - the input box forCOM_TEST option is clicked
+2020-09-01 17:20:29 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-09-01 17:20:29 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  is
+2020-09-01 17:20:29 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-09-01 17:20:29 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-09-01 17:20:30 INFO  LMS_AssignmentTest:139 - the input box forTestLirbrary option is clicked
+2020-09-01 17:21:54 INFO  LMS_AssignmentTest:195 - Testcase execute for3 time
+2020-09-01 17:22:11 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 17:22:14 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 17:23:03 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 17:23:06 INFO  LMSTest:66 - url is launched
+2020-09-01 17:25:10 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (5740fde98cd5f3e189c4128777bcd1f4)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 17:26:05 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-01 17:26:07 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-09-01 17:35:10 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 17:35:39 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 17:37:50 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (6237ea3d220e92d18c399102d4fe8099)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 17:39:10 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 17:39:10 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  is
+2020-09-01 17:39:10 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isSelect All / Deselect All 
+2020-09-01 17:39:10 INFO  LMS_AssignmentTest:132 - the otionCOM_TEST----> text  isCOM_TEST 
+2020-09-01 17:39:11 INFO  LMS_AssignmentTest:139 - the input box forCOM_TEST option is clicked
+2020-09-01 17:39:40 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-09-01 17:39:40 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  is
+2020-09-01 17:39:40 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isSelect All / Deselect All 
+2020-09-01 17:39:40 INFO  LMS_AssignmentTest:132 - the otionTestLirbrary----> text  isTestLirbrary 
+2020-09-01 17:39:42 INFO  LMS_AssignmentTest:139 - the input box forTestLirbrary option is clicked
+2020-09-01 17:40:54 INFO  LMS_AssignmentTest:195 - Testcase execute for3 time
+2020-09-01 17:41:12 INFO  LMS_AssignmentTest:58 -  Window is miximized
+2020-09-01 17:41:15 INFO  LMS_AssignmentTest:63 - url is launched
+2020-09-01 17:43:23 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (cd6d176f6eaf42203cd8017a6029d3ca)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 17:44:46 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  isSelect All / Deselect All 
+2020-09-01 17:44:46 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  is
+2020-09-01 17:44:46 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  isSelect All / Deselect All 
+2020-09-01 17:44:46 INFO  LMS_AssignmentTest:132 - the otion20200722----> text  is20200722 
+2020-09-01 17:44:47 INFO  LMS_AssignmentTest:139 - the input box for20200722 option is clicked
+2020-09-01 17:45:17 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-09-01 17:45:17 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  is
+2020-09-01 17:45:17 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  isSelect All / Deselect All 
+2020-09-01 17:45:17 INFO  LMS_AssignmentTest:132 - the otionGENERAL----> text  isGENERAL 
+2020-09-01 17:45:18 INFO  LMS_AssignmentTest:139 - the input box forGENERAL option is clicked
+2020-09-01 18:10:33 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 18:10:41 INFO  LMSTest:66 - url is launched
+2020-09-01 18:12:39 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (2474b511f1e619a734c439f312e886c3)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 18:13:35 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-01 18:13:37 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-09-01 18:21:57 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 18:21:59 INFO  LMSTest:66 - url is launched
+2020-09-01 18:23:56 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (985140e6b11b6cd89a69f3549087746a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 18:26:29 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 18:26:32 INFO  LMSTest:66 - url is launched
+2020-09-01 18:28:35 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (8eba9990d9ec3dbe260af7572c5f73f5)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 18:29:36 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-01 18:29:38 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-09-01 18:33:56 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 18:33:58 INFO  LMSTest:66 - url is launched
+2020-09-01 18:35:53 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (d29c2fc3ad031e7a8c40230bdf8330e2)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 18:36:50 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-01 18:36:51 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-09-01 22:02:14 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 22:02:17 INFO  LMSTest:66 - url is launched
+2020-09-01 22:04:38 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (a970c318d4750ecaff3179320d321527)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 22:07:18 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 22:07:22 INFO  LMSTest:66 - url is launched
+2020-09-01 22:09:40 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (b81db1eed63b0a7e9e75c2182bdf2638)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 22:10:51 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-01 22:10:54 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-09-01 22:14:47 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 22:14:51 INFO  LMSTest:66 - url is launched
+2020-09-01 22:17:07 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (9d8e17dc64988ee12e49776c65c4bf3a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 22:18:10 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-01 22:18:12 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-09-01 22:27:35 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 22:27:38 INFO  LMSTest:66 - url is launched
+2020-09-01 22:30:06 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (6bf08b606f9735675764a62068ab23bd)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 22:31:14 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-01 22:31:16 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-09-01 22:37:19 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 22:37:24 INFO  LMSTest:66 - url is launched
+2020-09-01 22:39:48 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (61ec772d9f4984322ca32dbe5348b6f0)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 22:41:11 INFO  LMSTest:61 -  Window is miximized
+2020-09-01 22:41:20 INFO  LMSTest:66 - url is launched
+2020-09-01 22:44:29 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (738bcdf7d24566d844e87501def1b8b5)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-01 22:49:34 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-01 22:49:36 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-09-02 09:10:48 INFO  LMSTest:61 -  Window is miximized
+2020-09-02 09:10:50 INFO  LMSTest:66 - url is launched
+2020-09-02 09:14:10 INFO  LMSTest:61 -  Window is miximized
+2020-09-02 09:14:12 INFO  LMSTest:66 - url is launched
+2020-09-02 11:00:46 INFO  LMSTest:61 -  Window is miximized
+2020-09-02 11:00:49 INFO  LMSTest:66 - url is launched
+2020-09-02 11:08:00 INFO  LMSTest:61 -  Window is miximized
+2020-09-02 11:08:02 INFO  LMSTest:66 - url is launched
+2020-09-02 11:25:02 INFO  LMSTest:61 -  Window is miximized
+2020-09-02 11:25:05 INFO  LMSTest:66 - url is launched
+2020-09-02 12:04:17 INFO  LMSTest:61 -  Window is miximized
+2020-09-02 12:04:20 INFO  LMSTest:66 - url is launched
+2020-09-02 12:07:31 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (6194d6dd530168e2fcb44a6154ef37a5)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-02 12:08:57 INFO  LMSTest:61 -  Window is miximized
+2020-09-02 12:09:00 INFO  LMSTest:66 - url is launched
+2020-09-02 12:14:18 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (b7ba6c0fe5580e40ef5ff592d2ff5fc7)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-02 12:19:38 INFO  LMSTest:61 -  Window is miximized
+2020-09-02 12:19:41 INFO  LMSTest:66 - url is launched
+2020-09-02 12:24:14 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (3e0211c1731d1c64240a20ba59651a2b)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-02 12:26:06 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-02 12:26:09 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-09-02 12:48:35 INFO  LMSTest:61 -  Window is miximized
+2020-09-02 12:48:38 INFO  LMSTest:66 - url is launched
+2020-09-02 12:52:08 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (de0d1d7cf3cb063e4bb58d5758007e74)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-02 12:53:38 INFO  LMSTest:61 -  Window is miximized
+2020-09-02 12:53:42 INFO  LMSTest:66 - url is launched
+2020-09-02 12:55:52 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (12968cf1e59ddca7c15c0d8efc0d0f21)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-02 13:02:40 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-02 13:02:43 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-09-02 13:05:11 INFO  LMSTest:61 -  Window is miximized
+2020-09-02 13:05:22 INFO  LMSTest:66 - url is launched
+2020-09-02 13:07:20 INFO  LMSTest:61 -  Window is miximized
+2020-09-02 13:08:05 INFO  LMSTest:66 - url is launched
+2020-09-02 13:10:11 INFO  LMSTest:61 -  Window is miximized
+2020-09-02 13:10:25 INFO  LMSTest:66 - url is launched
+2020-09-02 14:13:15 INFO  LMSTest:61 -  Window is miximized
+2020-09-02 14:13:22 INFO  LMSTest:66 - url is launched
+2020-09-02 14:35:46 INFO  LMSTest:61 -  Window is miximized
+2020-09-02 14:36:42 INFO  LMSTest:66 - url is launched
+2020-09-02 14:40:26 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (d0b12f881898b58c6311588cea9297ec)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-02 14:42:05 INFO  LMSTest:138 - the input box forCOM_TEST  option is clicked
+2020-09-02 14:42:07 INFO  LMSTest:138 - the input box forTestLirbrary  option is clicked
+2020-09-02 15:11:49 INFO  LMSTest:62 -  Window is miximized
+2020-09-02 15:11:52 INFO  LMSTest:67 - url is launched
+2020-09-02 15:14:51 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (0e2acc42760f608bcc782cff1f957113)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-02 15:16:30 INFO  LMSTest:139 - the input box forCOM_TEST  option is clicked
+2020-09-02 15:16:33 INFO  LMSTest:139 - the input box forTestLirbrary  option is clicked
+2020-09-02 16:05:51 INFO  LMSTest:62 -  Window is miximized
+2020-09-02 16:05:55 INFO  LMSTest:67 - url is launched
+2020-09-02 16:09:14 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (fe799098acfd6ff02648d28910cf9e22)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-02 16:11:12 INFO  LMSTest:139 - the input box forCOM_TEST  option is clicked
+2020-09-02 16:11:13 INFO  LMSTest:139 - the input box forTestLirbrary  option is clicked
+2020-09-02 16:13:46 INFO  LMSTest:62 -  Window is miximized
+2020-09-02 16:13:55 INFO  LMSTest:67 - url is launched
+2020-09-02 16:16:58 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (006ed0c62d1e33b575e5455ed37d2407)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-02 16:18:00 INFO  LMSTest:139 - the input box forCOM_TEST  option is clicked
+2020-09-02 16:18:02 INFO  LMSTest:139 - the input box forTestLirbrary  option is clicked
+2020-09-02 16:28:50 INFO  LMSTest:62 -  Window is miximized
+2020-09-02 16:28:52 INFO  LMSTest:67 - url is launched
+2020-09-02 16:31:02 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (6fb043358297cebe14b1cf1c927a1916)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-02 16:32:05 INFO  LMSTest:139 - the input box forCOM_TEST  option is clicked
+2020-09-02 16:32:06 INFO  LMSTest:139 - the input box forTestLirbrary  option is clicked
+2020-09-02 16:45:58 INFO  LMSTest:62 -  Window is miximized
+2020-09-02 16:46:01 INFO  LMSTest:67 - url is launched
+2020-09-02 16:48:11 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (2ebc4caefba788d8d335a077e7fe4dc3)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-02 16:50:05 INFO  LMSTest:62 -  Window is miximized
+2020-09-02 16:50:11 INFO  LMSTest:67 - url is launched
+2020-09-02 16:52:37 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (cb2de6d46a652a22a7fe8a745e38332c)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-02 16:53:39 INFO  LMSTest:139 - the input box forCOM_TEST  option is clicked
+2020-09-02 16:53:41 INFO  LMSTest:139 - the input box forTestLirbrary  option is clicked
+2020-09-02 16:57:12 INFO  LMSTest:63 -  Window is miximized
+2020-09-02 16:57:16 INFO  LMSTest:68 - url is launched
+2020-09-02 16:59:25 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (7427fea91fa18c328efdf21a43ee669d)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-02 17:00:29 INFO  LMSTest:140 - the input box forCOM_TEST  option is clicked
+2020-09-02 17:00:31 INFO  LMSTest:140 - the input box forTestLirbrary  option is clicked
+2020-09-02 17:06:21 INFO  LMSTest:231 - Testcase execute for1 time
+2020-09-02 17:06:40 INFO  LMSTest:63 -  Window is miximized
+2020-09-02 17:06:43 INFO  LMSTest:68 - url is launched
+2020-09-02 17:08:43 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (740bdebdfbefde018b6b6e9269b4961a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-02 17:09:46 INFO  LMSTest:140 - the input box for20200722  option is clicked
+2020-09-02 17:09:48 INFO  LMSTest:140 - the input box forGENERAL  option is clicked
+2020-09-02 17:11:45 INFO  LMSTest:231 - Testcase execute for2 time
+2020-09-02 17:12:02 INFO  LMSTest:63 -  Window is miximized
+2020-09-02 17:12:05 INFO  LMSTest:68 - url is launched
+2020-09-02 17:14:08 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (2f7ed3e8c82fc7d367d004fcf113b7af)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-02 17:15:09 INFO  LMSTest:140 - the input box forGamification_Catalog  option is clicked
+2020-09-02 17:15:10 INFO  LMSTest:140 - the input box forCOM_TEST  option is clicked
+2020-09-02 17:16:46 INFO  LMSTest:231 - Testcase execute for3 time
+2020-09-02 17:31:13 INFO  LMSTest:63 -  Window is miximized
+2020-09-02 17:31:16 INFO  LMSTest:68 - url is launched
+2020-09-02 17:33:16 INFO  TestUtil:48 - Driver is waited for[[ChromeDriver: chrome on XP (5d2ece1d2460b16bc1015ada756ead1e)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-02 17:34:17 INFO  LMSTest:140 - the input box forCOM_TEST  option is clicked
+2020-09-02 17:34:18 INFO  LMSTest:140 - the input box forTestLirbrary  option is clicked
+2020-09-02 18:36:06 INFO  LMSTest:64 -  Window is miximized
+2020-09-02 18:36:10 INFO  LMSTest:69 - url is launched

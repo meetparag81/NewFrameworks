@@ -227,7 +227,14 @@ public boolean jsClick(WebDriver driver, ExtentTest extentTest, String[] identif
 	}
 	return true;
 }
+public void waitTillbusycursor() throws InterruptedException{
+while(TestUtil.iselementExists(driver.findElement(By.xpath("//div[contains(@id,'shim')]")))) {
+
+Thread.sleep(1000);
+
+}
 
 
 
+}
 }

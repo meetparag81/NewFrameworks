@@ -5,6 +5,7 @@ import java.util.List;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 import helper.logger.LoggerHelper;
@@ -12,6 +13,7 @@ import testBase.TestBase;
 
 public class Pickhelper extends TestBase {
 	WebElement element;
+	static WebDriver driver;
 	private static  Logger log=LoggerHelper.GetLogger(Pickhelper.class)	;
 	private static String value1;
 	private static  boolean found;

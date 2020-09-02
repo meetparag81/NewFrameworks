@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="64" started-at="2020-08-24T18:29:27Z" finished-at="2020-08-24T18:29:27Z">
+  <suite name="Default suite" duration-ms="70" started-at="2020-08-28T07:16:50Z" finished-at="2020-08-28T07:16:50Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="64" started-at="2020-08-24T18:29:27Z" finished-at="2020-08-24T18:29:27Z">
+    <test name="Default test" duration-ms="70" started-at="2020-08-28T07:16:50Z" finished-at="2020-08-28T07:16:50Z">
       <class name="MYFramework.AssignmentProfileTest">
-        <test-method status="FAIL" signature="Test(java.lang.String)[pri:0, instance:MYFramework.AssignmentProfileTest@85e6769]" name="Test" duration-ms="0" started-at="2020-08-24T23:59:27Z" finished-at="2020-08-24T23:59:27Z">
+        <test-method status="FAIL" signature="Test(java.lang.String)[pri:0, instance:MYFramework.AssignmentProfileTest@48a12036]" name="Test" duration-ms="0" started-at="2020-08-28T12:46:50Z" finished-at="2020-08-28T12:46:50Z">
           <exception class="org.testng.TestNGException">
             <message>
               <![CDATA[
