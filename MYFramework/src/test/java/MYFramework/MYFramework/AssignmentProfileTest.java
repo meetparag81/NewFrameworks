@@ -1,5 +1,6 @@
 package MYFramework.MYFramework;
 
+import java.io.FileNotFoundException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
@@ -38,10 +39,13 @@ public class AssignmentProfileTest {
 	private static WebDriverEventListener e_driver;
 	private static int k=0;
 	private static  Logger log=LoggerHelper.GetLogger(LMSTest.class);
-	private static String Libraryrule;
-	private static String SecurityDomainrule;
+	private static String Libraryrule="";
+	private static String SecurityDomainrule="";
 	private static List<WebElement> NameofLibraries;
 	static Exls_Reader reader = new Exls_Reader(ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata\\LMS_TestData.xlsx"));
+	static Exls_Reader validationreader = new Exls_Reader(ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata\\LMS_TestDatavalidation.xlsx"));
+	private static String timestamp="";
+	private static String empty="";
 
 
 
@@ -55,7 +59,7 @@ public class AssignmentProfileTest {
 
 
 		int count = reader.getRowCount("LMSData");
-		for(int i=2;i<=reader.getRowCount("LMSData");i++){
+		for(int rowcounter=2;rowcounter<=reader.getRowCount("LMSData");rowcounter++){
 			Thread.sleep(10000);
 
 			System.setProperty("webdriver.chrome.driver",ResourceHelper.GetResourcePath("\\src\\main\\resorces\\driver\\chromedriver.exe")); 
@@ -67,8 +71,8 @@ public class AssignmentProfileTest {
 			driver.manage().timeouts().implicitlyWait(TestUtil.IMPLICIT_WAIT, TimeUnit.SECONDS);			
 			driver.get("https://performancemanager8.successfactors.com/login?company=BPOCUSTOM10#/login");			
 			log.info("url is launched");
-			String username = reader.getCellData("LMSData", "Username", 2);
-			String password = reader.getCellData("LMSData", "Password", 2);	
+			String username = reader.getCellData("LMSData", "Username", rowcounter);
+			String password = reader.getCellData("LMSData", "Password", rowcounter);	
 
 			driver.findElement(By.xpath("//input[@name='username']")).sendKeys(username);
 			Thread.sleep(2000);
@@ -97,9 +101,9 @@ public class AssignmentProfileTest {
 			Thread.sleep(5000);
 			WebElement iframe2= driver.findElement(By.xpath("//iframe[contains(@name,'PPCFrame')][1]"));
 			driver.switchTo().frame(iframe2);
-			String Assignment_Profile_ID = reader.getCellData("LMSData", "Assignment Profile ID", i);
+			String Assignment_Profile_ID = reader.getCellData("LMSData", "Assignment Profile ID", rowcounter);
 			Thread.sleep(2000);
-			String timestamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+			timestamp =new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
 			driver.findElement(By.name("assignmentProfileId")).sendKeys("TestProfile"+timestamp);
 			driver.findElement(By.xpath("(//input[@name='submitbutton'])[2]")).click();
 			Thread.sleep(5000);
@@ -122,7 +126,7 @@ public class AssignmentProfileTest {
 
 			List<WebElement>Libraryid = driver.findElements(By.xpath("//table[@name='layoutTable']//following::table[@class='BodyTable']//following::table[@class='ResultsTable']//tr//td"));
 			//Selection of options as per Excel 
-			String Libraries_data = reader.getCellData("LMSData", "Libraries", i).trim();
+			String Libraries_data = reader.getCellData("LMSData", "Libraries", rowcounter).trim();
 			String[] Libraryname=Libraries_data.split(";");
 			ArrayList<String> LibraryList= new ArrayList<>();
 			for(int n=0; n<Libraryname.length;n++){
@@ -131,14 +135,14 @@ public class AssignmentProfileTest {
 
 			for(int p=0;p<Libraryname.length;p++){
 
-				for(int m =0;m<Libraryid.size();m++ ){
+				for(int Librarycounter =0;Librarycounter<Libraryid.size();Librarycounter++ ){
 					boolean flag = false;
 					//System.out.println("the vauefromExcel is = "+LibraryList.get(p) +" and "+ "element text= "+Libraryid.get(m).getText().toString().trim() );
-					boolean flag1 = Libraryname[p].toString().trim().equalsIgnoreCase(Libraryid.get(m).getText().toString().trim());
+					boolean flag1 = Libraryname[p].toString().trim().equalsIgnoreCase(Libraryid.get(Librarycounter).getText().toString().trim());
 					if(flag1==true){
 						Thread.sleep(1000);
-						driver.findElement(By.xpath("((//table[@class='ResultsTable'][1]//tr//td)["+(m+1)+"]//following::input)[1]")).click();
-						log.info("the input box for"+Libraryid.get(m).getText()+" option is clicked");
+						driver.findElement(By.xpath("((//table[@class='ResultsTable'][1]//tr//td)["+(Librarycounter+1)+"]//following::input)[1]")).click();
+						log.info("the input box for"+Libraryid.get(Librarycounter).getText()+" option is clicked");
 
 						break;
 
@@ -154,50 +158,54 @@ public class AssignmentProfileTest {
 			driver.switchTo().defaultContent();
 			Thread.sleep(3000);
 			driver.findElement(By.xpath("//bdi[text()='Rules']//ancestor::button")).click();
-			Thread.sleep(5000);
-			String SecurityDomains = reader.getCellData("LMSData", "Security Domains", i).trim();
-			String[] SecurityDomainsname=SecurityDomains.split(";");
-			for(int n=0;n<SecurityDomainsname.length;n++){
+			String SecurityDomains = reader.getCellData("LMSData", "Security Domains", rowcounter).trim();
+			String[] NoSecurityDomains = SecurityDomains.split(";");
+			boolean flag=false;
+			for(int securitydomaincounter=0;securitydomaincounter<NoSecurityDomains.length;securitydomaincounter++){
 
-				SecurityDomainrule=SecurityDomainsname[n].trim();
-
-				driver.findElement(By.xpath("//bdi[text()='Security Domains']//following::input[1]")).sendKeys(SecurityDomainrule);
-
+				String SecurityDomainsname = NoSecurityDomains[securitydomaincounter];
+				int counter=0;
+				String inputvalue=ValidateSecurityDomains(SecurityDomainsname, rowcounter);
+				if(!inputvalue.isEmpty()){
+				driver.findElement(By.xpath("//bdi[text()='Security Domains']//following::input[1]")).sendKeys(inputvalue);
 				driver.findElement(By.xpath("//bdi[text()='Security Domains']")).click();
+				flag=true;
+
+				}
+				if(!flag){
+					break;
+				}
+
+			}
+			//if both condition of security group istrue
+			if(flag){
 				Thread.sleep(2000);
 				driver.switchTo().defaultContent();
 				Thread.sleep(3000);
+				//CreateSecurityGroups(rowcounter);
+				WebElement CreateGroup= driver.findElement(By.xpath("//bdi[text()='Create Group']//ancestor::button"));
+				String CreateGroupAttribute = reader.getCellData("LMSData", "Create Group1", rowcounter);
+				String[] Securitygroup = CreateGroupAttribute.split(";");
+				int totalgroups= clickontheAddgroup(CreateGroup, Securitygroup.length);
+				Thread.sleep(3000);
+				for(int groupcounter = 1;groupcounter<=Securitygroup.length;groupcounter++){
+				driver.findElement(By.xpath("(//input[@placeholder='Enter Group Name'])["+groupcounter+"]")).sendKeys("TestGroup_groupcounter"+"_"+groupcounter+"_"+timestamp);
+				String xpath="(//input[@placeholder='Enter Group Name'])["+groupcounter+"]";
+				//For Groupruleloop
+				Grouprules(xpath, groupcounter, rowcounter);
+
+				}
+				Thread.sleep(2000);
+				driver.findElement(By.xpath("//bdi[text()='Save']//ancestor::button")).click();
+				k++;
+
 			}
-			Thread.sleep(1000);
-			driver.switchTo().defaultContent();
-			Thread.sleep(3000);
-			//For grouplooping
-			WebElement CreateGroup= driver.findElement(By.xpath("//bdi[text()='Create Group']//ancestor::button"));
-			String CreateGroupAttribute = reader.getCellData("LMSData", "Create Group1", i);
-			String[] Securitygroup = CreateGroupAttribute.split(";");
-			int totalgroups= clickontheAddgroup(CreateGroup, Securitygroup.length);
-			Thread.sleep(3000);
-			driver.findElement(By.xpath("//input[@placeholder='Enter Group Name'][1]")).sendKeys("TestGroup"+"_"+timestamp);
-			for(int groupcounter = 1;groupcounter<Securitygroup.length;groupcounter++){
-				driver.findElement(By.xpath("//input[@placeholder='Enter Group Name']["+groupcounter+"]")).sendKeys("TestGroup_groupcounter"+"_"+timestamp);
-				String xpath="//input[@placeholder='Enter Group Name']["+groupcounter+"]";
-				//For Rulelooping
-				countryregiongroup(xpath, i);
+			else{
+				log.info("securitydomainnotfound");
+				driver.close();
 			}
 
-
-
-
-
-
-			Thread.sleep(2000);
-			driver.findElement(By.xpath("//bdi[text()='Save']//ancestor::button")).click();
-
-
-
-
-
-			k++;
+			
 			Thread.sleep(10000);
 			log.info("Testcase execute for"+ k + " time");
 
@@ -205,11 +213,54 @@ public class AssignmentProfileTest {
 			driver.quit();
 		}
 	}
-	public static void countryregiongroup(String xpath,int rowcounter) throws InterruptedException{
+
+
+
+
+
+
+
+
+
+	private static void CreateSecurityGroups(int rowcounter) throws InterruptedException {
+		WebElement CreateGroup= driver.findElement(By.xpath("//bdi[text()='Create Group']//ancestor::button"));
+		String CreateGroupAttribute = reader.getCellData("LMSData", "Create Group1", rowcounter);
+		String[] Securitygroup = CreateGroupAttribute.split(";");
+		int totalgroups= clickontheAddgroup(CreateGroup, Securitygroup.length);
+		Thread.sleep(3000);
+		for(int groupcounter = 1;groupcounter<=Securitygroup.length;groupcounter++){
+			driver.findElement(By.xpath("(//input[@placeholder='Enter Group Name'])["+groupcounter+"]")).sendKeys("TestGroup_groupcounter"+"_"+groupcounter+"_"+timestamp);
+			String xpath="(//input[@placeholder='Enter Group Name'])["+groupcounter+"]";
+			//For Groupruleloop
+			//Grouprules(xpath, groupcounter, rowcounter);
+		}
+		// TODO Auto-generated method stub
+
+	}
+
+	private static String ValidateSecurityDomains(String SecurityDomainsname,int rowcounter) {
+		String result="";
+		for(int securityvalidationcounter=2;securityvalidationcounter<validationreader.getRowCount("SecurityDomain");securityvalidationcounter++){
+			String validationvalue=validationreader.getCellData("SecurityDomain", "Names", securityvalidationcounter);
+			if(SecurityDomainsname.equalsIgnoreCase(validationvalue)){
+				result=	validationvalue;
+				break;
+			}
+			else{
+
+				result="";
+			}
+		}
+		return result;
+
+	}
+
+
+	public static void Grouprules(String xpath,int rowcounter,int groupcounter) throws InterruptedException{
 		String GroupAttribute = reader.getCellData("LMSData", "Group1 Attribute", rowcounter);
 		String[] Country_Region=GroupAttribute.split(";");
 		int Rulegroup=0;
-		WebElement Addnewbutton= driver.findElement(By.xpath("//a[text()='Add Rule']"));
+		WebElement Addnewbutton= driver.findElement(By.xpath("(//a[text()='Add Rule'])"+"["+groupcounter+"]"));
 		int totalrules= clickontheAddnew(Addnewbutton, Country_Region.length);
 		for(int countrycounter=1;countrycounter<=Country_Region.length;countrycounter++){
 			String Countryrule = Country_Region [Rulegroup].trim();
@@ -217,17 +268,18 @@ public class AssignmentProfileTest {
 			String[] Countryname=Country_CityNames.split(";");
 			String CountrynameRule = Countryname [Rulegroup].trim();
 			Thread.sleep(2000);
-			WebElement country= driver.findElement(By.xpath("("+xpath+"following:://input[@placeholder='Select Attribute'])["+(countrycounter)+"]"));
+			System.out.println(xpath+"//following::input[@placeholder='Select Attribute']["+(countrycounter)+"]");
+			WebElement country= driver.findElement(By.xpath(xpath+"//following::input[@placeholder='Select Attribute']["+(countrycounter)+"]"));
 			ActionForMovetoElement(country);
 			PickHelpernew.pick(driver, country, Countryrule, "(//input[@placeholder='Select Attribute'])["+(countrycounter)+"]");
 			Thread.sleep(2000);
 			String conditionlist = reader.getCellData("LMSData", "Group1 Condition", rowcounter);
 			String[] Matches=conditionlist.split(";");
 			String coditionrule = Matches [Rulegroup].trim();
-			WebElement Condition=driver.findElement(By.xpath("(//input[@placeholder='Select Operator'])["+(countrycounter)+"]"));
+			WebElement Condition=driver.findElement(By.xpath(xpath+"//following::input[@placeholder='Select Operator']["+(countrycounter)+"]"));
 			PickHelpernew.pick(driver, Condition, coditionrule, "(//input[@placeholder='Select Operator'])["+(countrycounter)+"]");
 
-			driver.findElement(By.xpath("(//input[@placeholder='Select Operator'])["+countrycounter+"]//following::input[1]")).sendKeys(CountrynameRule);
+			driver.findElement(By.xpath(xpath+"//following::input[@placeholder='Select Operator']["+(countrycounter)+"]"+"//following::input[1]")).sendKeys(CountrynameRule);
 			Rulegroup++;
 		}
 
@@ -237,7 +289,7 @@ public class AssignmentProfileTest {
 
 	private static int clickontheAddgroup(WebElement element,int count) {
 		int counter=0;
-		for(int i=1;i<count;i++){
+		for(int i=1;i<=count;i++){
 			element.click();
 			counter++;
 
