@@ -71,8 +71,8 @@ public class AssignmentProfileTest {
 			driver.manage().timeouts().implicitlyWait(TestUtil.IMPLICIT_WAIT, TimeUnit.SECONDS);			
 			driver.get("https://performancemanager8.successfactors.com/login?company=BPOCUSTOM10#/login");			
 			log.info("url is launched");
-			String username = reader.getCellData("LMSData", "Username", rowcounter);
-			String password = reader.getCellData("LMSData", "Password", rowcounter);	
+			String username = reader.getCellData("LMSData", "Username", 2);
+			String password = reader.getCellData("LMSData", "Password", 2);	
 
 			driver.findElement(By.xpath("//input[@name='username']")).sendKeys(username);
 			Thread.sleep(2000);
@@ -168,13 +168,20 @@ public class AssignmentProfileTest {
 				String inputvalue=ValidateSecurityDomains(SecurityDomainsname, rowcounter);
 				if(!inputvalue.isEmpty()){
 				driver.findElement(By.xpath("//bdi[text()='Security Domains']//following::input[1]")).sendKeys(inputvalue);
+				Thread.sleep(1000);
 				driver.findElement(By.xpath("//bdi[text()='Security Domains']")).click();
 				flag=true;
-
+				}
+				else{
+					log.info("securitydomainnotfound");
+					driver.close();
 				}
 				if(!flag){
 					break;
 				}
+					
+				
+				
 
 			}
 			//if both condition of security group istrue
@@ -188,11 +195,12 @@ public class AssignmentProfileTest {
 				String[] Securitygroup = CreateGroupAttribute.split(";");
 				int totalgroups= clickontheAddgroup(CreateGroup, Securitygroup.length);
 				Thread.sleep(3000);
-				for(int groupcounter = 1;groupcounter<=Securitygroup.length;groupcounter++){
-				driver.findElement(By.xpath("(//input[@placeholder='Enter Group Name'])["+groupcounter+"]")).sendKeys("TestGroup_groupcounter"+"_"+groupcounter+"_"+timestamp);
+				for(int groupcounter = 1;groupcounter<=totalgroups;groupcounter++){
+				driver.findElement(By.xpath("(//input[@placeholder='Enter Group Name'])["+groupcounter+"]")).sendKeys("Group1_"+groupcounter+"_"+timestamp);
+				//System.out.println("(//input[@placeholder='Enter Group Name'])["+groupcounter+"]");
 				String xpath="(//input[@placeholder='Enter Group Name'])["+groupcounter+"]";
 				//For Groupruleloop
-				Grouprules(xpath, groupcounter, rowcounter);
+				Grouprules(xpath,rowcounter,groupcounter);
 
 				}
 				Thread.sleep(2000);
@@ -200,10 +208,7 @@ public class AssignmentProfileTest {
 				k++;
 
 			}
-			else{
-				log.info("securitydomainnotfound");
-				driver.close();
-			}
+			
 
 			
 			Thread.sleep(10000);
@@ -268,7 +273,7 @@ public class AssignmentProfileTest {
 			String[] Countryname=Country_CityNames.split(";");
 			String CountrynameRule = Countryname [Rulegroup].trim();
 			Thread.sleep(2000);
-			System.out.println(xpath+"//following::input[@placeholder='Select Attribute']["+(countrycounter)+"]");
+			System.out.println(xpath+"//following::input[@placeholder='Select Attribute']["+countrycounter+"]");
 			WebElement country= driver.findElement(By.xpath(xpath+"//following::input[@placeholder='Select Attribute']["+(countrycounter)+"]"));
 			ActionForMovetoElement(country);
 			PickHelpernew.pick(driver, country, Countryrule, "(//input[@placeholder='Select Attribute'])["+(countrycounter)+"]");
