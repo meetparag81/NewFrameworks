@@ -1,4 +1,4 @@
-package LMSTest;
+package MYFramework;
 
 import org.testng.annotations.BeforeMethod;
 
