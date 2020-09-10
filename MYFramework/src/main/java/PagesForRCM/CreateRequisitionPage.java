@@ -1,4 +1,4 @@
-package pages;
+package PagesForRCM;
 
 import java.util.ArrayList;
 

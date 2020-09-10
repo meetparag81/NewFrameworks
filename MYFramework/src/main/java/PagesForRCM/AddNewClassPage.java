@@ -1,4 +1,4 @@
-package pages;
+package PagesForRCM;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -12,7 +12,7 @@ public class AddNewClassPage extends TestBase {
 	
 	private @FindBy(xpath="//select[@name='componentTypeID']") WebElement ItemType;
 
-	AddNewClassPage()
+	public AddNewClassPage()
 	{
 		PageFactory.initElements(driver, this);
 	}

@@ -1,4 +1,4 @@
-package pages;
+package PagesForRCM;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebElement;

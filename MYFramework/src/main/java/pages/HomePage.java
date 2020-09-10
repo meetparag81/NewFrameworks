@@ -7,6 +7,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import PagesForRCM.CreateRequisitionPage;
+import PagesForRCM.HireEmployeePage;
 import helper.Excelhelper.Exls_Reader;
 import helper.Pick.Pickhelper;
 import helper.TestUtil.TestUtil;

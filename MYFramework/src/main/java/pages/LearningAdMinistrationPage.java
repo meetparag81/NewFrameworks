@@ -5,6 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import PagesForRCM.AddNewClassPage;
 import helper.Excelhelper.Exls_Reader;
 import helper.TestUtil.TestUtil;
 import helper.logger.LoggerHelper;

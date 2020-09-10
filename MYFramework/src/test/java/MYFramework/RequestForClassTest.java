@@ -4,9 +4,9 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
+import PagesForRCM.AddNewClassPage;
 import helper.Excelhelper.Exls_Reader;
 import helper.resorce.ResourceHelper;
-import pages.AddNewClassPage;
 import pages.HomePage;
 import pages.LearningAdMinistrationPage;
 import pages.LearningUserPage;

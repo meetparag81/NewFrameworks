@@ -22,8 +22,10 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.events.WebDriverEventListener;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import MYFramework.LMSTest;
 import frame.helper.IframeHelper;
 import helper.Excelhelper.Exls_Reader;
 import helper.Pick.PickHelpernew;
@@ -46,6 +48,8 @@ public class AssignmentProfileTest {
 	static Exls_Reader validationreader = new Exls_Reader(ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata\\LMS_TestDatavalidation.xlsx"));
 	private static String timestamp="";
 	private static String empty="";
+	private static JavascriptExecutor jsExec;
+	protected static WebDriverWait wait;
 
 
 
@@ -80,17 +84,21 @@ public class AssignmentProfileTest {
 			Thread.sleep(2000);
 			driver.findElement(By.xpath("//bdi[text()='Log in']//ancestor::span[1]")).click();
 			Thread.sleep(30000);
+			//waitForJQueryLoad();
 			WebElement LearningAdministration = (new WebDriverWait(driver, 50)).until(ExpectedConditions.presenceOfElementLocated(By.xpath("//h3[text()='Learning Administration']//ancestor::div[2]")));
 			LearningAdministration.click();
 			Thread.sleep(30000);
+			//waitForJQueryLoad();
 			WebElement ManageUserLearning = (new WebDriverWait(driver, 80)).until(ExpectedConditions.presenceOfElementLocated(By.xpath("//div[text()='Manage User Learning']//ancestor::li//span")));
 			Thread.sleep(30000);
+			//waitForJQueryLoad();
 			ManageUserLearning.click();
 			Thread.sleep(2000);
 			TestUtil.VisibleOn(driver, driver.findElement(By.xpath("//div[text()='Assignment Profiles']//ancestor::li")), 20);
 			Thread.sleep(2000);
 			driver.findElement(By.xpath("//div[text()='Assignment Profiles']//ancestor::li")).click();
 			Thread.sleep(10000);
+			//waitForJQueryLoad();
 			WebElement iframe1 = (new WebDriverWait(driver, 80)).until(ExpectedConditions.presenceOfElementLocated(By.xpath("//iframe[@class='plateauIFrame ']")));
 
 			Thread.sleep(10000);
@@ -160,36 +168,32 @@ public class AssignmentProfileTest {
 			driver.findElement(By.xpath("//bdi[text()='Rules']//ancestor::button")).click();
 			String SecurityDomains = reader.getCellData("LMSData", "Security Domains", rowcounter).trim();
 			String[] NoSecurityDomains = SecurityDomains.split(";");
-			boolean flag=false;
+			boolean flag2=false;
 			for(int securitydomaincounter=0;securitydomaincounter<NoSecurityDomains.length;securitydomaincounter++){
 
 				String SecurityDomainsname = NoSecurityDomains[securitydomaincounter];
 				int counter=0;
 				String inputvalue=ValidateSecurityDomains(SecurityDomainsname, rowcounter);
 				if(!inputvalue.isEmpty()){
+					Thread.sleep(5000);
 				driver.findElement(By.xpath("//bdi[text()='Security Domains']//following::input[1]")).sendKeys(inputvalue);
-				Thread.sleep(1000);
+				Thread.sleep(5000);
 				driver.findElement(By.xpath("//bdi[text()='Security Domains']")).click();
-				flag=true;
+				flag2=true;
 				}
 				else{
-					log.info("securitydomainnotfound");
-					driver.close();
+					flag2=false;
 				}
-				if(!flag){
+				if(flag2==false){
 					break;
 				}
-					
-				
-				
-
+			
 			}
 			//if both condition of security group istrue
-			if(flag){
+			if(flag2==true){
 				Thread.sleep(2000);
 				driver.switchTo().defaultContent();
 				Thread.sleep(3000);
-				//CreateSecurityGroups(rowcounter);
 				WebElement CreateGroup= driver.findElement(By.xpath("//bdi[text()='Create Group']//ancestor::button"));
 				String CreateGroupAttribute = reader.getCellData("LMSData", "Create Group1", rowcounter);
 				String[] Securitygroup = CreateGroupAttribute.split(";");
@@ -199,25 +203,53 @@ public class AssignmentProfileTest {
 				driver.findElement(By.xpath("(//input[@placeholder='Enter Group Name'])["+groupcounter+"]")).sendKeys("Group1_"+groupcounter+"_"+timestamp);
 				//System.out.println("(//input[@placeholder='Enter Group Name'])["+groupcounter+"]");
 				String xpath="(//input[@placeholder='Enter Group Name'])["+groupcounter+"]";
-				//For Groupruleloop
+				//Method to create Grouprule
 				Grouprules(xpath,rowcounter,groupcounter);
 
 				}
 				Thread.sleep(2000);
 				driver.findElement(By.xpath("//bdi[text()='Save']//ancestor::button")).click();
 				k++;
+				Thread.sleep(10000);
+				log.info("Testcase execute for"+ k + " time");
+				driver.quit();
 
+			}
+			else{
+				log.info("securitydomainnotfound");
+				Thread.sleep(10000);
+				
+				driver.quit();
 			}
 			
 
 			
-			Thread.sleep(10000);
-			log.info("Testcase execute for"+ k + " time");
-
-
-			driver.quit();
+			
 		}
 	}
+
+
+
+
+
+
+
+
+
+	
+	/*	public static void waitForJQueryLoad() {
+			try {
+				ExpectedCondition<Boolean> jQueryLoad = driver -> ((Long) ((JavascriptExecutor) driver).executeScript("return jQuery.active") == 0);
+				boolean jqueryReady = (Boolean) jsExec.executeScript("return jQuery.active==0");
+				if (!jqueryReady) {
+					wait.until(jQueryLoad);
+				} 
+			}
+			catch (Exception ignored) {
+			}
+		}*/
+		
+	
 
 
 
@@ -262,18 +294,19 @@ public class AssignmentProfileTest {
 
 
 	public static void Grouprules(String xpath,int rowcounter,int groupcounter) throws InterruptedException{
-		String GroupAttribute = reader.getCellData("LMSData", "Group1 Attribute", rowcounter);
+		System.out.println("The group attribue name is" +"Group"+groupcounter+ "Attribute");
+		String GroupAttribute = reader.getCellData("LMSData", "Group"+groupcounter+ "Attribute", rowcounter);
 		String[] Country_Region=GroupAttribute.split(";");
 		int Rulegroup=0;
 		WebElement Addnewbutton= driver.findElement(By.xpath("(//a[text()='Add Rule'])"+"["+groupcounter+"]"));
 		int totalrules= clickontheAddnew(Addnewbutton, Country_Region.length);
 		for(int countrycounter=1;countrycounter<=Country_Region.length;countrycounter++){
 			String Countryrule = Country_Region [Rulegroup].trim();
-			String Country_CityNames = reader.getCellData("LMSData", "Group1 Value", rowcounter);
+			String Country_CityNames = reader.getCellData("LMSData", "Group"+countrycounter+ "Value", rowcounter);
 			String[] Countryname=Country_CityNames.split(";");
 			String CountrynameRule = Countryname [Rulegroup].trim();
 			Thread.sleep(2000);
-			System.out.println(xpath+"//following::input[@placeholder='Select Attribute']["+countrycounter+"]");
+			//System.out.println(xpath+"//following::input[@placeholder='Select Attribute']["+countrycounter+"]");
 			WebElement country= driver.findElement(By.xpath(xpath+"//following::input[@placeholder='Select Attribute']["+(countrycounter)+"]"));
 			ActionForMovetoElement(country);
 			PickHelpernew.pick(driver, country, Countryrule, "(//input[@placeholder='Select Attribute'])["+(countrycounter)+"]");

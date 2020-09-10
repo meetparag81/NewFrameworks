@@ -7,10 +7,10 @@ import org.apache.log4j.Logger;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 
+import PagesForRCM.CreateRequisitionPage;
 import helper.Excelhelper.Exls_Reader;
 import helper.logger.LoggerHelper;
 import helper.resorce.ResourceHelper;
-import pages.CreateRequisitionPage;
 
 public class SelectHelper 
 {

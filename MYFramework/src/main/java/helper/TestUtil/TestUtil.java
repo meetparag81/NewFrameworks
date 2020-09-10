@@ -17,7 +17,9 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -30,6 +32,8 @@ public static long IMPLICIT_WAIT = 30;
 public static long PAGE_LOAD_TIMEOUT = 60;
 private static  Logger log=LoggerHelper.GetLogger(TestUtil.class)	;
 private static String destination;
+private static JavascriptExecutor jsExec;
+protected static WebDriverWait wait;
 
 	
 	
@@ -207,6 +211,8 @@ private static String destination;
 		act1.moveToElement((WebElement) select1);
 		
 	}
+
+	
 	
 	public boolean ckEdit(WebDriver driver, ExtentTest extentTest, String[] identifier, String value, String controlName,String xpath) {
         try {
@@ -237,4 +243,8 @@ Thread.sleep(1000);
 
 
 }
+
+
+
+
 }

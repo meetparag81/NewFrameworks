@@ -1,4 +1,4 @@
-package MYFramework.MYFramework;
+package MYFramework;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

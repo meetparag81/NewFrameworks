@@ -117,11 +117,11 @@
 	<classpathentry kind="var" path="M2_REPO/com/github/mifmif/generex/1.0.2/generex-1.0.2.jar"/>
 	<classpathentry kind="var" path="M2_REPO/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.jar"/>
 	<classpathentry kind="var" path="M2_REPO/au/com/bytecode/opencsv/2.4/opencsv-2.4.jar"/>
-	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
