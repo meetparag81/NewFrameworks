@@ -249,6 +249,11 @@ public static void WaitTillclickable(WebElement element) throws InterruptedExcep
 		Thread.sleep(5);
 		}
 }
+public static String CurrentTimestamp(){
+	 
+	 String timestamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+	return timestamp;
+}
 
 
 

@@ -6158,3 +6158,52 @@ All
 2020-09-10 20:50:40 INFO  TestBase:82 - url is launched
 2020-09-10 20:53:10 INFO  TestNGListners:86 - screenshot for passed testcase started
 2020-09-10 20:53:10 INFO  TestUtil:150 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/PassesTestsScreenshots/CreateCatlogueTest10,09,2020,08-53-10.png
+2020-09-10 22:34:59 INFO  TestBase:62 -  chrome driver initalized
+2020-09-10 22:35:01 INFO  TestBase:71 -  Window is miximized
+2020-09-10 22:35:05 INFO  TestBase:82 - url is launched
+2020-09-10 22:35:26 INFO  HomePage:178 - LearningAdminstratorTileis clciked
+2020-09-10 22:36:08 INFO  LearningAdMinistrationPage:41 - [Ljava.lang.StackTraceElement;@5cb042da
+2020-09-10 22:37:45 INFO  TestBase:62 -  chrome driver initalized
+2020-09-10 22:37:48 INFO  TestBase:71 -  Window is miximized
+2020-09-10 22:37:52 INFO  TestBase:82 - url is launched
+2020-09-10 22:38:13 INFO  HomePage:178 - LearningAdminstratorTileis clciked
+2020-09-10 22:38:58 INFO  LearningAdMinistrationPage:41 - [Ljava.lang.StackTraceElement;@5cb042da
+2020-09-10 22:41:27 INFO  TestBase:62 -  chrome driver initalized
+2020-09-10 22:41:29 INFO  TestBase:71 -  Window is miximized
+2020-09-10 22:41:34 INFO  TestBase:82 - url is launched
+2020-09-10 22:42:04 INFO  HomePage:178 - LearningAdminstratorTileis clciked
+2020-09-10 22:43:07 INFO  LearningAdMinistrationPage:41 - [Ljava.lang.StackTraceElement;@5cb042da
+2020-09-10 22:44:24 INFO  TestNGListners:86 - screenshot for passed testcase started
+2020-09-10 22:44:24 INFO  TestUtil:150 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/PassesTestsScreenshots/CreateCatlogueTest10,09,2020,10-44-24.png
+2020-09-10 22:45:34 INFO  TestBase:62 -  chrome driver initalized
+2020-09-10 22:45:36 INFO  TestBase:71 -  Window is miximized
+2020-09-10 22:45:40 INFO  TestBase:82 - url is launched
+2020-09-10 22:46:03 INFO  HomePage:178 - LearningAdminstratorTileis clciked
+2020-09-10 22:47:01 INFO  LearningAdMinistrationPage:41 - [Ljava.lang.StackTraceElement;@5cb042da
+2020-09-10 22:50:24 INFO  TestBase:62 -  chrome driver initalized
+2020-09-10 22:50:26 INFO  TestBase:71 -  Window is miximized
+2020-09-10 22:50:30 INFO  TestBase:82 - url is launched
+2020-09-10 22:50:50 INFO  HomePage:178 - LearningAdminstratorTileis clciked
+2020-09-10 22:51:40 INFO  LearningAdMinistrationPage:41 - [Ljava.lang.StackTraceElement;@5cb042da
+2020-09-10 22:53:13 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='plateauIFrame ']'framme
+2020-09-10 22:53:53 INFO  TestNGListners:44 - screenshot for failtestcase is started
+2020-09-10 22:53:53 INFO  TestNGListners:46 - screenshot for failtestcase is taken
+2020-09-10 22:53:54 INFO  TestUtil:142 - Screenshot Name isCreateCatlogueTest.png
+2020-09-10 22:53:54 INFO  TestUtil:150 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/FailedTestsScreenshots/CreateCatlogueTest10,09,2020,10-53-53.png
+2020-09-10 22:55:58 INFO  TestBase:62 -  chrome driver initalized
+2020-09-10 22:56:00 INFO  TestBase:71 -  Window is miximized
+2020-09-10 22:56:04 INFO  TestBase:82 - url is launched
+2020-09-10 22:56:35 INFO  HomePage:178 - LearningAdminstratorTileis clciked
+2020-09-10 22:57:27 INFO  LearningAdMinistrationPage:41 - [Ljava.lang.StackTraceElement;@5cb042da
+2020-09-10 22:58:33 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='plateauIFrame ']'framme
+2020-09-10 23:01:45 INFO  TestBase:62 -  chrome driver initalized
+2020-09-10 23:01:47 INFO  TestBase:71 -  Window is miximized
+2020-09-10 23:01:51 INFO  TestBase:82 - url is launched
+2020-09-10 23:02:26 INFO  HomePage:178 - LearningAdminstratorTileis clciked
+2020-09-10 23:03:01 INFO  LearningAdMinistrationPage:41 - [Ljava.lang.StackTraceElement;@5cb042da
+2020-09-10 23:03:45 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='plateauIFrame ']'framme
+2020-09-10 23:04:36 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[contains(@name,'PPCFrame')][1]'framme
+2020-09-10 23:06:27 INFO  TestNGListners:44 - screenshot for failtestcase is started
+2020-09-10 23:06:27 INFO  TestNGListners:46 - screenshot for failtestcase is taken
+2020-09-10 23:06:27 INFO  TestUtil:142 - Screenshot Name isCreateCatlogueTest.png
+2020-09-10 23:06:27 INFO  TestUtil:150 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/FailedTestsScreenshots/CreateCatlogueTest10,09,2020,11-06-27.png
