@@ -1,4 +1,4 @@
-package MYFramework;
+package LMSTest;
 
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
@@ -28,7 +28,7 @@ public class App_Test extends TestBase
 	
 
 	@BeforeMethod
-	public void SetUp()
+	public void SetUp() throws InterruptedException
 	{
 		
 		TestBase.initalization();

@@ -31,9 +31,6 @@ public class HomePage extends TestBase {
 	@FindBy(xpath ="//h3[text()='Learning Administration']//ancestor::div[2]")WebElement LearningAdminstratorTile;
 	private WebElement addemoloyeeoption;
 	private @FindBy(xpath="(//*[text()='Learning'])[1]") WebElement Learning;
-	
-
-	
 	private  Logger log=LoggerHelper.GetLogger(HomePage.class)	;
 	Exls_Reader reader = new Exls_Reader(ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata\\Frameworkworksheet.xlsx"));
 	
@@ -174,9 +171,11 @@ public class HomePage extends TestBase {
 	
 	
 
-	public LearningAdMinistrationPage ClickOnTheTile() {
+	public LearningAdMinistrationPage ClickOnTheTile() throws InterruptedException {
+		TestUtil.WaitTillclickable(LearningAdminstratorTile);
 		TestUtil.ActionForMovetoElement(LearningAdminstratorTile);
 		LearningAdminstratorTile.click();
+		log.info("LearningAdminstratorTile"+ "is clciked");
 		return new LearningAdMinistrationPage();		
 		
 	}

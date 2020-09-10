@@ -1,54 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="70" started-at="2020-08-28T07:16:50Z" finished-at="2020-08-28T07:16:50Z">
+  <suite name="Default suite" duration-ms="163713" started-at="2020-09-10T15:20:28Z" finished-at="2020-09-10T15:23:11Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="70" started-at="2020-08-28T07:16:50Z" finished-at="2020-08-28T07:16:50Z">
-      <class name="MYFramework.AssignmentProfileTest">
-        <test-method status="FAIL" signature="Test(java.lang.String)[pri:0, instance:MYFramework.AssignmentProfileTest@48a12036]" name="Test" duration-ms="0" started-at="2020-08-28T12:46:50Z" finished-at="2020-08-28T12:46:50Z">
-          <exception class="org.testng.TestNGException">
-            <message>
-              <![CDATA[
-Cannot inject @Test annotated Method [Test] with [class java.lang.String].
-For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.testng.TestNGException: 
-Cannot inject @Test annotated Method [Test] with [class java.lang.String].
-For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection
-	at org.testng.internal.Parameters.checkParameterTypes(Parameters.java:244)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:172)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:458)
-	at org.testng.internal.Parameters.handleParameters(Parameters.java:569)
-	at org.testng.internal.Invoker.handleParameters(Invoker.java:1308)
-	at org.testng.internal.Invoker.createParameters(Invoker.java:1036)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1126)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-	at org.testng.TestRunner.privateRun(TestRunner.java:744)
-	at org.testng.TestRunner.run(TestRunner.java:602)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
-	at org.testng.TestNG.runSuites(TestNG.java:1144)
-	at org.testng.TestNG.run(TestNG.java:1115)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.testng.TestNGException -->
+    <test name="Default test" duration-ms="163713" started-at="2020-09-10T15:20:28Z" finished-at="2020-09-10T15:23:11Z">
+      <class name="MYFramework.LMSCatlogTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:MYFramework.LMSCatlogTest@70efb718]" name="Setup" is-config="true" duration-ms="47090" started-at="2020-09-10T20:50:28Z" finished-at="2020-09-10T20:51:15Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Test -->
-      </class> <!-- MYFramework.AssignmentProfileTest -->
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="CreateCatlogueTest()[pri:0, instance:MYFramework.LMSCatlogTest@70efb718]" name="CreateCatlogueTest" duration-ms="115063" started-at="2020-09-10T20:51:15Z" finished-at="2020-09-10T20:53:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateCatlogueTest -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:MYFramework.LMSCatlogTest@70efb718]" name="Teardown" is-config="true" duration-ms="1047" started-at="2020-09-10T20:53:10Z" finished-at="2020-09-10T20:53:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- MYFramework.LMSCatlogTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

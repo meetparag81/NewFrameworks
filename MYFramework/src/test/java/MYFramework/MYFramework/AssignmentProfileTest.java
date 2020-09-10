@@ -25,7 +25,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import MYFramework.LMSTest;
+import LMSTest.LMSTest;
 import frame.helper.IframeHelper;
 import helper.Excelhelper.Exls_Reader;
 import helper.Pick.PickHelpernew;
@@ -113,6 +113,7 @@ public class AssignmentProfileTest {
 			Thread.sleep(2000);
 			timestamp =new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
 			driver.findElement(By.name("assignmentProfileId")).sendKeys("TestProfile"+timestamp);
+			Thread.sleep(2000);
 			driver.findElement(By.xpath("(//input[@name='submitbutton'])[2]")).click();
 			Thread.sleep(5000);
 			driver.switchTo().defaultContent();

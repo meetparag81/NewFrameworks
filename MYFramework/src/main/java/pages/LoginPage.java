@@ -13,7 +13,7 @@ import testBase.TestBase;
 public class LoginPage extends  TestBase{
 	@FindBy(name="username")WebElement username; 
 	@FindBy(name="password")WebElement password;
-	@FindBy(xpath="//bdi[text()='Log in']//ancestor::span[1]")WebElement SignIn;
+	@FindBy(xpath="//bdi[text()='Log in']//ancestor::span[1]")WebElement login;
 	private  Logger log=LoggerHelper.GetLogger(LoginPage.class)	;
 	Exls_Reader reader = new Exls_Reader(ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata\\Frameworkworksheet.xlsx"));
 	public LoginPage()	{
@@ -21,24 +21,20 @@ public class LoginPage extends  TestBase{
 		
 	}
 	
-	public HomePage login(String un, String psw) {
+	public HomePage login(String un, String psw) throws InterruptedException {
 	
 		
-		username.clear();
-		username.sendKeys(un);
-		password.sendKeys(psw);
-		try
-		{
-		SignIn.click();
-		//JavascriptHelper.clickTheElement(SignIn);
-		}
-		catch(Exception e)
-		{
-			log.info(e.getMessage());
-			driver.navigate().refresh();
-		}
-		return new HomePage();
 		
+		username.sendKeys(un);
+		Thread.sleep(2000);
+		password.sendKeys(psw);
+		Thread.sleep(2000);
+		login.click();
+		
+		//JavascriptHelper.clickTheElement(SignIn);
+		
+		
+		return new HomePage();
 		
 	}
 	

@@ -240,8 +240,14 @@ Thread.sleep(1000);
 
 }
 
+}
 
-
+public static void WaitTillclickable(WebElement element) throws InterruptedException{
+	WebDriverWait wait = new WebDriverWait(driver, 30);
+	WebElement desireelement = wait.until(ExpectedConditions.elementToBeClickable(element));
+	while((desireelement==null)){
+		Thread.sleep(5);
+		}
 }
 
 

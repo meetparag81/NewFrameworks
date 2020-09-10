@@ -21,10 +21,11 @@ public class LearningAdMinistrationPage extends TestBase {
 	@FindBy(xpath="//div[text()='Classes']//ancestor::li")WebElement classes;
 	Exls_Reader reader = new Exls_Reader(ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata\\Frameworkworksheet.xlsx"));
 	private@FindBy(xpath="//td[contains(@class,'BackgroundAlignLeft')][1]//child::span[contains(text(),'Classes')]") WebElement ClassesText;
-	private @FindBy(xpath="(//iframe[contains(@name,'iframe')])[2]")WebElement classesFrameelement;
+	private @FindBy(xpath="(//iframe[contains(@name,'iframe')])[2]")WebElement classesframe_element;
 	private @FindBy(xpath="(//a[text()='Add New'])[1]")WebElement AddNewlink;
-	private	@FindBy(xpath="//div[text()='Manage User Learning']//ancestor::li//span")WebElement ManageUserLearning;
-	private @FindBy(xpath="//div[text()='Assignment Profiles']//ancestor::li")WebElement AssignmentProfiles;
+	private	@FindBy(xpath="//div[text()='Manage User Learning']//ancestor::li//span")WebElement manageuserlearning;
+	private @FindBy(xpath="//div[text()='Assignment Profiles']//ancestor::li")WebElement assignmentprofiles;
+	private @FindBy(xpath="//div[text()='Libraries']//ancestor::li")WebElement Libraries;
 	private  Logger log=LoggerHelper.GetLogger(LearningAdMinistrationPage.class);
 	LearningAdMinistrationPage()
 	{
@@ -34,7 +35,7 @@ public class LearningAdMinistrationPage extends TestBase {
 	
 	public void ClickOnTheLearningActivities(){
 		try{
-			TestUtil.VisibleOn(driver, LearningActivities, 20);
+			TestUtil.WaitTillclickable(LearningActivities);
 		}
 		catch (Exception e) {
 			log.info(e.getStackTrace());
@@ -52,7 +53,7 @@ public class LearningAdMinistrationPage extends TestBase {
 	}
 	public String GetTitleClasses(){
 		try{
-			frame.helper.IframeHelper.SwitchToFrame(classesFrameelement);
+			frame.helper.IframeHelper.SwitchToFrame(classesframe_element);
 			TestUtil.VisibleOn(driver, ClassesText, 5);
 		}
 		catch (Exception e) {
@@ -63,30 +64,46 @@ public class LearningAdMinistrationPage extends TestBase {
 
 
 	public AddNewClassPage AddNewClass() {
-		IframeHelper.SwitchToFrame(classesFrameelement);
+		IframeHelper.SwitchToFrame(classesframe_element);
 AddNewlink.click();
 return new AddNewClassPage();
 		
 	}
+	public void clickOnTheLibraries(){
+		try{
+			TestUtil.WaitTillclickable(Libraries);
+		}
+		catch (Exception e) {
+			log.info(e.getStackTrace());
+		}
+		Libraries.click();
+	}
 	
 	public void ClickOnTheManageUserLearning(){
 		try{
-			TestUtil.VisibleOn(driver, ManageUserLearning, 20);
+			TestUtil.VisibleOn(driver, manageuserlearning, 20);
 		}
 		catch (Exception e) {
 			log.info(e.getStackTrace());
 		}
-		ManageUserLearning.click();
+		manageuserlearning.click();
 	}
 	public AssignmentprofilePage ClickOnAssignMentProfiles(){
 		try{
-			TestUtil.VisibleOn(driver, AssignmentProfiles, 05);
+			TestUtil.VisibleOn(driver, assignmentprofiles, 05);
 		}
 		catch (Exception e) {
 			log.info(e.getStackTrace());
 		}
-		AssignmentProfiles.click();
+		assignmentprofiles.click();
 		return new AssignmentprofilePage();
+	}
+	
+	public LibrariesPage ClickonLibraries(){
+		ClickOnTheLearningActivities();
+		clickOnTheLibraries();
+		return new LibrariesPage();
+		
 	}
 	
 }

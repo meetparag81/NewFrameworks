@@ -28,7 +28,7 @@ public class AssignmentProfileTest extends TestBase {
 	}
 	
 @BeforeMethod
-public void SetUp(){
+public void SetUp() throws InterruptedException{
 	System.out.println();
 	TestBase.initalization();
 	

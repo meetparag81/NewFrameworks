@@ -1,4 +1,4 @@
-package MYFramework;
+package LMSTest;
 
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
@@ -27,7 +27,7 @@ private LearningUserPage LearningUserPage;
 	}
 	
 	@BeforeMethod
-	public void SetUp()
+	public void SetUp() throws InterruptedException
 	{
 		
 		TestBase.initalization();
