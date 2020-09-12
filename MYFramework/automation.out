@@ -6207,3 +6207,331 @@ All
 2020-09-10 23:06:27 INFO  TestNGListners:46 - screenshot for failtestcase is taken
 2020-09-10 23:06:27 INFO  TestUtil:142 - Screenshot Name isCreateCatlogueTest.png
 2020-09-10 23:06:27 INFO  TestUtil:150 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/FailedTestsScreenshots/CreateCatlogueTest10,09,2020,11-06-27.png
+2020-09-11 09:27:53 INFO  TestBase:62 -  chrome driver initalized
+2020-09-11 09:27:55 INFO  TestBase:71 -  Window is miximized
+2020-09-11 09:27:58 INFO  TestBase:82 - url is launched
+2020-09-11 09:28:17 INFO  HomePage:178 - LearningAdminstratorTileis clciked
+2020-09-11 09:29:46 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='plateauIFrame ']'framme
+2020-09-11 09:30:34 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[contains(@name,'PPCFrame')][1]'framme
+2020-09-11 09:31:31 INFO  TestNGListners:44 - screenshot for failtestcase is started
+2020-09-11 09:31:31 INFO  TestNGListners:46 - screenshot for failtestcase is taken
+2020-09-11 09:31:31 INFO  TestUtil:142 - Screenshot Name isCreateCatlogueTest.png
+2020-09-11 09:31:31 INFO  TestUtil:150 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/FailedTestsScreenshots/CreateCatlogueTest11,09,2020,09-31-31.png
+2020-09-11 09:32:04 INFO  TestBase:62 -  chrome driver initalized
+2020-09-11 09:32:06 INFO  TestBase:71 -  Window is miximized
+2020-09-11 09:32:09 INFO  TestBase:82 - url is launched
+2020-09-11 09:32:33 INFO  HomePage:178 - LearningAdminstratorTileis clciked
+2020-09-11 09:33:26 INFO  LearningAdMinistrationPage:41 - [Ljava.lang.StackTraceElement;@5cb042da
+2020-09-11 09:34:25 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='plateauIFrame ']'framme
+2020-09-11 09:34:59 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[contains(@name,'PPCFrame')][1]'framme
+2020-09-11 09:45:22 INFO  TestBase:62 -  chrome driver initalized
+2020-09-11 09:45:24 INFO  TestBase:71 -  Window is miximized
+2020-09-11 09:45:27 INFO  TestBase:82 - url is launched
+2020-09-11 09:45:44 INFO  HomePage:178 - LearningAdminstratorTileis clciked
+2020-09-11 09:47:04 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='plateauIFrame ']'framme
+2020-09-11 09:47:37 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[contains(@name,'PPCFrame')][1]'framme
+2020-09-11 11:18:17 INFO  TestBase:62 -  chrome driver initalized
+2020-09-11 11:18:19 INFO  TestBase:71 -  Window is miximized
+2020-09-11 11:18:23 INFO  TestBase:82 - url is launched
+2020-09-11 11:18:40 INFO  HomePage:178 - LearningAdminstratorTileis clciked
+2020-09-11 11:20:37 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='plateauIFrame ']'framme
+2020-09-11 11:21:12 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[contains(@name,'PPCFrame')][1]'framme
+2020-09-11 11:22:39 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[contains(@name,'PPCFrame')][1]'framme
+2020-09-11 11:28:48 INFO  TestBase:62 -  chrome driver initalized
+2020-09-11 11:28:50 INFO  TestBase:71 -  Window is miximized
+2020-09-11 11:28:52 INFO  TestBase:82 - url is launched
+2020-09-11 11:29:12 INFO  HomePage:178 - LearningAdminstratorTileis clciked
+2020-09-11 11:29:59 INFO  LearningAdMinistrationPage:41 - [Ljava.lang.StackTraceElement;@5cb042da
+2020-09-11 11:31:35 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='plateauIFrame ']'framme
+2020-09-11 11:32:08 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[contains(@name,'PPCFrame')][1]'framme
+2020-09-11 11:34:04 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[contains(@name,'PPCFrame')][1]'framme
+2020-09-11 11:34:35 INFO  TestNGListners:44 - screenshot for failtestcase is started
+2020-09-11 11:34:35 INFO  TestNGListners:46 - screenshot for failtestcase is taken
+2020-09-11 11:34:36 INFO  TestUtil:142 - Screenshot Name isCreateCatlogueTest.png
+2020-09-11 11:34:36 INFO  TestUtil:150 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/FailedTestsScreenshots/CreateCatlogueTest11,09,2020,11-34-35.png
+2020-09-11 11:37:33 INFO  TestBase:62 -  chrome driver initalized
+2020-09-11 11:37:35 INFO  TestBase:71 -  Window is miximized
+2020-09-11 11:37:38 INFO  TestBase:82 - url is launched
+2020-09-11 11:37:55 INFO  HomePage:178 - LearningAdminstratorTileis clciked
+2020-09-11 11:39:20 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='plateauIFrame ']'framme
+2020-09-11 11:39:53 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[contains(@name,'PPCFrame')][1]'framme
+2020-09-11 11:41:12 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[contains(@name,'PPCFrame')][1]'framme
+2020-09-11 11:47:31 INFO  TestBase:62 -  chrome driver initalized
+2020-09-11 11:47:33 INFO  TestBase:71 -  Window is miximized
+2020-09-11 11:47:36 INFO  TestBase:82 - url is launched
+2020-09-11 11:47:53 INFO  HomePage:178 - LearningAdminstratorTileis clciked
+2020-09-11 11:49:16 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='plateauIFrame ']'framme
+2020-09-11 11:49:49 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[contains(@name,'PPCFrame')][1]'framme
+2020-09-11 11:51:33 INFO  TestBase:62 -  chrome driver initalized
+2020-09-11 11:51:35 INFO  TestBase:71 -  Window is miximized
+2020-09-11 11:51:38 INFO  TestBase:82 - url is launched
+2020-09-11 11:51:58 INFO  HomePage:178 - LearningAdminstratorTileis clciked
+2020-09-11 11:53:21 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='plateauIFrame ']'framme
+2020-09-11 11:53:54 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[contains(@name,'PPCFrame')][1]'framme
+2020-09-11 11:54:40 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[contains(@name,'PPCFrame')][1]'framme
+2020-09-11 12:01:36 INFO  TestBase:62 -  chrome driver initalized
+2020-09-11 12:01:38 INFO  TestBase:71 -  Window is miximized
+2020-09-11 12:01:41 INFO  TestBase:82 - url is launched
+2020-09-11 12:02:07 INFO  HomePage:178 - LearningAdminstratorTileis clciked
+2020-09-11 12:02:39 INFO  LearningAdMinistrationPage:41 - [Ljava.lang.StackTraceElement;@379ce046
+2020-09-11 12:03:18 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='plateauIFrame ']'framme
+2020-09-11 12:03:50 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[contains(@name,'PPCFrame')][1]'framme
+2020-09-11 12:04:59 INFO  IframeHelper:53 - Sitch to:Proxy element for: DefaultElementLocator 'By.xpath: //iframe[contains(@name,'PPCFrame')][1]'framme
+2020-09-11 12:41:57 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 12:42:00 INFO  LMSTest:77 - url is launched
+2020-09-11 12:44:17 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (978d13720c8937a44c7123033a90a7cd)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 12:48:10 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 12:48:14 INFO  LMSTest:77 - url is launched
+2020-09-11 12:50:46 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (64d9e1090883b5fdc34a70eed676c01a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 12:52:19 INFO  LMSTest:154 - the input box forCOM_TEST  option is clicked
+2020-09-11 12:52:22 INFO  LMSTest:154 - the input box forTestLirbrary  option is clicked
+2020-09-11 12:56:25 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 12:56:30 INFO  LMSTest:77 - url is launched
+2020-09-11 12:59:09 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (93a48d429d11ac8a6e86808e924bb205)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 13:00:34 INFO  LMSTest:154 - the input box forCOM_TEST  option is clicked
+2020-09-11 13:00:38 INFO  LMSTest:154 - the input box forTestLirbrary  option is clicked
+2020-09-11 13:05:48 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 13:05:51 INFO  LMSTest:77 - url is launched
+2020-09-11 13:08:21 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (4badbdd321cf57ff6f9894ddc343f24a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 13:09:36 INFO  LMSTest:154 - the input box forCOM_TEST  option is clicked
+2020-09-11 13:09:39 INFO  LMSTest:154 - the input box forTestLirbrary  option is clicked
+2020-09-11 13:17:24 INFO  LMSTest:215 - Testcase execute for1 time
+2020-09-11 13:17:51 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 13:17:54 INFO  LMSTest:77 - url is launched
+2020-09-11 13:20:07 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (e13b927454b7290e4c776b7f4834150f)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 13:21:39 INFO  LMSTest:154 - the input box for20200722  option is clicked
+2020-09-11 13:21:42 INFO  LMSTest:154 - the input box forGENERAL  option is clicked
+2020-09-11 13:22:05 INFO  LMSTest:220 - securitydomainnotfound
+2020-09-11 13:22:36 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 13:22:47 INFO  LMSTest:77 - url is launched
+2020-09-11 13:25:31 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (eec8d01b054d0cb6f4621c8017a4b4df)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 13:26:56 INFO  LMSTest:154 - the input box forGamification_Catalog  option is clicked
+2020-09-11 13:26:59 INFO  LMSTest:154 - the input box forCOM_TEST  option is clicked
+2020-09-11 13:32:09 INFO  LMSTest:215 - Testcase execute for2 time
+2020-09-11 13:32:53 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 13:32:57 INFO  LMSTest:77 - url is launched
+2020-09-11 14:12:58 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 14:13:01 INFO  LMSTest:77 - url is launched
+2020-09-11 14:15:38 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 14:15:42 INFO  LMSTest:77 - url is launched
+2020-09-11 14:19:29 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 14:19:32 INFO  LMSTest:77 - url is launched
+2020-09-11 14:22:44 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 14:22:46 INFO  LMSTest:77 - url is launched
+2020-09-11 14:24:46 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (928b5220ff8c3db1df06c477d356262a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 14:25:50 INFO  LMSTest:152 - the input box forCOM_TEST  option is clicked
+2020-09-11 14:25:53 INFO  LMSTest:152 - the input box forTestLirbrary  option is clicked
+2020-09-11 14:28:20 INFO  LMSTest:213 - Testcase execute for1 time
+2020-09-11 14:28:40 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 14:28:44 INFO  LMSTest:77 - url is launched
+2020-09-11 14:31:00 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (43d9c8ebb8438eceda8c3ef32bb53699)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 14:32:03 INFO  LMSTest:152 - the input box for20200722  option is clicked
+2020-09-11 14:32:06 INFO  LMSTest:152 - the input box forGENERAL  option is clicked
+2020-09-11 14:32:27 INFO  LMSTest:218 - securitydomainnotfound
+2020-09-11 14:32:56 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 14:32:59 INFO  LMSTest:77 - url is launched
+2020-09-11 14:35:00 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (87df893db234538553bed72663e6e16a)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 14:36:03 INFO  LMSTest:152 - the input box forGamification_Catalog  option is clicked
+2020-09-11 14:36:05 INFO  LMSTest:152 - the input box forCOM_TEST  option is clicked
+2020-09-11 14:37:48 INFO  LMSTest:213 - Testcase execute for2 time
+2020-09-11 14:43:53 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 14:43:57 INFO  LMSTest:77 - url is launched
+2020-09-11 14:46:07 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (c461d7e770b66df4e020e40616a1a4de)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 14:47:12 INFO  LMSTest:152 - the input box forCOM_TEST  option is clicked
+2020-09-11 14:47:15 INFO  LMSTest:152 - the input box forTestLirbrary  option is clicked
+2020-09-11 14:49:42 INFO  LMSTest:214 - Testcase execute for1 time
+2020-09-11 14:50:01 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 14:50:07 INFO  LMSTest:77 - url is launched
+2020-09-11 14:52:47 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (af7f918e344287cad4150118141c9232)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 14:53:51 INFO  LMSTest:152 - the input box for20200722  option is clicked
+2020-09-11 14:53:53 INFO  LMSTest:152 - the input box forGENERAL  option is clicked
+2020-09-11 14:54:15 INFO  LMSTest:219 - Incorrectsecuritydomain name is given
+2020-09-11 14:54:43 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 14:54:48 INFO  LMSTest:77 - url is launched
+2020-09-11 14:57:34 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (154fc529ea259a35c08ee784cfc5de97)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 15:00:39 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 15:00:47 INFO  LMSTest:77 - url is launched
+2020-09-11 15:03:23 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (716ff6fc3d4cf4ca6f7b78e2dca645c9)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 15:05:48 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 15:05:53 INFO  LMSTest:77 - url is launched
+2020-09-11 15:08:12 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (f6cd029b7d9efa6e1f179e8237b765f7)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 15:09:40 INFO  LMSTest:152 - the input box forCOM_TEST  option is clicked
+2020-09-11 15:09:43 INFO  LMSTest:152 - the input box forTestLirbrary  option is clicked
+2020-09-11 15:12:16 INFO  LMSTest:214 - Testcase execute for1 time
+2020-09-11 15:12:35 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 15:12:40 INFO  LMSTest:77 - url is launched
+2020-09-11 15:15:22 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (c36abf679dbb603041874c550e77c6a0)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 15:16:55 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 15:17:00 INFO  LMSTest:77 - url is launched
+2020-09-11 15:19:24 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (42f23658dddbd054338398bc1cd93bd5)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 15:20:35 INFO  LMSTest:152 - the input box forCOM_TEST  option is clicked
+2020-09-11 15:20:39 INFO  LMSTest:152 - the input box forTestLirbrary  option is clicked
+2020-09-11 15:23:14 INFO  LMSTest:214 - Testcase execute for1 time
+2020-09-11 15:23:36 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 15:23:42 INFO  LMSTest:77 - url is launched
+2020-09-11 15:25:51 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (cb97b34b0c236f2fd4df3a82eac09531)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 15:27:06 INFO  LMSTest:152 - the input box for20200722  option is clicked
+2020-09-11 15:27:10 INFO  LMSTest:152 - the input box forGENERAL  option is clicked
+2020-09-11 15:27:32 INFO  LMSTest:219 - Incorrect securitydomain name is provided
+2020-09-11 15:28:02 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 15:28:06 INFO  LMSTest:77 - url is launched
+2020-09-11 15:30:18 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (5968806cedaa2c72119735d0cca41e44)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 15:43:53 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 15:43:58 INFO  LMSTest:77 - url is launched
+2020-09-11 15:46:00 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (e1cc38d6e8a351e62ba0eb975c4ea581)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 15:47:45 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 15:47:49 INFO  LMSTest:77 - url is launched
+2020-09-11 15:49:45 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (188dbfc27b4462bdfe43e07a04a58893)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 15:51:01 INFO  LMSTest:152 - the input box forCOM_TEST  option is clicked
+2020-09-11 15:51:03 INFO  LMSTest:152 - the input box forTestLirbrary  option is clicked
+2020-09-11 15:53:28 INFO  LMSTest:214 - Testcase execute for1 time
+2020-09-11 15:53:45 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 15:53:49 INFO  LMSTest:77 - url is launched
+2020-09-11 15:55:45 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (a247dd14df8e655e367274b371213938)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 15:56:52 INFO  LMSTest:152 - the input box for20200722  option is clicked
+2020-09-11 15:56:53 INFO  LMSTest:152 - the input box forGENERAL  option is clicked
+2020-09-11 15:57:14 INFO  LMSTest:219 - Incorrect securitydomain name is provided
+2020-09-11 15:57:42 INFO  LMSTest:72 -  Window is miximized
+2020-09-11 15:57:45 INFO  LMSTest:77 - url is launched
+2020-09-11 15:59:52 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (62dc5d3cc49b342f8d32f34a139520b7)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 16:00:59 INFO  LMSTest:152 - the input box forGamification_Catalog  option is clicked
+2020-09-11 16:01:00 INFO  LMSTest:152 - the input box forCOM_TEST  option is clicked
+2020-09-11 16:02:38 INFO  LMSTest:214 - Testcase execute for2 time
+2020-09-11 16:24:25 INFO  LMSTest:63 -  Window is miximized
+2020-09-11 16:24:31 INFO  LMSTest:68 - url is launched
+2020-09-11 16:38:24 INFO  LMSTest:63 -  Window is miximized
+2020-09-11 16:38:27 INFO  LMSTest:68 - url is launched
+2020-09-11 16:47:47 INFO  LMSTest:63 -  Window is miximized
+2020-09-11 16:47:51 INFO  LMSTest:68 - url is launched
+2020-09-11 16:49:52 INFO  TestUtil:52 - Driver is waited for[[ChromeDriver: chrome on XP (da38ab183efe182f685a97afd3cf8229)] -> xpath: //div[text()='Assignment Profiles']//ancestor::li]to be seen for20
+2020-09-11 16:53:50 INFO  LMSTest:63 -  Window is miximized
+2020-09-11 16:53:56 INFO  LMSTest:68 - url is launched
+2020-09-11 16:59:38 INFO  LMSTest:63 -  Window is miximized
+2020-09-11 16:59:41 INFO  LMSTest:68 - url is launched
+2020-09-11 17:02:36 INFO  LMSTest:134 - the input box forCOM_TEST  option is clicked
+2020-09-11 17:02:38 INFO  LMSTest:134 - the input box forTestLirbrary  option is clicked
+2020-09-11 17:05:02 INFO  LMSTest:196 - Testcase execute for1 time
+2020-09-11 17:05:20 INFO  LMSTest:63 -  Window is miximized
+2020-09-11 17:05:23 INFO  LMSTest:68 - url is launched
+2020-09-11 17:10:49 INFO  LMSTest:63 -  Window is miximized
+2020-09-11 17:10:51 INFO  LMSTest:68 - url is launched
+2020-09-11 17:13:38 INFO  LMSTest:135 - the input box forCOM_TEST  option is clicked
+2020-09-11 17:13:40 INFO  LMSTest:135 - the input box forTestLirbrary  option is clicked
+2020-09-11 17:16:32 INFO  LMSTest:197 - Testcase execute for1 time
+2020-09-11 17:16:51 INFO  LMSTest:63 -  Window is miximized
+2020-09-11 17:16:54 INFO  LMSTest:68 - url is launched
+2020-09-11 17:19:46 INFO  LMSTest:135 - the input box for20200722  option is clicked
+2020-09-11 17:19:48 INFO  LMSTest:135 - the input box forGENERAL  option is clicked
+2020-09-11 17:20:09 INFO  LMSTest:202 - Incorrect securitydomain name is provided
+2020-09-11 17:20:37 INFO  LMSTest:63 -  Window is miximized
+2020-09-11 17:20:40 INFO  LMSTest:68 - url is launched
+2020-09-11 17:31:11 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 17:31:19 INFO  LMSTest:70 - url is launched
+2020-09-11 17:37:42 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 17:37:48 INFO  LMSTest:70 - url is launched
+2020-09-11 17:44:17 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 17:44:21 INFO  LMSTest:70 - url is launched
+2020-09-11 17:49:13 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 17:49:16 INFO  LMSTest:70 - url is launched
+2020-09-11 17:55:03 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 17:55:05 INFO  LMSTest:70 - url is launched
+2020-09-11 17:59:03 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 17:59:06 INFO  LMSTest:70 - url is launched
+2020-09-11 18:01:38 INFO  LMSTest:161 - the input box forCOM_TEST  option is clicked
+2020-09-11 18:01:41 INFO  LMSTest:161 - the input box forTestLirbrary  option is clicked
+2020-09-11 18:04:08 INFO  LMSTest:224 - Testcase execute for1 time
+2020-09-11 18:04:28 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 18:04:31 INFO  LMSTest:70 - url is launched
+2020-09-11 18:06:53 INFO  LMSTest:161 - the input box for20200722  option is clicked
+2020-09-11 18:06:55 INFO  LMSTest:161 - the input box forGENERAL  option is clicked
+2020-09-11 18:07:17 INFO  LMSTest:229 - Incorrect securitydomain name is provided
+2020-09-11 18:07:47 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 18:07:50 INFO  LMSTest:70 - url is launched
+2020-09-11 18:12:48 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 18:12:52 INFO  LMSTest:70 - url is launched
+2020-09-11 18:18:25 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 18:18:29 INFO  LMSTest:70 - url is launched
+2020-09-11 18:22:32 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 18:22:35 INFO  LMSTest:70 - url is launched
+2020-09-11 18:29:09 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 18:29:12 INFO  LMSTest:70 - url is launched
+2020-09-11 18:31:38 INFO  LMSTest:166 - the input box forCOM_TEST  option is clicked
+2020-09-11 18:31:41 INFO  LMSTest:166 - the input box forTestLirbrary  option is clicked
+2020-09-11 18:34:07 INFO  LMSTest:240 - Testcase execute for1 time
+2020-09-11 18:34:26 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 18:34:30 INFO  LMSTest:70 - url is launched
+2020-09-11 18:36:55 INFO  LMSTest:166 - the input box for20200722  option is clicked
+2020-09-11 18:36:57 INFO  LMSTest:166 - the input box forGENERAL  option is clicked
+2020-09-11 18:37:19 INFO  LMSTest:59 - Incorrect securitydomain name is provided
+2020-09-11 18:37:48 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 18:37:51 INFO  LMSTest:70 - url is launched
+2020-09-11 18:40:23 INFO  LMSTest:166 - the input box forGamification_Catalog  option is clicked
+2020-09-11 18:40:25 INFO  LMSTest:166 - the input box forCOM_TEST  option is clicked
+2020-09-11 18:42:05 INFO  LMSTest:240 - Testcase execute for2 time
+2020-09-11 18:42:44 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 18:42:47 INFO  LMSTest:70 - url is launched
+2020-09-11 18:45:11 INFO  LMSTest:172 - the input box forCOM_TEST  option is clicked
+2020-09-11 18:45:13 INFO  LMSTest:172 - the input box forTestLirbrary  option is clicked
+2020-09-11 18:47:40 INFO  LMSTest:235 - Testcase execute for1 time
+2020-09-11 18:47:59 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 18:48:02 INFO  LMSTest:70 - url is launched
+2020-09-11 18:50:28 INFO  LMSTest:172 - the input box for20200722  option is clicked
+2020-09-11 18:50:31 INFO  LMSTest:172 - the input box forGENERAL  option is clicked
+2020-09-11 18:50:52 INFO  LMSTest:240 - Incorrect securitydomain name is provided
+2020-09-11 18:51:21 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 18:57:39 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 18:57:42 INFO  LMSTest:70 - url is launched
+2020-09-11 19:02:40 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 19:02:44 INFO  LMSTest:70 - url is launched
+2020-09-11 19:04:47 INFO  LMSTest:180 - the input box forCOM_TEST  option is clicked
+2020-09-11 19:04:50 INFO  LMSTest:180 - the input box forTestLirbrary  option is clicked
+2020-09-11 19:07:21 INFO  LMSTest:243 - Testcase execute for1 time
+2020-09-11 19:07:40 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 19:07:43 INFO  LMSTest:70 - url is launched
+2020-09-11 19:09:43 INFO  LMSTest:180 - the input box for20200722  option is clicked
+2020-09-11 19:09:46 INFO  LMSTest:180 - the input box forGENERAL  option is clicked
+2020-09-11 19:10:08 INFO  LMSTest:248 - Incorrect securitydomain name is provided
+2020-09-11 19:10:36 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 19:10:39 INFO  LMSTest:70 - url is launched
+2020-09-11 19:12:37 INFO  LMSTest:180 - the input box forGamification_Catalog  option is clicked
+2020-09-11 19:12:39 INFO  LMSTest:180 - the input box forCOM_TEST  option is clicked
+2020-09-11 19:14:18 INFO  LMSTest:243 - Testcase execute for2 time
+2020-09-11 19:38:48 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 19:38:52 INFO  LMSTest:70 - url is launched
+2020-09-11 19:40:48 INFO  LMSTest:180 - the input box forCOM_TEST  option is clicked
+2020-09-11 19:40:51 INFO  LMSTest:180 - the input box forTestLirbrary  option is clicked
+2020-09-11 19:43:17 INFO  LMSTest:243 - Testcase execute for1 time
+2020-09-11 19:43:36 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 19:43:39 INFO  LMSTest:70 - url is launched
+2020-09-11 19:45:28 INFO  LMSTest:180 - the input box for20200722  option is clicked
+2020-09-11 19:45:31 INFO  LMSTest:180 - the input box forGENERAL  option is clicked
+2020-09-11 19:45:52 INFO  LMSTest:248 - Incorrect securitydomain name is provided
+2020-09-11 19:46:21 INFO  LMSTest:65 -  Window is miximized
+2020-09-11 19:46:24 INFO  LMSTest:70 - url is launched
+2020-09-11 19:48:19 INFO  LMSTest:180 - the input box forGamification_Catalog  option is clicked
+2020-09-11 19:48:21 INFO  LMSTest:180 - the input box forCOM_TEST  option is clicked
+2020-09-11 19:50:01 INFO  LMSTest:243 - Testcase execute for2 time
+2020-09-12 16:10:26 INFO  LMSTest:65 -  Window is miximized
+2020-09-12 16:10:28 INFO  LMSTest:70 - url is launched
+2020-09-12 16:12:17 INFO  LMSTest:180 - the input box forCOM_TEST  option is clicked
+2020-09-12 16:12:19 INFO  LMSTest:180 - the input box forTestLirbrary  option is clicked
+2020-09-12 16:14:46 INFO  LMSTest:243 - Testcase execute for1 time
+2020-09-12 16:15:05 INFO  LMSTest:65 -  Window is miximized
+2020-09-12 16:15:08 INFO  LMSTest:70 - url is launched
+2020-09-12 16:18:40 INFO  LMSTest:65 -  Window is miximized
+2020-09-12 16:18:45 INFO  LMSTest:70 - url is launched
+2020-09-12 16:23:16 INFO  LMSTest:65 -  Window is miximized
+2020-09-12 16:23:19 INFO  LMSTest:70 - url is launched
+2020-09-12 16:25:18 INFO  LMSTest:181 - the input box forCOM_TEST  option is clicked
+2020-09-12 16:25:21 INFO  LMSTest:181 - the input box forTestLirbrary  option is clicked
+2020-09-12 16:27:50 INFO  LMSTest:244 - Testcase execute for1 time
+2020-09-12 16:28:09 INFO  LMSTest:65 -  Window is miximized
+2020-09-12 16:28:12 INFO  LMSTest:70 - url is launched
+2020-09-12 16:30:09 INFO  LMSTest:181 - the input box for20200722  option is clicked
+2020-09-12 16:30:12 INFO  LMSTest:181 - the input box forGENERAL  option is clicked
+2020-09-12 16:30:34 INFO  LMSTest:249 - Incorrect securitydomain name is provided
+2020-09-12 16:31:02 INFO  LMSTest:65 -  Window is miximized
+2020-09-12 16:31:05 INFO  LMSTest:70 - url is launched
+2020-09-12 16:33:00 INFO  LMSTest:181 - the input box forGamification_Catalog  option is clicked
+2020-09-12 16:33:02 INFO  LMSTest:181 - the input box forCOM_TEST  option is clicked
+2020-09-12 16:34:42 INFO  LMSTest:244 - Testcase execute for2 time

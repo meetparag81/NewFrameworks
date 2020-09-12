@@ -30,7 +30,7 @@ public class TestUtil extends TestBase {
 	
 public static long IMPLICIT_WAIT = 30;
 public static long PAGE_LOAD_TIMEOUT = 60;
-private static  Logger log=LoggerHelper.GetLogger(TestUtil.class)	;
+private static  Logger log=LoggerHelper.GetLogger(TestUtil.class);
 private static String destination;
 private static JavascriptExecutor jsExec;
 protected static WebDriverWait wait;
@@ -242,12 +242,13 @@ Thread.sleep(1000);
 
 }
 
-public static void WaitTillclickable(WebElement element) throws InterruptedException{
+public static WebElement WaitTillclickable(WebElement element) throws InterruptedException{
 	WebDriverWait wait = new WebDriverWait(driver, 30);
 	WebElement desireelement = wait.until(ExpectedConditions.elementToBeClickable(element));
 	while((desireelement==null)){
 		Thread.sleep(5);
 		}
+	return desireelement;
 }
 public static String CurrentTimestamp(){
 	 

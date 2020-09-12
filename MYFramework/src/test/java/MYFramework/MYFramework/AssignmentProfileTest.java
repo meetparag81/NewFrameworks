@@ -51,16 +51,9 @@ public class AssignmentProfileTest {
 	private static JavascriptExecutor jsExec;
 	protected static WebDriverWait wait;
 
-
-
-
-
-
+	private static String timestamp1;
 
 	public static void main(String[] args) throws Exception  {
-
-
-
 
 		int count = reader.getRowCount("LMSData");
 		for(int rowcounter=2;rowcounter<=reader.getRowCount("LMSData");rowcounter++){
@@ -77,33 +70,68 @@ public class AssignmentProfileTest {
 			log.info("url is launched");
 			String username = reader.getCellData("LMSData", "Username", 2);
 			String password = reader.getCellData("LMSData", "Password", 2);	
-
 			driver.findElement(By.xpath("//input[@name='username']")).sendKeys(username);
 			Thread.sleep(2000);
 			driver.findElement(By.xpath("//input[@name='password']")).sendKeys(password);
 			Thread.sleep(2000);
 			driver.findElement(By.xpath("//bdi[text()='Log in']//ancestor::span[1]")).click();
-			Thread.sleep(30000);
-			//waitForJQueryLoad();
-			WebElement LearningAdministration = (new WebDriverWait(driver, 50)).until(ExpectedConditions.presenceOfElementLocated(By.xpath("//h3[text()='Learning Administration']//ancestor::div[2]")));
-			LearningAdministration.click();
-			Thread.sleep(30000);
-			//waitForJQueryLoad();
-			WebElement ManageUserLearning = (new WebDriverWait(driver, 80)).until(ExpectedConditions.presenceOfElementLocated(By.xpath("//div[text()='Manage User Learning']//ancestor::li//span")));
-			Thread.sleep(30000);
-			//waitForJQueryLoad();
-			ManageUserLearning.click();
-			Thread.sleep(2000);
-			TestUtil.VisibleOn(driver, driver.findElement(By.xpath("//div[text()='Assignment Profiles']//ancestor::li")), 20);
-			Thread.sleep(2000);
-			driver.findElement(By.xpath("//div[text()='Assignment Profiles']//ancestor::li")).click();
-			Thread.sleep(10000);
-			//waitForJQueryLoad();
-			WebElement iframe1 = (new WebDriverWait(driver, 80)).until(ExpectedConditions.presenceOfElementLocated(By.xpath("//iframe[@class='plateauIFrame ']")));
+			//Thread.sleep(30000);
+			Thread.sleep(5000);
+			try{
+				WebElement LearningAdministration = WaitTillclickable(driver.findElement(By.xpath("//h3[text()='Learning Administration']//ancestor::div[2]")));
+				LearningAdministration.click();
+			}
+			catch (Exception e) {
+				e.getStackTrace();
+				Thread.sleep(3000);
+				WebElement LearningAdministration = WaitTillclickable(driver.findElement(By.xpath("//h3[text()='Learning Administration']//ancestor::div[2]")));
+				LearningAdministration.click();
+			}
 
-			Thread.sleep(10000);
-			driver.switchTo().frame(iframe1);
-			driver.findElement(By.xpath("(//a[text()='Add New'])[1]")).click();
+			Thread.sleep(5000);
+			try{
+				WebElement ManageUserLearning = WaitTillclickable(driver.findElement(By.xpath("//div[text()='Manage User Learning']//ancestor::li//span")));
+				ManageUserLearning.click();
+			}
+			catch (Exception e) {
+				e.getStackTrace();
+				Thread.sleep(3000);
+				WebElement ManageUserLearning = WaitTillclickable(driver.findElement(By.xpath("//div[text()='Manage User Learning']//ancestor::li//span")));
+				ManageUserLearning.click();
+			}
+			Thread.sleep(5000);
+			try{
+				WebElement AssignmentProfiles = WaitTillclickable(driver.findElement(By.xpath("//div[text()='Assignment Profiles']//ancestor::li")));
+				AssignmentProfiles.click();
+			}
+			catch (Exception e) {
+				e.getStackTrace();
+				Thread.sleep(3000);
+				WebElement AssignmentProfiles = WaitTillclickable(driver.findElement(By.xpath("//div[text()='Assignment Profiles']//ancestor::li")));
+				AssignmentProfiles.click();
+			}
+			Thread.sleep(5000);
+			try{
+				WebElement iframe1=WaitTillclickable(driver.findElement(By.xpath("//iframe[@class='plateauIFrame ']")));
+				driver.switchTo().frame(iframe1);
+			}
+			catch (Exception e) {
+				e.getStackTrace();
+				Thread.sleep(5000);
+				WebElement iframe1 = driver.findElement(By.xpath("//iframe[@class='plateauIFrame ']"));			
+				driver.switchTo().frame(iframe1);
+			}
+			Thread.sleep(5000);
+			try{
+				WebElement AddNew=WaitTillclickable(driver.findElement(By.xpath("//a[@id='addNewLink']")));
+				AddNew.click();
+			}
+			catch (Exception e) {
+				e.getStackTrace();
+				Thread.sleep(5000);
+				 WaitTillclickable(driver.findElement(By.xpath("//a[@id='addNewLink']"))).click();
+				
+			}
 			Thread.sleep(2000);
 			driver.switchTo().defaultContent();
 			Thread.sleep(5000);
@@ -143,10 +171,9 @@ public class AssignmentProfileTest {
 			}
 
 			for(int p=0;p<Libraryname.length;p++){
-
+				//for creation of Library
 				for(int Librarycounter =0;Librarycounter<Libraryid.size();Librarycounter++ ){
 					boolean flag = false;
-					//System.out.println("the vauefromExcel is = "+LibraryList.get(p) +" and "+ "element text= "+Libraryid.get(m).getText().toString().trim() );
 					boolean flag1 = Libraryname[p].toString().trim().equalsIgnoreCase(Libraryid.get(Librarycounter).getText().toString().trim());
 					if(flag1==true){
 						Thread.sleep(1000);
@@ -177,10 +204,10 @@ public class AssignmentProfileTest {
 				String inputvalue=ValidateSecurityDomains(SecurityDomainsname, rowcounter);
 				if(!inputvalue.isEmpty()){
 					Thread.sleep(5000);
-				driver.findElement(By.xpath("//bdi[text()='Security Domains']//following::input[1]")).sendKeys(inputvalue);
-				Thread.sleep(5000);
-				driver.findElement(By.xpath("//bdi[text()='Security Domains']")).click();
-				flag2=true;
+					driver.findElement(By.xpath("//bdi[text()='Security Domains']//following::input[1]")).sendKeys(inputvalue);
+					Thread.sleep(5000);
+					driver.findElement(By.xpath("//bdi[text()='Security Domains']")).click();
+					flag2=true;
 				}
 				else{
 					flag2=false;
@@ -188,9 +215,9 @@ public class AssignmentProfileTest {
 				if(flag2==false){
 					break;
 				}
-			
+
 			}
-			//if both condition of security group istrue
+
 			if(flag2==true){
 				Thread.sleep(2000);
 				driver.switchTo().defaultContent();
@@ -200,12 +227,14 @@ public class AssignmentProfileTest {
 				String[] Securitygroup = CreateGroupAttribute.split(";");
 				int totalgroups= clickontheAddgroup(CreateGroup, Securitygroup.length);
 				Thread.sleep(3000);
+
 				for(int groupcounter = 1;groupcounter<=totalgroups;groupcounter++){
-				driver.findElement(By.xpath("(//input[@placeholder='Enter Group Name'])["+groupcounter+"]")).sendKeys("Group1_"+groupcounter+"_"+timestamp);
-				//System.out.println("(//input[@placeholder='Enter Group Name'])["+groupcounter+"]");
-				String xpath="(//input[@placeholder='Enter Group Name'])["+groupcounter+"]";
-				//Method to create Grouprule
-				Grouprules(xpath,rowcounter,groupcounter);
+					timestamp1 = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+					driver.findElement(By.xpath("(//input[@placeholder='Enter Group Name'])["+groupcounter+"]")).sendKeys("TestSecuritygroup"+timestamp1);
+					//System.out.println("(//input[@placeholder='Enter Group Name'])["+groupcounter+"]");
+					String xpath="(//input[@placeholder='Enter Group Name'])["+groupcounter+"]";
+					//Method to create Grouprule
+					Grouprules(xpath,rowcounter,groupcounter);
 
 				}
 				Thread.sleep(2000);
@@ -217,64 +246,16 @@ public class AssignmentProfileTest {
 
 			}
 			else{
-				log.info("securitydomainnotfound");
+				log.info("Incorrect securitydomain name is provided");
 				Thread.sleep(10000);
-				
+
 				driver.quit();
 			}
-			
 
-			
-			
 		}
 	}
 
 
-
-
-
-
-
-
-
-	
-	/*	public static void waitForJQueryLoad() {
-			try {
-				ExpectedCondition<Boolean> jQueryLoad = driver -> ((Long) ((JavascriptExecutor) driver).executeScript("return jQuery.active") == 0);
-				boolean jqueryReady = (Boolean) jsExec.executeScript("return jQuery.active==0");
-				if (!jqueryReady) {
-					wait.until(jQueryLoad);
-				} 
-			}
-			catch (Exception ignored) {
-			}
-		}*/
-		
-	
-
-
-
-
-
-
-
-
-
-	private static void CreateSecurityGroups(int rowcounter) throws InterruptedException {
-		WebElement CreateGroup= driver.findElement(By.xpath("//bdi[text()='Create Group']//ancestor::button"));
-		String CreateGroupAttribute = reader.getCellData("LMSData", "Create Group1", rowcounter);
-		String[] Securitygroup = CreateGroupAttribute.split(";");
-		int totalgroups= clickontheAddgroup(CreateGroup, Securitygroup.length);
-		Thread.sleep(3000);
-		for(int groupcounter = 1;groupcounter<=Securitygroup.length;groupcounter++){
-			driver.findElement(By.xpath("(//input[@placeholder='Enter Group Name'])["+groupcounter+"]")).sendKeys("TestGroup_groupcounter"+"_"+groupcounter+"_"+timestamp);
-			String xpath="(//input[@placeholder='Enter Group Name'])["+groupcounter+"]";
-			//For Groupruleloop
-			//Grouprules(xpath, groupcounter, rowcounter);
-		}
-		// TODO Auto-generated method stub
-
-	}
 
 	private static String ValidateSecurityDomains(String SecurityDomainsname,int rowcounter) {
 		String result="";
@@ -295,15 +276,15 @@ public class AssignmentProfileTest {
 
 
 	public static void Grouprules(String xpath,int rowcounter,int groupcounter) throws InterruptedException{
-		System.out.println("The group attribue name is" +"Group"+groupcounter+ "Attribute");
-		String GroupAttribute = reader.getCellData("LMSData", "Group"+groupcounter+ "Attribute", rowcounter);
+		//System.out.println("The group attribue name is" +"Group"+groupcounter+ "Attribute");
+		String GroupAttribute = reader.getCellData("LMSData", "Group1Attribute", rowcounter);
 		String[] Country_Region=GroupAttribute.split(";");
 		int Rulegroup=0;
 		WebElement Addnewbutton= driver.findElement(By.xpath("(//a[text()='Add Rule'])"+"["+groupcounter+"]"));
 		int totalrules= clickontheAddnew(Addnewbutton, Country_Region.length);
 		for(int countrycounter=1;countrycounter<=Country_Region.length;countrycounter++){
 			String Countryrule = Country_Region [Rulegroup].trim();
-			String Country_CityNames = reader.getCellData("LMSData", "Group"+countrycounter+ "Value", rowcounter);
+			String Country_CityNames = reader.getCellData("LMSData", "Group1 Value", rowcounter);
 			String[] Countryname=Country_CityNames.split(";");
 			String CountrynameRule = Countryname [Rulegroup].trim();
 			Thread.sleep(2000);
@@ -375,18 +356,12 @@ public class AssignmentProfileTest {
 
 	}
 
-	/*public  boolean WaitforLoad() throws InterruptedException{
-		boolean flag= true;
-		 flag = ((JavascriptExecutor)driver).executeScript("return document.readyState").equals("complete");
-		if(flag=false)
-		{
-			WebDriverWait wait = new WebDriverWait(driver, 30);
-
+	public static WebElement WaitTillclickable(WebElement element) throws InterruptedException{
+		WebDriverWait wait = new WebDriverWait(driver, 60);
+		WebElement desireelement = wait.until(ExpectedConditions.elementToBeClickable(element));
+		while((desireelement==null)){
+			Thread.sleep(5);
 		}
-
-
-		return flag;
-
-
-	}*/
+		return desireelement;
+	}
 }
