@@ -110,6 +110,7 @@ public class AssignmentProfileTest {
 				WebElement AssignmentProfiles = WaitTillclickable(driver.findElement(By.xpath("//div[text()='Assignment Profiles']//ancestor::li")));
 				AssignmentProfiles.click();
 			}
+<<<<<<< Upstream, based on origin/master
 			Thread.sleep(5000);
 			try{
 				WebElement iframe1=WaitTillclickable(driver.findElement(By.xpath("//iframe[@class='plateauIFrame ']")));
@@ -119,6 +120,17 @@ public class AssignmentProfileTest {
 				e.getStackTrace();
 				Thread.sleep(5000);
 				WebElement iframe1 = driver.findElement(By.xpath("//iframe[@class='plateauIFrame ']"));			
+=======
+			Thread.sleep(8000);
+			try{
+				WebElement iframe1=WaitTillclickable(driver.findElement(By.xpath("//iframe[@class='plateauIFrame ']")));
+				driver.switchTo().frame(iframe1);
+			}
+			catch (Exception e) {
+				e.getStackTrace();
+				Thread.sleep(8000);
+				WebElement iframe1 = WaitTillclickable(driver.findElement(By.xpath("//iframe[@class='plateauIFrame ']")));			
+>>>>>>> 47bd042 exce and "AsignmentProfiletest" file changed
 				driver.switchTo().frame(iframe1);
 			}
 			Thread.sleep(5000);
@@ -229,7 +241,11 @@ public class AssignmentProfileTest {
 				Thread.sleep(3000);
 
 				for(int groupcounter = 1;groupcounter<=totalgroups;groupcounter++){
+<<<<<<< Upstream, based on origin/master
 					timestamp1 = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+=======
+					String timestamp1 = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+>>>>>>> 47bd042 exce and "AsignmentProfiletest" file changed
 					driver.findElement(By.xpath("(//input[@placeholder='Enter Group Name'])["+groupcounter+"]")).sendKeys("TestSecuritygroup"+timestamp1);
 					//System.out.println("(//input[@placeholder='Enter Group Name'])["+groupcounter+"]");
 					String xpath="(//input[@placeholder='Enter Group Name'])["+groupcounter+"]";
@@ -277,14 +293,19 @@ public class AssignmentProfileTest {
 
 	public static void Grouprules(String xpath,int rowcounter,int groupcounter) throws InterruptedException{
 		//System.out.println("The group attribue name is" +"Group"+groupcounter+ "Attribute");
+<<<<<<< Upstream, based on origin/master
 		String GroupAttribute = reader.getCellData("LMSData", "Group1Attribute", rowcounter);
+=======
+		String GroupAttribute = reader.getCellData("LMSData", "Group1 Attribute", rowcounter);
+>>>>>>> 47bd042 exce and "AsignmentProfiletest" file changed
 		String[] Country_Region=GroupAttribute.split(";");
 		int Rulegroup=0;
 		WebElement Addnewbutton= driver.findElement(By.xpath("(//a[text()='Add Rule'])"+"["+groupcounter+"]"));
 		int totalrules= clickontheAddnew(Addnewbutton, Country_Region.length);
 		for(int countrycounter=1;countrycounter<=Country_Region.length;countrycounter++){
 			String Countryrule = Country_Region [Rulegroup].trim();
-			String Country_CityNames = reader.getCellData("LMSData", "Group1 Value", rowcounter);
+			System.out.println("Group"+groupcounter+"Value");
+			String Country_CityNames = reader.getCellData("LMSData", "Group"+groupcounter+"Value", rowcounter);
 			String[] Countryname=Country_CityNames.split(";");
 			String CountrynameRule = Countryname [Rulegroup].trim();
 			Thread.sleep(2000);
@@ -364,4 +385,8 @@ public class AssignmentProfileTest {
 		}
 		return desireelement;
 	}
+<<<<<<< Upstream, based on origin/master
 }
+=======
+}
+>>>>>>> 47bd042 exce and "AsignmentProfiletest" file changed
