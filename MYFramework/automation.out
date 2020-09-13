@@ -6769,3 +6769,19 @@ All
 2020-09-13 21:53:03 INFO  LMSTest:181 - the input box forCOM_TEST  option is clicked
 2020-09-13 21:54:41 INFO  LMSTest:244 - Testcase execute for2 time
 >>>>>>> 47bd042 exce and "AsignmentProfiletest" file changed
+2020-09-13 23:07:40 INFO  AssignmentProfileTest:65 -  Window is miximized
+2020-09-13 23:07:42 INFO  AssignmentProfileTest:70 - url is launched
+2020-09-13 23:14:03 INFO  AssignmentProfileTest:65 -  Window is miximized
+2020-09-13 23:14:05 INFO  AssignmentProfileTest:70 - url is launched
+2020-09-13 23:15:59 INFO  AssignmentProfileTest:181 - the input box forCOM_TEST  option is clicked
+2020-09-13 23:16:01 INFO  AssignmentProfileTest:181 - the input box forTestLirbrary  option is clicked
+2020-09-13 23:19:56 INFO  AssignmentProfileTest:65 -  Window is miximized
+2020-09-13 23:19:59 INFO  AssignmentProfileTest:70 - url is launched
+2020-09-13 23:21:53 INFO  AssignmentProfileTest:181 - the input box forCOM_TEST  option is clicked
+2020-09-13 23:21:55 INFO  AssignmentProfileTest:181 - the input box forTestLirbrary  option is clicked
+2020-09-13 23:26:09 INFO  AssignmentProfileTest:244 - Testcase execute for1 time
+2020-09-13 23:26:43 INFO  AssignmentProfileTest:65 -  Window is miximized
+2020-09-13 23:26:46 INFO  AssignmentProfileTest:70 - url is launched
+2020-09-13 23:28:40 INFO  AssignmentProfileTest:181 - the input box for20200722  option is clicked
+2020-09-13 23:28:42 INFO  AssignmentProfileTest:181 - the input box forGENERAL  option is clicked
+2020-09-13 23:29:03 INFO  AssignmentProfileTest:249 - Incorrect securitydomain name is provided
