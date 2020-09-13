@@ -22,10 +22,8 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.events.WebDriverEventListener;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import LMSTest.LMSTest;
 import frame.helper.IframeHelper;
 import helper.Excelhelper.Exls_Reader;
 import helper.Pick.PickHelpernew;
@@ -40,7 +38,7 @@ public class AssignmentProfileTest {
 	private static Properties prop;
 	private static WebDriverEventListener e_driver;
 	private static int k=0;
-	private static  Logger log=LoggerHelper.GetLogger(LMSTest.class);
+	private static  Logger log=LoggerHelper.GetLogger(AssignmentProfileTest.class);
 	private static String Libraryrule="";
 	private static String SecurityDomainrule="";
 	private static List<WebElement> NameofLibraries;
@@ -48,10 +46,12 @@ public class AssignmentProfileTest {
 	static Exls_Reader validationreader = new Exls_Reader(ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata\\LMS_TestDatavalidation.xlsx"));
 	private static String timestamp="";
 	private static String empty="";
-	private static JavascriptExecutor jsExec;
-	protected static WebDriverWait wait;
 
-	private static String timestamp1;
+
+
+
+
+
 
 	public static void main(String[] args) throws Exception  {
 
@@ -110,17 +110,6 @@ public class AssignmentProfileTest {
 				WebElement AssignmentProfiles = WaitTillclickable(driver.findElement(By.xpath("//div[text()='Assignment Profiles']//ancestor::li")));
 				AssignmentProfiles.click();
 			}
-<<<<<<< Upstream, based on origin/master
-			Thread.sleep(5000);
-			try{
-				WebElement iframe1=WaitTillclickable(driver.findElement(By.xpath("//iframe[@class='plateauIFrame ']")));
-				driver.switchTo().frame(iframe1);
-			}
-			catch (Exception e) {
-				e.getStackTrace();
-				Thread.sleep(5000);
-				WebElement iframe1 = driver.findElement(By.xpath("//iframe[@class='plateauIFrame ']"));			
-=======
 			Thread.sleep(8000);
 			try{
 				WebElement iframe1=WaitTillclickable(driver.findElement(By.xpath("//iframe[@class='plateauIFrame ']")));
@@ -130,7 +119,6 @@ public class AssignmentProfileTest {
 				e.getStackTrace();
 				Thread.sleep(8000);
 				WebElement iframe1 = WaitTillclickable(driver.findElement(By.xpath("//iframe[@class='plateauIFrame ']")));			
->>>>>>> 47bd042 exce and "AsignmentProfiletest" file changed
 				driver.switchTo().frame(iframe1);
 			}
 			Thread.sleep(5000);
@@ -241,11 +229,7 @@ public class AssignmentProfileTest {
 				Thread.sleep(3000);
 
 				for(int groupcounter = 1;groupcounter<=totalgroups;groupcounter++){
-<<<<<<< Upstream, based on origin/master
-					timestamp1 = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
-=======
 					String timestamp1 = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
->>>>>>> 47bd042 exce and "AsignmentProfiletest" file changed
 					driver.findElement(By.xpath("(//input[@placeholder='Enter Group Name'])["+groupcounter+"]")).sendKeys("TestSecuritygroup"+timestamp1);
 					//System.out.println("(//input[@placeholder='Enter Group Name'])["+groupcounter+"]");
 					String xpath="(//input[@placeholder='Enter Group Name'])["+groupcounter+"]";
@@ -293,11 +277,7 @@ public class AssignmentProfileTest {
 
 	public static void Grouprules(String xpath,int rowcounter,int groupcounter) throws InterruptedException{
 		//System.out.println("The group attribue name is" +"Group"+groupcounter+ "Attribute");
-<<<<<<< Upstream, based on origin/master
-		String GroupAttribute = reader.getCellData("LMSData", "Group1Attribute", rowcounter);
-=======
 		String GroupAttribute = reader.getCellData("LMSData", "Group1 Attribute", rowcounter);
->>>>>>> 47bd042 exce and "AsignmentProfiletest" file changed
 		String[] Country_Region=GroupAttribute.split(";");
 		int Rulegroup=0;
 		WebElement Addnewbutton= driver.findElement(By.xpath("(//a[text()='Add Rule'])"+"["+groupcounter+"]"));
@@ -385,8 +365,4 @@ public class AssignmentProfileTest {
 		}
 		return desireelement;
 	}
-<<<<<<< Upstream, based on origin/master
 }
-=======
-}
->>>>>>> 47bd042 exce and "AsignmentProfiletest" file changed
