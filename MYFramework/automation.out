@@ -6785,3 +6785,55 @@ All
 2020-09-13 23:28:40 INFO  AssignmentProfileTest:181 - the input box for20200722  option is clicked
 2020-09-13 23:28:42 INFO  AssignmentProfileTest:181 - the input box forGENERAL  option is clicked
 2020-09-13 23:29:03 INFO  AssignmentProfileTest:249 - Incorrect securitydomain name is provided
+2020-09-14 09:24:40 INFO  AssignmentProfileTest:65 -  Window is miximized
+2020-09-14 09:24:43 INFO  AssignmentProfileTest:70 - url is launched
+2020-09-14 09:26:53 INFO  AssignmentProfileTest:181 - the input box forCOM_TEST  option is clicked
+2020-09-14 09:26:56 INFO  AssignmentProfileTest:181 - the input box forTestLirbrary  option is clicked
+2020-09-14 09:29:24 INFO  AssignmentProfileTest:244 - Testcase execute for1 time
+2020-09-14 09:29:45 INFO  AssignmentProfileTest:65 -  Window is miximized
+2020-09-14 09:29:48 INFO  AssignmentProfileTest:70 - url is launched
+2020-09-14 09:31:47 INFO  AssignmentProfileTest:181 - the input box for20200722  option is clicked
+2020-09-14 09:31:48 INFO  AssignmentProfileTest:181 - the input box forGENERAL  option is clicked
+2020-09-14 09:32:10 INFO  AssignmentProfileTest:249 - Incorrect securitydomain name is provided
+2020-09-14 09:32:40 INFO  AssignmentProfileTest:65 -  Window is miximized
+2020-09-14 09:32:42 INFO  AssignmentProfileTest:70 - url is launched
+2020-09-14 09:34:45 INFO  AssignmentProfileTest:181 - the input box forGamification_Catalog  option is clicked
+2020-09-14 09:34:47 INFO  AssignmentProfileTest:181 - the input box forCOM_TEST  option is clicked
+2020-09-14 09:36:27 INFO  AssignmentProfileTest:244 - Testcase execute for2 time
+2020-09-14 19:19:05 INFO  AssignmentProfileTest:65 -  Window is miximized
+2020-09-14 19:19:13 INFO  AssignmentProfileTest:70 - url is launched
+2020-09-14 19:22:00 INFO  AssignmentProfileTest:181 - the input box forCOM_TEST  option is clicked
+2020-09-14 19:22:03 INFO  AssignmentProfileTest:181 - the input box forTestLirbrary  option is clicked
+2020-09-14 19:24:29 INFO  AssignmentProfileTest:244 - Testcase execute for1 time
+2020-09-14 19:24:48 INFO  AssignmentProfileTest:65 -  Window is miximized
+2020-09-14 19:25:03 INFO  AssignmentProfileTest:70 - url is launched
+2020-09-22 12:13:30 INFO  TestThreashorld_Limit:27 -  Window is miximized
+2020-09-22 12:13:33 INFO  TestThreashorld_Limit:32 - url is launched
+2020-09-22 12:15:47 INFO  TestThreashorld_Limit:27 -  Window is miximized
+2020-09-22 12:15:49 INFO  TestThreashorld_Limit:32 - url is launched
+2020-09-22 12:36:05 INFO  TestThreashorld_Limit:30 -  Window is miximized
+2020-09-22 12:36:11 INFO  TestThreashorld_Limit:35 - url is launched
+2020-09-22 12:39:28 INFO  TestThreashorld_Limit:30 -  Window is miximized
+2020-09-22 12:39:30 INFO  TestThreashorld_Limit:35 - url is launched
+2020-09-22 12:43:20 INFO  TestThreashorld_Limit:30 -  Window is miximized
+2020-09-22 12:43:23 INFO  TestThreashorld_Limit:35 - url is launched
+2020-09-22 12:46:11 INFO  TestThreashorld_Limit:30 -  Window is miximized
+2020-09-22 12:46:15 INFO  TestThreashorld_Limit:35 - url is launched
+2020-09-22 12:46:53 INFO  TestThreashorld_Limit:30 -  Window is miximized
+2020-09-22 12:46:56 INFO  TestThreashorld_Limit:35 - url is launched
+2020-09-22 12:48:06 INFO  TestThreashorld_Limit:30 -  Window is miximized
+2020-09-22 12:48:08 INFO  TestThreashorld_Limit:35 - url is launched
+2020-09-22 12:49:46 INFO  TestThreashorld_Limit:30 -  Window is miximized
+2020-09-22 12:49:48 INFO  TestThreashorld_Limit:35 - url is launched
+2020-09-22 12:52:13 INFO  TestThreashorld_Limit:30 -  Window is miximized
+2020-09-22 12:52:16 INFO  TestThreashorld_Limit:35 - url is launched
+2020-09-22 12:56:23 INFO  TestThreashorld_Limit:30 -  Window is miximized
+2020-09-22 12:56:27 INFO  TestThreashorld_Limit:35 - url is launched
+2020-09-22 12:59:27 INFO  TestThreashorld_Limit:30 -  Window is miximized
+2020-09-22 12:59:30 INFO  TestThreashorld_Limit:35 - url is launched
+2020-09-22 13:02:57 INFO  TestThreashorld_Limit:31 -  Window is miximized
+2020-09-22 13:03:00 INFO  TestThreashorld_Limit:36 - url is launched
+2020-09-22 13:05:41 INFO  TestThreashorld_Limit:31 -  Window is miximized
+2020-09-22 13:05:44 INFO  TestThreashorld_Limit:36 - url is launched
+2020-09-22 13:07:22 INFO  TestThreashorld_Limit:31 -  Window is miximized
+2020-09-22 13:07:25 INFO  TestThreashorld_Limit:36 - url is launched
