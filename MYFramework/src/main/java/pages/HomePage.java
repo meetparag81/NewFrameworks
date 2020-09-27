@@ -16,6 +16,7 @@ import helper.javascriptexecutor.JavascriptHelper;
 import helper.logger.LoggerHelper;
 import helper.resorce.ResourceHelper;
 import testBase.TestBase;
+import helper.TestUtil.CustomMethodhelper;
 
 public class HomePage extends TestBase {
 	@FindBy(xpath="//div[@id='sap-ui-blocklayer-popup' or @class='sapUiBLy sfMFloatingPlusButtonTransparentBlk']")WebElement Add;
@@ -172,7 +173,7 @@ public class HomePage extends TestBase {
 	
 
 	public LearningAdMinistrationPage ClickOnTheTile() throws InterruptedException {
-		TestUtil.WaitTillclickable(LearningAdminstratorTile);
+		CustomMethodhelper.WaitTillElementisnotclickable(LearningAdminstratorTile);
 		TestUtil.ActionForMovetoElement(LearningAdminstratorTile);
 		LearningAdminstratorTile.click();
 		log.info("LearningAdminstratorTile"+ "is clciked");

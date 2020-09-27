@@ -1,10 +1,13 @@
 package MYFramework;
 
+import org.apache.log4j.Logger;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import helper.Excelhelper.Exls_Reader;
+import helper.TestUtil.CustomMethodhelper;
+import helper.logger.LoggerHelper;
 import helper.resorce.ResourceHelper;
 import testBase.TestBase;
 import pages.AssignmentprofilePage;
@@ -19,6 +22,8 @@ public class AssignmentProfileTest extends TestBase {
 	Exls_Reader reader = new Exls_Reader(ResourceHelper.GetResourcePath("\\src\\main\\java\\helper\\exceldata\\LMS_TestData.xlsx"));
 	private LearningAdMinistrationPage LearningadminPage;
 	private AssignmentprofilePage Assignment;
+	private static  Logger log=LoggerHelper.GetLogger(AssignmentProfileTest.class);
+	
 	
 	
 	
@@ -30,8 +35,7 @@ public class AssignmentProfileTest extends TestBase {
 @BeforeMethod
 public void SetUp() throws InterruptedException{
 	System.out.println();
-	TestBase.initalization();
-	
+	TestBase.initalization();	
 	LoginPage = new LoginPage();
 	//HomePage= LoginPage.login(prop.getProperty("username"), prop.getProperty("password"));
 	String username = reader.getCellData("LMSData", "Username", 2);
@@ -44,11 +48,13 @@ public void SetUp() throws InterruptedException{
 }
 
 @Test
-public void Test(String profileid){
+public void FillTheMandetoryDetailsTest() throws InterruptedException{
 	
 	Assignment.ClickonAddNew();
+	 
+	String profileid = null;
 	for(int i=2;i<reader.getRowCount("LMSData");
-	profileid = reader.getCellData("LMSData", "Assignment_Profile_ID", i));
+	  profileid = reader.getCellData("LMSData", "Assignment_Profile_ID", i));
 	Assignment.FillTheMandetoryDetails(profileid);
 	
 }

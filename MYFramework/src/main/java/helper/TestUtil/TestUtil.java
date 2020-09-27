@@ -34,6 +34,7 @@ private static  Logger log=LoggerHelper.GetLogger(TestUtil.class);
 private static String destination;
 private static JavascriptExecutor jsExec;
 protected static WebDriverWait wait;
+public static long webdriverTimeout=30;
 
 	
 	

@@ -7,6 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import PagesForRCM.AddNewClassPage;
 import helper.Excelhelper.Exls_Reader;
+import helper.TestUtil.CustomMethodhelper;
 import helper.TestUtil.TestUtil;
 import helper.logger.LoggerHelper;
 import helper.resorce.ResourceHelper;
@@ -90,13 +91,13 @@ return new AddNewClassPage();
 	}
 	public AssignmentprofilePage ClickOnAssignMentProfiles(){
 		try{
-			TestUtil.VisibleOn(driver, assignmentprofiles, 05);
+			CustomMethodhelper.WaitTillElementisnotclickable(assignmentprofiles).click();
 		}
 		catch (Exception e) {
 			log.info(e.getStackTrace());
 		}
-		assignmentprofiles.click();
 		return new AssignmentprofilePage();
+		
 	}
 	
 	public LibrariesPage ClickonLibraries(){
