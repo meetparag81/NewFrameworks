@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="MYFramework.AssignmentProfileTest">
+      <class name="general.ActionclassTest">
         <methods>
-          <include name="FillTheMandetoryDetailsTest"/>
-          <include name="SetUp"/>
-          <include name="voidTearDown"/>
+          <include name="Teardown"/>
+          <include name="MoveToElement"/>
+          <include name="Setup"/>
         </methods>
-      </class> <!-- MYFramework.AssignmentProfileTest -->
+      </class> <!-- general.ActionclassTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

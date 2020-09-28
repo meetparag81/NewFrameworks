@@ -17,12 +17,12 @@ public class Actionhelper extends  TestBase {
 	}
 	
 	public static void draganddrop(WebElement drag, WebElement drop){
-		 act = new Actions(driver);
+		
 		act.dragAndDrop(drag, drop).build().perform();
 	}
 	
 	public static void Sendtextincapitalletter(WebElement ele,String input){
-		 act = new Actions(driver);
+		
 		act.click(ele).keyDown(Keys.SHIFT).sendKeys(input);
 	}
 

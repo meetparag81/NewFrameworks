@@ -37,7 +37,7 @@ public class TestBase {
 		FileInputStream ip;
 		try {
 			prop = new Properties();
-			
+
 			ip = new FileInputStream(ResourceHelper.GetResourcePath("\\src\\main\\resorces\\configfile\\config.proerties"));
 			try {
 				prop.load(ip);
@@ -52,7 +52,7 @@ public class TestBase {
 
 	}
 
-	public static void initalization() {
+	public static void initalization(String url) {
 
 		String browsername = prop.getProperty("browser");
 		String ExecuteinBackground= prop.getProperty("Backgroundexecution");
@@ -61,7 +61,7 @@ public class TestBase {
 			System.setProperty("webdriver.gecko.driver",ResourceHelper.GetResourcePath("\\src\\main\\resorces\\driver\\geckodriver.exe"));
 			driver = new FirefoxDriver();
 		} else if (browsername.equals("chrome")) {
-			
+
 			DesiredCapabilities capabilities = DesiredCapabilities.chrome();
 			ChromeOptions options = new ChromeOptions();
 			options.addArguments("--start-maximized");
@@ -73,7 +73,7 @@ public class TestBase {
 			Map<String, Object> prefs = new HashMap<String, Object>();
 			prefs.put("credentials_enable_service", false);
 			prefs.put("profile.password_manager_enabled", false);
-			
+
 			prefs.put("profile.default_content_setting_values.plugins", 1);
 			prefs.put("profile.content_settings.plugin_whitelist.adobe-flash-player", 1);
 			prefs.put("profile.content_settings.exceptions.plugins.*,*.per_resource.adobe-flash-player", 1);
@@ -82,44 +82,64 @@ public class TestBase {
 			options.setExperimentalOption("prefs", prefs);
 			capabilities.setCapability(ChromeOptions.CAPABILITY, options);
 
-			
-			
+
+
 			System.setProperty("webdriver.chrome.driver",ResourceHelper.GetResourcePath("\\src\\main\\resorces\\driver\\chromedriver.exe"));
-		
+
 			driver = new ChromeDriver(capabilities); 
 			log.info(" chrome driver initalized");
 			String local = "true";
 		}
-			else if (browsername.equals("IE")) {
-				System.setProperty("\"webdriver. ie. driver", ResourceHelper.GetResourcePath("\\src\\main\\resorces\\driver\\IEDriverServer.exe"));
-				driver = new InternetExplorerDriver();
-				log.info(" InternetExplorerDriver initalized");
-			}
-			try {
-				driver.manage().window().maximize();
-				log.info(" Window is miximized");
-				
-			} 
-			catch (WebDriverException e) {
-				log.info("Webdriver exception seen");
-			}
-			driver.manage().deleteAllCookies();
-			driver.manage().timeouts().pageLoadTimeout(TestUtil.PAGE_LOAD_TIMEOUT, TimeUnit.SECONDS);
-			driver.manage().timeouts().implicitlyWait(TestUtil.IMPLICIT_WAIT, TimeUnit.SECONDS);
-			try {
+		else if (browsername.equals("IE")) {
+			System.setProperty("\"webdriver. ie. driver", ResourceHelper.GetResourcePath("\\src\\main\\resorces\\driver\\IEDriverServer.exe"));
+			driver = new InternetExplorerDriver();
+			log.info(" InternetExplorerDriver initalized");
+		}
+		try {
+			driver.manage().window().maximize();
+			log.info(" Window is miximized");
+
+		} 
+		catch (WebDriverException e) {
+			log.info("Webdriver exception seen");
+		}
+		driver.manage().deleteAllCookies();
+		driver.manage().timeouts().pageLoadTimeout(TestUtil.PAGE_LOAD_TIMEOUT, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(TestUtil.IMPLICIT_WAIT, TimeUnit.SECONDS);
+
+		if(url.isEmpty()){
+
+
+			try{				
 				driver.get(prop.getProperty("url"));
 				log.info("url is launched");
-			} catch (Exception e) {
+			} 
+			catch (Exception e) {
 				log.info("url is not launched");
-
+				e.getStackTrace();
 			}
 
 		}
-	
-	
+		else {
+			try{				
+				driver.get(url);
+				log.info("url is launched");
+			} 
+			catch (Exception e) {
+				log.info("url is not launched");
+				e.getStackTrace();
+			}
+			
+
+		}
+	}
+
+
+
+
 	public static void main(String[] args) {
-		
+
 		System.out.println(ResourceHelper.GetResourcePath("\\src\\main\\resorces\\configfile\\config.proerties"));
-		
+
 	}
 }
