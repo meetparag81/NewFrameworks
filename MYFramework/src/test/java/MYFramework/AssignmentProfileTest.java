@@ -35,7 +35,7 @@ public class AssignmentProfileTest extends TestBase {
 @BeforeMethod
 public void SetUp() throws InterruptedException{
 	System.out.println();
-	TestBase.initalization();	
+	TestBase.initalization("");	
 	LoginPage = new LoginPage();
 	//HomePage= LoginPage.login(prop.getProperty("username"), prop.getProperty("password"));
 	String username = reader.getCellData("LMSData", "Username", 2);

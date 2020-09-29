@@ -30,7 +30,7 @@ public class LMSCatlogTest extends TestBase   {
 	@BeforeMethod
 	public void Setup() throws InterruptedException{
 		System.out.println();
-		TestBase.initalization();
+		TestBase.initalization("");
 		LoginPage = new LoginPage();
 		String username = reader.getCellData("AddLibraries", "username", 2);
 		String password = reader.getCellData("AddLibraries", "password", 2);

@@ -6932,3 +6932,50 @@ All
 2020-09-28 12:26:17 INFO  TestBase:90 -  chrome driver initalized
 2020-09-28 12:26:19 INFO  TestBase:100 -  Window is miximized
 2020-09-28 12:26:24 INFO  TestBase:126 - url is launched
+2020-09-28 16:17:07 INFO  TestBase:90 -  chrome driver initalized
+2020-09-28 16:17:10 INFO  TestBase:100 -  Window is miximized
+2020-09-28 16:17:15 INFO  TestBase:126 - url is launched
+2020-09-28 16:25:52 INFO  TestBase:90 -  chrome driver initalized
+2020-09-28 16:25:54 INFO  TestBase:100 -  Window is miximized
+2020-09-28 16:25:58 INFO  TestBase:126 - url is launched
+2020-09-28 16:28:25 INFO  TestBase:90 -  chrome driver initalized
+2020-09-28 16:28:27 INFO  TestBase:100 -  Window is miximized
+2020-09-28 16:28:30 INFO  TestBase:126 - url is launched
+2020-09-28 16:29:08 INFO  TestBase:90 -  chrome driver initalized
+2020-09-28 16:29:10 INFO  TestBase:100 -  Window is miximized
+2020-09-28 16:29:15 INFO  TestBase:126 - url is launched
+2020-09-28 16:29:47 INFO  TestNGListners:44 - screenshot for failtestcase is started
+2020-09-28 16:29:47 INFO  TestNGListners:46 - screenshot for failtestcase is taken
+2020-09-28 16:29:47 INFO  TestUtil:143 - Screenshot Name isMoveToElement.png
+2020-09-28 16:29:47 INFO  TestUtil:151 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/FailedTestsScreenshots/MoveToElement28,09,2020,04-29-47.png
+2020-09-28 17:18:22 INFO  TestBase:90 -  chrome driver initalized
+2020-09-28 17:18:25 INFO  TestBase:100 -  Window is miximized
+2020-09-28 17:18:28 INFO  TestBase:126 - url is launched
+2020-09-28 17:18:59 INFO  TestNGListners:44 - screenshot for failtestcase is started
+2020-09-28 17:18:59 INFO  TestNGListners:46 - screenshot for failtestcase is taken
+2020-09-28 17:19:00 INFO  TestUtil:143 - Screenshot Name isMoveToElement.png
+2020-09-28 17:19:00 INFO  TestUtil:151 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/FailedTestsScreenshots/MoveToElement28,09,2020,05-18-59.png
+2020-09-28 17:22:03 INFO  TestBase:90 -  chrome driver initalized
+2020-09-28 17:22:05 INFO  TestBase:100 -  Window is miximized
+2020-09-28 17:22:08 INFO  TestBase:126 - url is launched
+2020-09-28 17:23:02 INFO  TestBase:90 -  chrome driver initalized
+2020-09-28 17:23:04 INFO  TestBase:100 -  Window is miximized
+2020-09-28 17:23:08 INFO  TestBase:126 - url is launched
+2020-09-28 17:38:17 INFO  TestBase:90 -  chrome driver initalized
+2020-09-28 17:38:19 INFO  TestBase:100 -  Window is miximized
+2020-09-28 17:38:23 INFO  TestBase:126 - url is launched
+2020-09-28 18:24:57 INFO  TestBase:90 -  chrome driver initalized
+2020-09-28 18:25:00 INFO  TestBase:100 -  Window is miximized
+2020-09-28 18:25:03 INFO  TestBase:126 - url is launched
+2020-09-28 18:27:16 INFO  TestBase:90 -  chrome driver initalized
+2020-09-28 18:27:18 INFO  TestBase:100 -  Window is miximized
+2020-09-28 18:27:23 INFO  TestBase:126 - url is launched
+2020-09-28 18:36:59 INFO  TestBase:90 -  chrome driver initalized
+2020-09-28 18:37:01 INFO  TestBase:100 -  Window is miximized
+2020-09-28 18:37:05 INFO  TestBase:126 - url is launched
+2020-09-28 18:39:12 INFO  TestBase:90 -  chrome driver initalized
+2020-09-28 18:39:15 INFO  TestBase:100 -  Window is miximized
+2020-09-28 18:39:18 INFO  TestBase:126 - url is launched
+2020-09-28 18:41:26 INFO  TestBase:90 -  chrome driver initalized
+2020-09-28 18:41:28 INFO  TestBase:100 -  Window is miximized
+2020-09-28 18:41:31 INFO  TestBase:126 - url is launched
