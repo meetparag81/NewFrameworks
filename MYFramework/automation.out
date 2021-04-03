@@ -6979,3 +6979,14 @@ All
 2020-09-28 18:41:26 INFO  TestBase:90 -  chrome driver initalized
 2020-09-28 18:41:28 INFO  TestBase:100 -  Window is miximized
 2020-09-28 18:41:31 INFO  TestBase:126 - url is launched
+2020-10-03 20:16:01 INFO  TestBase:90 -  chrome driver initalized
+2020-10-03 20:16:03 INFO  TestBase:100 -  Window is miximized
+2020-10-03 20:16:25 INFO  TestBase:115 - url is launched
+2020-10-03 20:17:40 INFO  TestBase:90 -  chrome driver initalized
+2020-10-03 20:17:42 INFO  TestBase:100 -  Window is miximized
+2020-10-03 20:17:52 INFO  TestBase:115 - url is launched
+2020-10-03 20:19:06 INFO  HomePage:179 - LearningAdminstratorTileis clciked
+2020-10-03 20:19:54 INFO  TestNGListners:44 - screenshot for failtestcase is started
+2020-10-03 20:19:54 INFO  TestNGListners:46 - screenshot for failtestcase is taken
+2020-10-03 20:19:55 INFO  TestUtil:143 - Screenshot Name isCreateClassTest.png
+2020-10-03 20:19:55 INFO  TestUtil:151 -  Failed screenshot saved at DestinationLocationC:\Users\parag.borawake\git\NewFrameworks_1\MYFramework/FailedTestsScreenshots/CreateClassTest03,10,2020,08-19-54.png

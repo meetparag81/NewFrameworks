@@ -1,7 +1,6 @@
 package helper.TestUtil;
 
 import org.apache.log4j.Logger;
-import org.openqa.selenium.Alert;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
@@ -67,7 +66,7 @@ public class CustomMethodhelper extends TestBase {
 
 	public void waitForJQueryLoad() {
 		try {
-			ExpectedCondition<Boolean> jQueryLoad = driver -> ((Long) ((JavascriptExecutor) this.driver).executeScript("return jQuery.active") == 0);
+			ExpectedCondition<Boolean> jQueryLoad = driver -> ((Long) ((JavascriptExecutor) TestBase.driver).executeScript("return jQuery.active") == 0);
 			boolean jqueryReady = (Boolean) jsExec.executeScript("return jQuery.active==0");
 			if (!jqueryReady) {
 				wait.until(jQueryLoad);

@@ -10,22 +10,17 @@ import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.net.UrlChecker.TimeoutException;
-import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.events.WebDriverEventListener;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import frame.helper.IframeHelper;
 import helper.Excelhelper.Exls_Reader;
 import helper.TestUtil.TestUtil;
 import helper.logger.LoggerHelper;
 import helper.resorce.ResourceHelper;
-import testBase.TestBase;
 
 public class LMSTest {
 	private static WebDriver driver;
@@ -243,6 +238,7 @@ int count = reader.getRowCount("LMSData");
 	public static boolean waitForLoad(WebDriver driver) {
 		ExpectedCondition<Boolean> pageLoadCondition = new
 				ExpectedCondition<Boolean>() {
+			@Override
 			public Boolean apply(WebDriver driver) {
 				 return ((JavascriptExecutor)driver).executeScript("return document.readyState").equals("complete");
 			}

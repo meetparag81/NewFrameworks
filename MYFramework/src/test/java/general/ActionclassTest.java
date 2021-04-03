@@ -1,14 +1,9 @@
 package general;
 
-import javax.xml.xpath.XPath;
-
-import org.openqa.selenium.By;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-import actions.Actionhelper;
-import helper.TestUtil.CustomMethodhelper;
 import pages.ActionclassPage;
 import pages.HomePage;
 import testBase.TestBase;

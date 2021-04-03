@@ -9,8 +9,6 @@ import org.openqa.selenium.support.events.WebDriverEventListener;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
-import org.testng.internal.TestResult;
-
 import helper.TestUtil.TestUtil;
 import helper.logger.LoggerHelper;
 import testBase.TestBase;

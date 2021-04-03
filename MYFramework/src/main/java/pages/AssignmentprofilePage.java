@@ -6,7 +6,6 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import helper.TestUtil.CustomMethodhelper;
-import helper.TestUtil.TestUtil;
 import helper.logger.LoggerHelper;
 import testBase.TestBase;
 

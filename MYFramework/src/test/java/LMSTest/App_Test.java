@@ -31,11 +31,11 @@ public class App_Test extends TestBase
 	public void SetUp() throws InterruptedException
 	{
 		
-		TestBase.initalization();
+		TestBase.initalization("");
 		LoginPage = new LoginPage();
 		System.out.println();
 		String username = reader.getCellData("LMSData", "Username", 2);
-		String password = reader.getCellData("Login", "Password", 2);
+		String password = reader.getCellData("LMSData", "Password", 2);
 		Homepage= LoginPage.login(username, password);
 		LearningAdminPage=Homepage.ClickOnTheTile();
 		

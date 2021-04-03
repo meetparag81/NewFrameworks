@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="general.ActionclassTest">
+      <class name="LMSTest.App_Test">
         <methods>
-          <include name="Teardown"/>
-          <include name="MoveToElement"/>
-          <include name="Setup"/>
+          <include name="TerDown"/>
+          <include name="SetUp"/>
+          <include name="CreateClassTest"/>
         </methods>
-      </class> <!-- general.ActionclassTest -->
+      </class> <!-- LMSTest.App_Test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

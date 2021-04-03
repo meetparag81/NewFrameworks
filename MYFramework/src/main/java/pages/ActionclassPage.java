@@ -38,7 +38,7 @@ public class ActionclassPage extends TestBase {
 		
 		if( CustomMethodhelper.iselementExists(username)){
 			String username=reader.getCellData("ActionTest", "username", 2);
-			CustomMethodhelper.enterText(username,"9850049989" );
+			CustomMethodhelper.enterText(this.username,"9850049989" );
 			if( CustomMethodhelper.iselementExists(continuebutton)){
 				continuebutton.click();
 			}

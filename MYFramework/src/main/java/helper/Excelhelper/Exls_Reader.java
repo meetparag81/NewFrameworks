@@ -6,8 +6,6 @@ import java.io.IOException;
 import java.util.Calendar;
 
 import org.apache.poi.common.usermodel.Hyperlink;
-import org.apache.poi.hssf.usermodel.HSSFCellStyle;
-import org.apache.poi.hssf.usermodel.HSSFDateUtil;
 import org.apache.poi.hssf.util.HSSFColor;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.CellStyle;
@@ -500,10 +498,11 @@ public Exls_Reader(String path)
 			System.out.println(filename);
 			Exls_Reader datatable = null;
 			
-
+			
 				 datatable = new Exls_Reader(System.getProperty("user.dir")+"\\src\\main\\java\\helper\\exceldata.xlsx");
 					for(int col=0 ;col< datatable.getColumnCount("TC5"); col++){
-						System.out.println(datatable.getCellData("TC5", col, 1)); 
+						System.out.println(datatable.getCellData("TC5", col, 1));
+						
 					} 
 		}
 		

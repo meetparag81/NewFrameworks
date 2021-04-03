@@ -2,21 +2,14 @@ package pages;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.concurrent.TimeUnit;
-
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.annotations.BeforeMethod;
-
 import MYFramework.MYFramework.CreateCatlougeTest;
 import helper.Excelhelper.Exls_Reader;
-import helper.TestUtil.TestUtil;
 import helper.logger.LoggerHelper;
 import helper.resorce.ResourceHelper;
 import testBase.TestBase;

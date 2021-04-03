@@ -1,6 +1,5 @@
 package LMSTest;
 
-import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
@@ -30,7 +29,7 @@ private LearningUserPage LearningUserPage;
 	public void SetUp() throws InterruptedException
 	{
 		
-		TestBase.initalization();
+		TestBase.initalization("");
 		LoginPage = new LoginPage();
 		System.out.println();
 		String username = reader.getCellData("Login", "Username", 2);

@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
+<testng-results skipped="0" failed="1" ignored="1" total="2" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="47012" started-at="2020-09-28T11:48:14Z" finished-at="2020-09-28T11:49:01Z">
+  <suite name="Default suite" duration-ms="143313" started-at="2020-10-03T14:47:33Z" finished-at="2020-10-03T14:49:57Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="47012" started-at="2020-09-28T11:48:14Z" finished-at="2020-09-28T11:49:01Z">
-      <class name="general.ActionclassTest">
-        <test-method status="PASS" signature="Setup()[pri:0, instance:general.ActionclassTest@7817fd62]" name="Setup" is-config="true" duration-ms="13544" started-at="2020-09-28T17:18:14Z" finished-at="2020-09-28T17:18:28Z">
+    <test name="Default test" duration-ms="143313" started-at="2020-10-03T14:47:33Z" finished-at="2020-10-03T14:49:57Z">
+      <class name="LMSTest.App_Test">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:LMSTest.App_Test@1c3146bc]" name="SetUp" is-config="true" duration-ms="97659" started-at="2020-10-03T20:17:33Z" finished-at="2020-10-03T20:19:11Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Setup -->
-        <test-method status="FAIL" signature="MoveToElement()[pri:0, instance:general.ActionclassTest@7817fd62]" name="MoveToElement" duration-ms="31296" started-at="2020-09-28T17:18:28Z" finished-at="2020-09-28T17:18:59Z">
+        </test-method> <!-- SetUp -->
+        <test-method status="FAIL" signature="CreateClassTest()[pri:1, instance:LMSTest.App_Test@1c3146bc]" name="CreateClassTest" duration-ms="43222" started-at="2020-10-03T20:19:11Z" finished-at="2020-10-03T20:19:54Z">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"nav-link-accountList"}
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"(//iframe[contains(@name,'iframe')])[2]"}
   (Session info: chrome=85.0.4183.121)
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
-System info: host: 'P2CLAP-G01L1VH', ip: '192.168.0.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+System info: host: 'P2CLAP-G01L1VH', ip: '192.168.225.148', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}), userDataDir=C:\Users\PARAG~1.BOR\AppData\Local\Temp\scoped_dir19048_1205448209}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:60250}, acceptInsecureCerts=false, browserVersion=85.0.4183.121, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:virtualAuthenticators=true}]
-Session ID: 7f9057c349753448f1318f75a8394971
-*** Element info: {Using=xpath, value=nav-link-accountList}]]>
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}), userDataDir=C:\Users\PARAG~1.BOR\AppData\Local\Temp\scoped_dir4072_238935253}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:57810}, acceptInsecureCerts=false, browserVersion=85.0.4183.121, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:virtualAuthenticators=true}]
+Session ID: a7c873b3451fb0ecfc9dbd3f953d8e1f
+*** Element info: {Using=xpath, value=(//iframe[contains(@name,'iframe')])[2]}]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"nav-link-accountList"}
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//iframe[contains(@name,'iframe')])[2]"}
   (Session info: chrome=85.0.4183.121)
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
-System info: host: 'P2CLAP-G01L1VH', ip: '192.168.0.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+System info: host: 'P2CLAP-G01L1VH', ip: '192.168.225.148', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}), userDataDir=C:\Users\PARAG~1.BOR\AppData\Local\Temp\scoped_dir19048_1205448209}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:60250}, acceptInsecureCerts=false, browserVersion=85.0.4183.121, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:virtualAuthenticators=true}]
-Session ID: 7f9057c349753448f1318f75a8394971
-*** Element info: {Using=xpath, value=nav-link-accountList}
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}), userDataDir=C:\Users\PARAG~1.BOR\AppData\Local\Temp\scoped_dir4072_238935253}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:57810}, acceptInsecureCerts=false, browserVersion=85.0.4183.121, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:virtualAuthenticators=true}]
+Session ID: a7c873b3451fb0ecfc9dbd3f953d8e1f
+*** Element info: {Using=xpath, value=(//iframe[contains(@name,'iframe')])[2]}
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -48,7 +48,14 @@ Session ID: 7f9057c349753448f1318f75a8394971
 	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:518)
 	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:408)
-	at general.ActionclassTest.MoveToElement(ActionclassTest.java:26)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy10.getWrappedElement(Unknown Source)
+	at org.openqa.selenium.remote.internal.WebElementToJsonConverter.apply(WebElementToJsonConverter.java:51)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.frame(RemoteWebDriver.java:988)
+	at frame.helper.IframeHelper.SwitchToFrame(IframeHelper.java:52)
+	at pages.LearningAdMinistrationPage.AddNewClass(LearningAdMinistrationPage.java:68)
+	at LMSTest.App_Test.CreateClassTest(App_Test.java:53)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -79,12 +86,12 @@ Session ID: 7f9057c349753448f1318f75a8394971
           </exception> <!-- org.openqa.selenium.NoSuchElementException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- MoveToElement -->
-        <test-method status="PASS" signature="Teardown()[pri:0, instance:general.ActionclassTest@7817fd62]" name="Teardown" is-config="true" duration-ms="1379" started-at="2020-09-28T17:19:00Z" finished-at="2020-09-28T17:19:01Z">
+        </test-method> <!-- CreateClassTest -->
+        <test-method status="PASS" signature="TerDown()[pri:0, instance:LMSTest.App_Test@1c3146bc]" name="TerDown" is-config="true" duration-ms="1280" started-at="2020-10-03T20:19:55Z" finished-at="2020-10-03T20:19:57Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Teardown -->
-      </class> <!-- general.ActionclassTest -->
+        </test-method> <!-- TerDown -->
+      </class> <!-- LMSTest.App_Test -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
